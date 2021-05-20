@@ -7,6 +7,7 @@
 * [Get Started: Disclaimer](basic-information/financial-disclaimer.md)
 * [The Problem and Solution](basic-information/the-problem-and-solution.md)
 * [Main Features](basic-information/main-features/README.md)
+  * [NFTs](basic-information/main-features/nfts.md)
   * [Graves](basic-information/main-features/graves/README.md)
     * [Grave Lockup Periods](basic-information/main-features/graves/grave-lockup-periods.md)
   * [Tombs](basic-information/main-features/tombs.md)
@@ -28,6 +29,7 @@
   * [Migrator Code](security-and-team-information/basic-team-security-information/migrator-code.md)
   * [Emergency Withdraw](security-and-team-information/basic-team-security-information/emergency-withdraw.md)
   * [Time Lock](security-and-team-information/basic-team-security-information/time-lock.md)
+  * [Preventative Double Rug Measures](security-and-team-information/basic-team-security-information/preventative-double-rug-measures.md)
   * [API information](security-and-team-information/basic-team-security-information/api-information.md)
 * [Join Our Team](security-and-team-information/join-our-team-of-dr.-frankensteins.md)
 
