@@ -2,9 +2,9 @@
 
 ## Anonymous Team \(we know, sounds bad\)
 
-While a generally accepted practice in DeFi, anonymous teams create a risk for all parties involved, especially end users of tokens. Many “rugged” projects have anonymous teams which allow them to act in bad faith toward their token holders without risk.
+While a generally accepted practice in DeFi, anonymous teams create a risk for all parties involved, especially end users of tokens. Many rugged projects have anonymous teams which allow them to act in bad faith toward their token holders without risk.
 
-At the same time, our team knows the unique problems facing developers and see the risk doxed devs carry as a result for their transparency. There is no simple solution. Anonymity allows us to really rely on the strength of our code, added security features, and decentralized efforts, while protecting our personal lives. 
+At the same time, our team knows the unique problems facing developers and see the risk doxed devs carry as a result for their transparency. There is no simple solution. Anonymity allows us to really rely on the strength of our code, added security features, and decentralized efforts, while protecting our personal lives from being harrassed by some of you unsavory folk. 
 
 While our team has chosen to remain anonymous to the public, we will have doxed with one another before launch, and have set up a number of security features that we believe will generate trust from token holders:
 
