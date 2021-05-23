@@ -8,9 +8,9 @@ At the same time, our team knows the unique problems facing developers and see t
 
 While our team has chosen to remain anonymous to the public, we will have doxed with one another before launch, and have set up a number of security features that we believe will generate trust from token holders:
 
-●  Good Code: Our code is transparently placed on GitHub and available for you to review;
+●  Good Code: Our code is transparently placed on [GitHub](../../other-links/contracts.md) and available for you to review;
 
-●  Audits: Beginning with TechRate \(before launch\) and eventually Certik and others. Audits don’t make a project safe, but they show good-faith effort by developers because audits cost money and time. We will also welcome community audits through active crypto community voices.
+●  [Audits](audits.md): Beginning with TechRate \(before launch\) and eventually Certik and others. Audits don’t make a project safe, but they show good-faith effort by developers because audits cost money and time. We will also welcome community audits through active crypto community voices and plan to acquire a few of these.
 
 ●  [Migration code removed](migrator-code.md), time-lock features enabled
 
@@ -22,7 +22,7 @@ While our team has chosen to remain anonymous to the public, we will have doxed 
 
 and eventually 
 
-●  Community Governance
+●  Community Governance to further de-risk our platform
 
 ## How Many Are on the Team? 
 
