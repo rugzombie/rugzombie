@@ -8,7 +8,7 @@ description: For the nosy people.
 
 Visit PancakeSwap at https://exchange.pancakeswap.finance/\#/swap, and enter $ZMBE contract address \[INSERT ADDRESS\] and swap using $BNB. 
 
-Additionally, you may purchase $ZMBE on our site at www.rugzombie.io.
+Additionally, you may purchase $ZMBE on our site at www.rugzombie.io using our exchange or zap feature. 
 
 In order to interface with PancakeSwap you will need create a Binance Smart Chain \(BSC\) wallet with either Trust Wallet or MetaMask and fund it with $BNB to purchase $ZMBE and to pay network fees.
 
@@ -20,11 +20,11 @@ MetaMask - https://metamask.io/
 
 It is gravely serious situation when a project is “rugged” or deemed a scam. \(See what we did with that pun?\)
 
-Our team has a process to determine what projects we will list in our Graves and Tombs. Some tokens are clearly a rugged/scammed project, some are dead due to developer inactivity.
+Our team has a process to determine what projects we will list in our graves and tombs. Some tokens are clearly a rugged/scammed project, some are dead due to developer inactivity.
 
 Our team will consult a variety of elements to know what projects to list as we know the act of declaring a token dead is a quite a serious statement. A few considerations our team has:
 
-●  How long has the project been deemed “dead” \(this is an effort to avoid malicious attempts to rug tokens on purpose in order to rob our Tombs of liquidity\);
+●  How long has the project been deemed “dead” \(this is an effort to avoid malicious attempts to rug tokens on purpose in order to rob our tombs of liquidity\);
 
 ●  GitHub activity and existence of rug-features such as migration codes, minting features, etc.;
 
@@ -40,7 +40,7 @@ We may move cross-chain in the future on our mission to zombify the blockchain w
 
 ## Can I make a suggestion? 
 
-Sure! Our team is very interested to hear from our community of grave-diggers \(that's you\). Please see our suggestion box to make your thoughts known, or just hit us up in the telegram chat.
+Sure! Our team is very interested to hear from our community of grave-diggers \(that's you\). Please see our suggestion box to make your thoughts known, or just hit us up in the [telegram chat](socials.md).
 
 
 
