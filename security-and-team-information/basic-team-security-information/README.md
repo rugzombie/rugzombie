@@ -30,7 +30,7 @@ Our team is a combination of core developers/founders \(dr. frankensteins\), and
 
 Our core dev team has 3 members currently, and we are actively adding more as our project grows. 
 
-We have a number of community leaders who actively manage our socials, marketing, design and other efforts. 
+We have a number of community leaders who actively manage our socials, SEO and web traffic, marketing, partnerships, design and other efforts. 
 
 Interested to join our team? [Click Here](../join-our-team-of-dr.-frankensteins.md). 
 
