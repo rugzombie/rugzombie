@@ -14,3 +14,7 @@ Our team of talented devs \(dr. frankensteins\) are looking for community and bl
 
 ●  Technical Writer
 
+●  NFT artwork/animation
+
+
+
