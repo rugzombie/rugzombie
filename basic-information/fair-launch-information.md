@@ -32,9 +32,9 @@ You may deposit in any [GRAVE](main-features/graves/) or [TOMB](main-features/to
 The dev team has chosen NOT to participate in any IFO because of two main reasons: 
 
 1. The similarity of these events to unregistered securities offerings. Our team is mindful of the legality of such events and have chosen to be conservative for any current or future developers in US territories. 
-2. Creating a presale event allows for sell pressure at launch that unfairly disadvantages the public during an initial launch. Many rug pulls also began with pre-sale events.
+2. Creating a presale event allows for sell pressure at launch that unfairly disadvantages the public during an initial public launch. Many rug pulls also began with pre-sale events.
 
 {% hint style="info" %}
-We received our first TechRate audit before launch to give more investor confidence. Audits of smart contracts with other auditors will come and are built into the roadmap.
+We received our first [TechRate audit](../security-and-team-information/basic-team-security-information/audits.md) before launch to give more investor confidence. Audits of smart contracts with other auditors will come and are built into the roadmap.
 {% endhint %}
 
