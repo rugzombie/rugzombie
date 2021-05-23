@@ -9,18 +9,18 @@ description: How are initial token funds used.
 80% of all our tokens will be time-locked in liquidity contract at fair launch. 
 
 {% hint style="info" %}
-Why not burned wallet address? As the transition of pancakeswap to version 2 displayed, our team wanted the ability to adjust to any issues that may arise. 
+Why not burned wallet address? As the transition of pancakeswap to version 2 demonstrated for many projects on PCS, burned wallet addresses can really destroy a project. Our team wanted the ability to adjust to any issues that may arise over the course of time with new versioning of BSC projects like pancakeswap. 
 {% endhint %}
 
 ## Treasury Funds
 
 10% of the initial supply will be placed in the treasury for the following purposes: 
 
-●  Manual Buyback and Burns
+●  Manual buyback and burns
 
 ●  Paying for audits, product features, and project expenses
 
-●  Marketing and Promotions
+●  Marketing and promotions
 
 ●  Future listings on major exchanges
 
@@ -54,7 +54,7 @@ The Dev Team maintains 10% of initial supply \(a total of 10mil ZMBE\) in vested
 
 24 months: all remaining tokens
 
-As you can see, the time-locks for these funds extend well into the predicted "bear market" after 2021, and as such the selling incentive for developers will be less and less attractive as time goes on. 
+As you can see, the time-locks for these funds are progressive and extend well into the predicted "bear market" after 2021, and as such the selling incentive for developers will be less and less attractive as time goes on. 
 
 
 
