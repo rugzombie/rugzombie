@@ -4,16 +4,14 @@ description: For those worthless dead tokens.
 
 # Graves
 
-Graves are single asset staking pools wherein the user stakes:  
-
+Graves are single asset staking pools wherein the user stakes:
 
 * An "unlock amount" of $ZMBE to unlock the grave
 * At least 1 of the rugged/scammed token 
 
 The user will be rewarded for staking $ZMBE and the rugged token for a certain amount of time \(determined by each pool\) with a single NFT commemorating their rugged token experience. 
 
-There is a deposit fee \(in BNB\) for graves to be unlocked. This deposit fee allows our team to:  
-
+There is a deposit fee \(in BNB\) for graves to be unlocked. This deposit fee allows our team to:
 
 * Buy back and burn ZMBE
 * Pay our starving artists

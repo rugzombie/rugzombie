@@ -18,12 +18,12 @@ Estimated Target Date:
 
 * No Presale 
 * No Pre-mine
-* Pancakeswap Liquidity added at farming start
-* Emission Rate: 5 ZMBE per block
-* Initial Supply: 100million ZMBE
-* 80% Supply to Initial Liquidity
-* 10% to Developer Wallet \(vested and time locked\) 
-* 10% to Treasury Funds
+* Pancakeswap liquidity added at farming start
+* Emission Rate: 5 $ZMBE per block
+* Initial Supply: 100million $ZMBE
+* 80% supply to initial liquidity
+* 10% to developer wallet \([vested and time locked](../tokenomics/initial-token-supply.md#developer-vested-tokens)\) 
+* 10% to treasury funds \([multisignature wallet](../security-and-team-information/basic-team-security-information/)\) 
 
 You may deposit in any [GRAVE](main-features/graves/) or [TOMB](main-features/tombs.md) before farming starts, but please note no farming rewards will be generated until the beginning of farming.
 

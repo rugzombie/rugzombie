@@ -4,11 +4,15 @@ description: Bringing your rugged tokens back from the dead.
 
 # Introduction to RugZombie \($ZMBE\)
 
+> Note: RugZombie is a new project, these documents are living and subject to change. Please stay active and be informed on our [social channels](other-links/socials.md).
+
 Welcome to RugZombie \($ZMBE\), the first resurrected-value focused crypto on the Binance Smart Chain \(for now\). 
 
-While $ZMBE cannot prevent or predict the exposure of the public to “rug pulled” or “scammed” tokens, it is our mission to provide a value for the victims of rug pulled projects in a cathartic way, while offering actual utility on the Binance smart chain. 
+While $ZMBE cannot prevent or predict the exposure of the public to “rug pulled” or “scammed” tokens, it is our mission to provide a value for the victims of rug pulled projects in a cathartic way, while offering actual utility on the Binance Smart Chain. 
 
-Unfortunately, many users of crypto on BSC subject themselves to projects that focus exclusively on “tokenomic gerrymandering” in what can only be called a sophisticated ponzi scheme. 
+Unfortunately, many users of crypto on BSC subject themselves to projects that focus exclusively on tokenomics in what can only be called a sophisticated ponzi scheme, which often result in rug pulls. 
+
+Other tokens lose value as their initial dev team gives up due to lackluster price action and still others are exploited by flash loan attacks, and succumb to other smart contract risks.  
 
 **As an overview, Rug Zombie exists to:**
 
