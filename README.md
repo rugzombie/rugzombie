@@ -26,6 +26,10 @@ Feel free to peruse our docs for any information.
 
 {% page-ref page="basic-information/financial-disclaimer.md" %}
 
+**Due to the recent increase in flash loan attacks, our team is taking proactive measures to prevent these types of exploits:**
+
+{% page-ref page="security-and-team-information/basic-team-security-information/flash-loan-protection.md" %}
+
 **Other Links:**
 
 {% page-ref page="lite-paper.md" %}
