@@ -1,18 +1,18 @@
 ---
-description: The ZMBE-burning crypto offerings.
+description: The ZMBE-burning live offerings.
 ---
 
-# Crypts
+# Spawning Pools
 
-Our Crypts will operate more akin to the syrup pools on pancakeswap, where a user deposits $ZMBE in order to earn new project tokens. 
+Our Spawning Pools \(SPs\) will operate more akin to the syrup pools on pancakeswap, where a user deposits $ZMBE in order to earn live project tokens. 
 
-Our team will do our best to provide due diligence on tokens we offer in the crypts. Because of the sensitive nature of working "around" rugged projects, we are hyper-vigilant about what tokens we offer. 
+Our team will do our best to provide due diligence on tokens we offer in the spawning pools. Because of the sensitive nature of working "around" rugged projects, we are hyper-vigilant about what tokens we offer. 
 
-Rest assured we are doing everything to ensure projects are safe that list in our crypts. With that being said, **please deposit in crypts at your own risk**. 
+Rest assured we are doing everything to ensure projects are safe that list in our crypts. With that being said, **please deposit in spawning pools at your own risk**. 
 
-There is a deposit fee \(in BNB\) for crypts to be unlocked. This deposit fee allows our team to:
+There is a deposit fee \(in BNB\) for SPs to be unlocked. This deposit fee allows our team to:
 
-* Buy back and burn ZMBE
+* Buy back and burn $ZMBE
 * Pay our starving artists
 * Build up our treasury fund for future liquidity pools, audits etc. 
 

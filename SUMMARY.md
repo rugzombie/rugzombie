@@ -11,9 +11,9 @@
   * [Graves](basic-information/main-features/graves/README.md)
     * [Grave Lockup Periods](basic-information/main-features/graves/grave-lockup-periods.md)
   * [Tombs](basic-information/main-features/tombs.md)
-  * [Crypts](basic-information/main-features/crypts.md)
+  * [Spawning Pools](basic-information/main-features/crypts.md)
 * [Fair Launch Information](basic-information/fair-launch-information.md)
-* [ZMBE Roadmap](basic-information/roadmap.md)
+* [$ZMBE Roadmap](basic-information/roadmap.md)
 
 ## Tokenomics
 
