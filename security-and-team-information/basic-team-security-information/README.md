@@ -1,4 +1,4 @@
-# Basic Team Security Information
+# Basic Security Information
 
 ## Anonymous Team \(we know, sounds bad\)
 
@@ -18,7 +18,7 @@ While our team has chosen to remain anonymous to the public, we will have doxed 
 
 ●  [Multi-signature treasury wallet](../../tokenomics/initial-token-supply.md#treasury-funds) and [vested developer tokens](../../tokenomics/initial-token-supply.md#developer-vested-tokens) with timelock
 
-●  [Flash Loan Protection Features](flash-loan-protection.md)
+●  [Flash Loan Protection Features](../flash-loan-protection.md)
 
 ●  Future option to dox or KYC with selected incubators and/or exchanges;
 
