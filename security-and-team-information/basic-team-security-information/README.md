@@ -4,12 +4,6 @@ description: 'Team Information Below, Keep Scrolling for Security Features'
 
 # Basic Security Information
 
-## Anonymous Team \(we know, sounds bad\)
-
-While a generally accepted practice in DeFi, anonymous teams create a risk for all parties involved, especially end users of tokens. Many rugged projects have anonymous teams which allow them to act in bad faith toward their token holders without risk.
-
-At the same time, our team knows the unique problems facing developers and see the risk doxed devs carry as a result for their transparency. There is no simple solution. Anonymity allows us to really rely on the strength of our code, added security features, and decentralized efforts, while protecting our personal lives from being harassed by some of you unsavory folk \(you know who you are\). 
-
 While our team has chosen to remain anonymous to the public, we will have doxed with one another before launch, and have set up a number of security features that we believe will generate trust from token holders:
 
 ●  Good Code: Our code is transparently placed on [GitHub](../../other-links/contracts.md) and available for you to review;
@@ -29,6 +23,14 @@ While our team has chosen to remain anonymous to the public, we will have doxed 
 and eventually 
 
 ●  Community Governance to further de-risk our platform
+
+## Why Anonymous Team \(we know, it sounds bad\)
+
+While a generally accepted practice in DeFi, anonymous teams create a risk for all parties involved, especially end users of tokens. Many rugged projects have anonymous teams which allow them to act in bad faith toward their token holders without risk.
+
+At the same time, our team knows the unique problems facing developers and see the risk doxed devs carry as a result for their transparency. There is no simple solution. Anonymity allows us to really rely on the strength of our code, added security features, and decentralized efforts, while protecting our personal lives from being harassed by some of you unsavory folk \(you know who you are\).
+
+ It also requires that token holders do their own due diligence and research before buying or selling in a risky market like cryptocurrency. 
 
 ## How Many Are on the Team? 
 
