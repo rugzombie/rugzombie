@@ -16,7 +16,7 @@ description: Tokenomics 101
 
 **Initial Supply:** 100million ZMBE
 
-**Emission Rate on Launch:** 5 ZMBE / block
+**Emission Rate on Launch:** 10 ZMBE / block
 
 ## Why ZMBE has no hard capped supply?
 
