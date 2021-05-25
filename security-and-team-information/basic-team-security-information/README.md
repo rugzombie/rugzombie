@@ -4,7 +4,7 @@
 
 While a generally accepted practice in DeFi, anonymous teams create a risk for all parties involved, especially end users of tokens. Many rugged projects have anonymous teams which allow them to act in bad faith toward their token holders without risk.
 
-At the same time, our team knows the unique problems facing developers and see the risk doxed devs carry as a result for their transparency. There is no simple solution. Anonymity allows us to really rely on the strength of our code, added security features, and decentralized efforts, while protecting our personal lives from being harassed by some of you unsavory folk. 
+At the same time, our team knows the unique problems facing developers and see the risk doxed devs carry as a result for their transparency. There is no simple solution. Anonymity allows us to really rely on the strength of our code, added security features, and decentralized efforts, while protecting our personal lives from being harassed by some of you unsavory folk \(you know who you are\). 
 
 While our team has chosen to remain anonymous to the public, we will have doxed with one another before launch, and have set up a number of security features that we believe will generate trust from token holders:
 
@@ -17,6 +17,8 @@ While our team has chosen to remain anonymous to the public, we will have doxed 
 ●  [Initial LP Time-Locked](time-lock.md) and [emergency withdraw feature](emergency-withdraw.md)
 
 ●  [Multi-signature treasury wallet](../../tokenomics/initial-token-supply.md#treasury-funds) and [vested developer tokens](../../tokenomics/initial-token-supply.md#developer-vested-tokens) with timelock
+
+●  [Flash Loan Protection Features](flash-loan-protection.md)
 
 ●  Future option to dox or KYC with selected incubators and/or exchanges;
 
