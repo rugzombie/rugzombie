@@ -8,7 +8,7 @@ description: For the nosy people.
 
 Visit PancakeSwap at https://exchange.pancakeswap.finance/\#/swap, and enter $ZMBE contract address \[INSERT ADDRESS\] and swap using $BNB. 
 
-Additionally, you may purchase $ZMBE on our site at www.rugzombie.io using our exchange or zap feature. 
+Additionally, you may purchase $ZMBE on our site at [www.rugzombie.io](www.rugzombie.io) using our exchange or zap feature. 
 
 In order to interface with PancakeSwap you will need create a Binance Smart Chain \(BSC\) wallet with either Trust Wallet or MetaMask and fund it with $BNB to purchase $ZMBE and to pay network fees.
 
@@ -20,7 +20,7 @@ MetaMask - https://metamask.io/
 
 It is gravely serious situation when a project is “rugged” or deemed a scam. \(See what we did with that pun?\)
 
-Our team has a process to determine what projects we will list in our graves and tombs. Some tokens are clearly a rugged/scammed project, some are dead due to developer inactivity.
+Our team has a process to determine what projects we will list in our graves and tombs. Some tokens are clearly a rugged/scammed project, some are dead due to developer inactivity or exploits from hackers.
 
 Our team will consult a variety of elements to know what projects to list as we know the act of declaring a token dead is a quite a serious statement. A few considerations our team has:
 
