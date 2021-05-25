@@ -10,7 +10,7 @@ Have an idea for the following? Let us know in telegram or by sending an email t
 * New features
 * Marketing ideas
 * general feedback
-* bugs/code-breaking
+* bugs/code-breaking \(if you find a new bug/vulnerability you will be fairly compensated\) 
 
 
 
