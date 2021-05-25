@@ -30,6 +30,7 @@
   * [Emergency Withdraw](security-and-team-information/basic-team-security-information/emergency-withdraw.md)
   * [Time Lock](security-and-team-information/basic-team-security-information/time-lock.md)
   * [Preventative Double Rug Measures](security-and-team-information/basic-team-security-information/preventative-double-rug-measures.md)
+  * [Flash Loan Protection](security-and-team-information/basic-team-security-information/flash-loan-protection.md)
   * [API information](security-and-team-information/basic-team-security-information/api-information.md)
 * [Join Our Team](security-and-team-information/join-our-team-of-dr.-frankensteins.md)
 
