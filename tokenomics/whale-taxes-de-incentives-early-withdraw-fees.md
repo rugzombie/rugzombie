@@ -33,7 +33,7 @@ We have created a custom [GRAVE](../basic-information/main-features/graves/) for
  About the $ZMBE Whale Grave:
 
 * Initial LP Deposit Amount has a minimum threshold of ~25000 BUSD
-* The Withdraw Fee is increased to 10% on Whale Grave
+* The Withdraw Fee is increased to 10% on Whale Grave 
 * The Whale Tax still applies
 * The Withdraw Fee timer is increased to 30 Days
 * Each deposit or withdraw from the Whale Grave resets the 30 Day timer
