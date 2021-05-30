@@ -21,7 +21,8 @@
 * [Initial Token Supply](tokenomics/initial-token-supply.md)
 * [Deposit Fees](tokenomics/deposit-fees.md)
 * [Burning Mechanisms and Inflation Control](tokenomics/burning-mechanisms-and-inflation-control.md)
-* [Whale Taxes / De-incentives / Early Withdraw Fees](tokenomics/whale-taxes-de-incentives-early-withdraw-fees.md)
+* [Early Withdraw Fees](tokenomics/early-withdraw-fees.md)
+* [Whale Games](tokenomics/whale-taxes-de-incentives-early-withdraw-fees.md)
 
 ## Security and Team Information
 

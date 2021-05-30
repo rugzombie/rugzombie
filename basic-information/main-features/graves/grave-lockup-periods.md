@@ -8,5 +8,5 @@ To clarify, the withdrawal fee does not locks users' deposits. Deposited tokens 
 
 We have also created a fun way to encourage users to stake more $ZMBE for longer. Simply put: in some graves, the MORE $ZMBE and rugged tokens you stake, the faster you receive your NFT. This will not be the case for every grave and tomb, please read the conditions of each pool before you begin staking or providing liquidity. 
 
-[See more HERE about our withdraw fee and lockup time helps long term users.](../../../tokenomics/whale-taxes-de-incentives-early-withdraw-fees.md)
+[See more HERE about our withdraw fee and lockup time helps long term users.](../../../tokenomics/early-withdraw-fees.md)
 
