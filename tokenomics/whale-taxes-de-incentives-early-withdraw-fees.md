@@ -41,7 +41,8 @@ We have created a custom [GRAVE](../basic-information/main-features/graves/) for
 In exchange for their long-term view on the project, whale grave providers will be issued a custom WHALE PASS NFT that will include perks. \(details of the pass are in development\) 
 
 * A CUSTOM WHALE NFT
-* 
+* More to come
+
  
 
 
