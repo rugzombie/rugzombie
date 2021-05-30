@@ -8,7 +8,7 @@ description: How to mitigate dumping and manipulation
 
 Whether a project starts with a presale or a fair launch, BSC projects fall prey to large wallet holders who, whether meaningfully or not, affect price action on the open market. This is a short term issue that is nearly unavoidable on new tokens. While we are a long term project \(and not worried about short term price action\) we are mindful that the first weeks and months of a new project are extremely important for its success.
 
-Our team was thoughtful about balancing the fair and open nature of a financial market and restricting major market manipulation by whales. 
+Our team was thoughtful about balancing the fair and open nature of a decentralized financial market and restricting major market manipulation by whales. 
 
 Rather than restricting whales completely \(who can bring much needed liquidity to the market\), we have chosen instead to apply a whale tax of 8% on liquidity removal of more than 5% of the total supply. 
 
