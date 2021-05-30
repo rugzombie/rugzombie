@@ -10,7 +10,7 @@ Whether a project starts with a presale or a fair launch, BSC projects fall prey
 
 Our team was thoughtful about balancing the fair and open nature of a financial market and restricting major market manipulation by whales. 
 
-Rather than restricting whales \(who can bring much needed liquidity to the market\), we have chosen instead to apply a whale tax of 8% on liquidity removal of more than 5% of the total supply. 
+Rather than restricting whales completely \(who can bring much needed liquidity to the market\), we have chosen instead to apply a whale tax of 8% on liquidity removal of more than 5% of the total supply. 
 
 This 8% will immediately return to locked liquidity in the ZMBE-BNB pool forever raising the price floor. 
 
