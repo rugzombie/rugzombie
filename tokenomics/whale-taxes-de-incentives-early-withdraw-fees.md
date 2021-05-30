@@ -26,9 +26,11 @@ This early withdraw fee is [explained in depth here](early-withdraw-fees.md), an
 
 ## Incentives - Whale Grave
 
-Whales are not bad. There is a common misconception in the crypto-space that whales are only about manipulation. While whales have the ability to do that, we did not want to wholly de-incentivize them from our platform. Whales provide needed liquidity and are crucial to long term success if they believe in the project and are willing to hold.
+Whales are not bad. There is a common misconception in the crypto-space that whales are only about manipulation. While whales have the ability to do that, we did not want to wholly de-incentivize them from our platform. Whales provide needed liquidity and are crucial to long term success if they believe in the project and are willing to hold. 
 
-We have created a custom [GRAVE](../basic-information/main-features/graves/) for whales that employs a unique long term reward structure. About the $ZMBE Whale Grave:
+We have created a custom [GRAVE](../basic-information/main-features/graves/) for whales that employs a unique long term reward structure for whales who are acting in a positive good faith manner. Rather than punish such people, we desired to incentivize good whale behavior.
+
+ About the $ZMBE Whale Grave:
 
 * Initial LP Deposit Amount has a minimum threshold of ~25000 BUSD
 * The Withdraw Fee is increased to 10% on Whale Grave
