@@ -22,7 +22,22 @@ In addition to our whale tax, all graves and tombs have an early withdraw fee of
 
  This timer resets whenever any amount of $ZMBE removed is removed from supply, thereby reducing the frequency of removing LP. This additionally de-incentivizes whales from removing just below the whale tax threshold in smaller amounts. 
 
-This early withdraw fee is explained in depth below, and applies to all graves, tombs and spawning pools regardless of amount staked, so be mindful when entereing and exiting our pools.
+This early withdraw fee is [explained in depth here](early-withdraw-fees.md), and applies to all graves, tombs and spawning pools regardless of amount staked, so be mindful when entering and exiting our pools.
+
+## Incentives - Whale Grave
+
+Whales are not bad. There is a common misconception in the crypto-space that whales are only about manipulation. While whales have the ability to do that, we did not want to wholly de-incentivize them from our platform. Whales provide needed liquidity and are crucial to long term success if they believe in the project and are willing to hold.
+
+We have created a custom [GRAVE](../basic-information/main-features/graves/) for whales that employs a unique long term reward structure. About the $ZMBE Whale Grave:
+
+* Initial LP Deposit Amount has a minimum threshold of ~25000 BUSD
+* The Withdraw Fee is increased to 10% on Whale Grave
+* The Whale Tax still applies
+* The Withdraw Fee timer is increased to 30 Days
+* Each deposit or withdraw from the Whale Grave resets the 30 Day timer
+* Whale grave providers will be issued a custom WHALE PASS NFT that will include perks. \(details of the pass are in development, but begin with a custom NFT only awarded to those who stake in this grave\) 
+
+ 
 
 
 
