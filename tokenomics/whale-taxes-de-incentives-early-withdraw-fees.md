@@ -18,7 +18,9 @@ As our market matures, we may need to change the tax rate, so please stay update
 
 ## De-Incentives
 
-In addition to our whale tax, all graves and tombs have an early withdraw fee of .5% for withdrawing deposits prematurely. This timer resets whenever the total amount of ZMBE removed is more than 2% of total supply, thereby reducing the frequency of removing LP. This additionally de-incentivizes whales from removing just below the whale tax threshold in smaller amounts. 
+In addition to our whale tax, all graves and tombs have an early withdraw fee of .5% for withdrawing deposits prematurely.
+
+ This timer resets whenever the total amount of ZMBE removed is more than 1% of total supply, thereby reducing the frequency of removing LP. This additionally de-incentivizes whales from removing just below the whale tax threshold in smaller amounts. 
 
 This early withdraw fee is explained in depth below, and applies to all graves, tombs and spawning pools regardless of amount staked.
 
