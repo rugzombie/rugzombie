@@ -32,9 +32,9 @@ This .5% fee will be immediately sent to the treasury upon early removal. Some o
 
 This fee applies to both harvesting and initial deposits. The withdraw period is:
 
-48 Hours on all deposited funds 
+**48 Hours on all initially deposited funds** 
 
-2 Hours for all farming rewards
+**2 Hours for all farming rewards**
 
-This timer is reset if more than 2% of supply is withdrawn to de-incentive whales. 
+This timer is reset if more than 1% of supply is withdrawn to de-incentive whales. 
 
