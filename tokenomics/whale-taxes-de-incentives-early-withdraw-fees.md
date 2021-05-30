@@ -35,8 +35,11 @@ We have created a custom [GRAVE](../basic-information/main-features/graves/) for
 * The Whale Tax still applies
 * The Withdraw Fee timer is increased to 30 Days
 * Each deposit or withdraw from the Whale Grave resets the 30 Day timer
-* Whale grave providers will be issued a custom WHALE PASS NFT that will include perks. \(details of the pass are in development, but begin with a custom NFT only awarded to those who stake in this grave\) 
 
+In exchange for their long-term view on the project, whale grave providers will be issued a custom WHALE PASS NFT that will include perks. \(details of the pass are in development\) 
+
+* A CUSTOM WHALE NFT
+* 
  
 
 
