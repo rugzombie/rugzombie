@@ -18,7 +18,7 @@ As our market matures, we may need to change the tax rate, so please stay update
 
 ## De-Incentives
 
-In addition to our whale tax, all graves and tombs have an early withdraw fee of .5% for withdrawing deposits prematurely.
+In addition to our whale tax, all graves and tombs have an early withdraw fee of 5% for withdrawing deposits prematurely.
 
  This timer resets whenever the total amount of ZMBE removed is more than 1% of total supply, thereby reducing the frequency of removing LP. This additionally de-incentivizes whales from removing just below the whale tax threshold in smaller amounts. 
 
@@ -28,7 +28,7 @@ This early withdraw fee is explained in depth below, and applies to all graves, 
 
 To keep and incentivize liquidity and to punish arbitrage and harvesting bots, all graves, tombs and spawning pools have an early withdraw fee assessed if removed prematurely. 
 
-This .5% fee will be immediately sent to the treasury upon early removal. Some of those funds will be used for periodic buy back and burns, among other things. [See the use of our treasury funds here](initial-token-supply.md#treasury-funds).
+This 5% fee will be immediately sent to the treasury upon early removal. Some of those funds will be used for periodic buy back and burns, among other things. [See the use of our treasury funds here](initial-token-supply.md#treasury-funds).
 
 This fee applies to both harvesting and initial deposits. The withdraw period is:
 
