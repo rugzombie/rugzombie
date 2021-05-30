@@ -20,7 +20,7 @@ We will begin a marketing campaign up to a week before our fair launch that incl
 
 **At Launch**
 
-The bulk of our marketing at launch will come from our community and some strategic partnerships we are making with a few community audits and telegram/discord communities. 
+The bulk of our marketing at launch will come from our community and some strategic partnerships we are making with a few projects, community audits and telegram/discord communities. 
 
 We want to stress that our community is part of our marketing, so please follow our socials and get the word out about $ZMBE.
 
