@@ -58,5 +58,7 @@ The Dev Team maintains 10% of initial supply \(a total of 10mil ZMBE\) in vested
 
 As you can see, the time-locks for these funds are progressive and extend well into the predicted "bear market" after 2021, and as such the selling incentive for developers will be less and less attractive as time goes on. 
 
+Keep in mind that the developer wallet is used to pay the hard working developers on our team, and these funds are shared between multiple parties. This fact further prevents major sell offs from developers even if they desire to sell their positions as they are unlocked. 
+
 
 
