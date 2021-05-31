@@ -10,23 +10,24 @@ description: This roadmap is subject to adaption as market conditions are always
 {% tab title="Q2 2021" %}
 * [ ] Techrate Audit
 * [ ] First Partnerships\*
-* [ ] Technical White Paper Release
-* [ ] Launch of DAPP
-* [ ] Initial Grave, Tomb and Crypt Offerings
+* [ ]  Lite Paper Release
+* [ ] Launch of Dapp
+* [ ] Initial Grave, Tomb and Spawning Pool Offerings
 * [ ] Initial Marketing
 {% endtab %}
 
 {% tab title="Q3 2021" %}
-* [ ] Smart Contract Audits for Crypt
-* [ ] Secondary Wave of Grave, Tomb and Crypt Offerings
+* [ ] Smart Contract Audits for Spawning Pools
+* [ ] Secondary Wave of Grave, Tomb and Spawning Pools Offerings
 * [ ] Certik/Hashex Audits
 * [ ] Own AMM\* 
 * [ ] Community Voting Features
-* [ ] NFT Marketplace Launch
+* [ ] NFT Showroom Launch
+* [ ] Merch Store
 {% endtab %}
 
 {% tab title="Q4 2021" %}
-* [ ] Merch Store
+* [ ] Merch Store Updates
 * [ ] More Partnerships\*
 * [ ] Exchange Listings
 * [ ] New DAPP Features \(in development\)
@@ -34,8 +35,11 @@ description: This roadmap is subject to adaption as market conditions are always
 {% endtab %}
 
 {% tab title="Q1 2022" %}
-* [ ] NFT Market Overhaul with Secondary Market
+* [ ] NFT Market Overhaul 
+* [ ] Secondary Market\*
 * [ ] NFT Game Ecosystem Launch
+* [ ] First Game Launch
+* [ ] Charitable Giving & Promotional Events
 {% endtab %}
 {% endtabs %}
 
