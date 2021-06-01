@@ -34,6 +34,10 @@ Why not burned wallet address? As the transition of pancakeswap to version 2 dem
 Deposit Fees will be assessed in BNB so as to not put sell pressure on the price of $ZMBE. Our team uses a multi-signature treasury wallet that requires majority consensus on the use of treasury funds.
 {% endhint %}
 
+Treasury funds are locked upon launch, with only 2% of the treasury funds available for marketing, audits, etc. Our team has provided most of the funds for these things out of pocket, and have spent considerable time on our budget and how treasury funds will be used. We estimate we will only need 2% of the initial treasury funds upon launch for some airdrops, and other uses. 
+
+Only one withdraw can take place from the treasury wallet each month to ensure our team plans ahead for their use. The amount of funds available to be removed from treasury for any purpose will increase over time as our project gains confidence from token holders.
+
 We will publish a finalized treasury fund budget once it has been finalized. At launch, we are trying to be as flexible as possible to adapt to needs as they arise. 
 
 You can see the treasury fund wallet address here: 
@@ -59,6 +63,8 @@ The Dev Team maintains 10% of initial supply \(a total of 10mil ZMBE\) in vested
 As you can see, the time-locks for these funds are progressive and extend well into the predicted "bear market" after 2021, and as such the selling incentive for developers will be less and less attractive as time goes on. 
 
 Keep in mind that the developer wallet is used to pay the hard working developers on our team, and these funds are shared between multiple parties. This fact further prevents major sell offs from developers even if they desire to sell their positions as they are unlocked. 
+
+Our developer wallet is essentially a compensation plan for our core team of developers, artists, and more.
 
 
 
