@@ -32,7 +32,11 @@ As $ZMBE is a farming token, it is inflationary and has no fixed supply, but the
 
 ●  Auctions and contests where a portion of the $ZMBE used to participate will be burned. Specifics of these projects will be released as they arrive.
 
-In addition to utilizing $ZMBE to recover loss from rugged tokens, users are incentivized to HODL due to our burning and staking mechanisms that will increase the value of $ZMBE over time. Additionally, in the future, $ZMBE HODLers will have the ability to receive NFTs, possible airdrops and participate in governance by voting on which rugged tokens are added to our graves/tombs and $ZMBE emission rates.
+In addition to utilizing $ZMBE to recover loss from rugged tokens, users are incentivized to HODL due to our burning and staking mechanisms that will increase the value of $ZMBE over time. Additionally, in the future, $ZMBE HODLers will have the ability to receive NFTs, possible airdrops and participate in governance and more.
 
-Inflationary supplies can be a cause for concern for potential users of $ZMBE, however the way our project incentivizes liquidity provision is by giving out rewards that require an emission rate, thereby increasing the supply. $ZMBE is also used in future features with our gaming ecosystem \(coming ~Q1 2022\) and there will many ways to control the supply as are stated above. 
+**Inflationary supply can be a cause for concern for potential users of $ZMBE, however the way our project incentivizes liquidity provision is by giving out rewards that require an emission rate, thereby increasing the supply. $ZMBE is also used in future features with our gaming ecosystem \(coming ~Q1 2022\) and there are MANY ways to control the supply as stated above.** **Please trust our team as we build something great here.**
+
+We have many burning mechanism, staking mechanisms and more that will lead to $ZMBE being emission neutral. If anything, we may need to _increase_ the emission rate rather than decrease due to high demand and how useful $ZMBE will be in all our ecosystems.But as the chart below demonstrates, $ZMBE is among some of the lowest emissions you will find in farming projects.
+
+![](../.gitbook/assets/screen-shot-2021-06-01-at-1.01.25-pm.png)
 
