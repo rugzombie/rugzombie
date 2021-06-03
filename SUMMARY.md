@@ -49,4 +49,5 @@
 * [White Paper \(Long Form\)](white-paper-long-form.md)
 * [Marketing Information](marketing-information.md)
 * [Feedback, Suggestions and Bug Bounty](feedback-suggestions-and-bug-bounty.md)
+* [Anti-Pump&Dump Launch Feature \(APD\)](anti-pump-and-dump-launch-feature-apd.md)
 
