@@ -12,7 +12,8 @@
     * [Grave Lockup Periods](basic-information/main-features/graves/grave-lockup-periods.md)
   * [Tombs](basic-information/main-features/tombs.md)
   * [Spawning Pools](basic-information/main-features/crypts.md)
-* [Fair Launch Information](basic-information/fair-launch-information.md)
+* [Fair Launch Information](basic-information/fair-launch-information/README.md)
+  * [Anti-Pump&Dump Launch Feature \(APD\)](basic-information/fair-launch-information/anti-pump-and-dump-launch-feature-apd.md)
 * [$ZMBE Roadmap](basic-information/roadmap.md)
 
 ## Tokenomics
@@ -49,5 +50,4 @@
 * [White Paper \(Long Form\)](white-paper-long-form.md)
 * [Marketing Information](marketing-information.md)
 * [Feedback, Suggestions and Bug Bounty](feedback-suggestions-and-bug-bounty.md)
-* [Anti-Pump&Dump Launch Feature \(APD\)](anti-pump-and-dump-launch-feature-apd.md)
 
