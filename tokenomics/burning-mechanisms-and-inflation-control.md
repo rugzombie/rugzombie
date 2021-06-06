@@ -4,9 +4,9 @@ description: How $ZMBE Supply Is Reduced Without A Hard Cap?
 
 # Burning Mechanisms and Inflation Control
 
-**1. Reducing Block Emission**
+**1. Low Block Emission**
 
-By reducing the amount of $ZMBE generated per block, we can slow the inflation. Our emission rate is incredibly low \(10 $ZMBE per block\) compared to other similar projects  with yield farming contracts \(see the figure below\). But we don't want to do this too frequently, too early, for the same reason we don't want a hard cap: we still need to incentivize people to provide liquidity. We will update our community about the emission rates as the project develops. If anything, we may need to increase our emission rate to keep up with user demand and prevent our token from becoming hyper-inflated.
+By beginning our contract  with a low block emission of $ZMBE generated per block, we can slow the inflation. Our emission rate is incredibly low \(10 $ZMBE per block\) compared to other similar projects  with yield farming contracts \(see the figure below\). But we don't want lower or raise the emission too frequently, too early, for the same reason we don't want a hard cap: we still need to incentivize people to provide liquidity. We will update our community about the emission rates as the project develops. If anything, we may need to increase our emission rate to keep up with user demand and incentivize more liquidity.
 
 ![Our token emissions compared to other inflationary tokens](../.gitbook/assets/screen-shot-2021-06-01-at-1.01.25-pm.png)
 
