@@ -34,8 +34,6 @@ Feel free to peruse our docs for any information.
 
 {% page-ref page="lite-paper.md" %}
 
-{% page-ref page="white-paper-long-form.md" %}
-
 {% page-ref page="basic-information/roadmap.md" %}
 
 

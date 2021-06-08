@@ -10,7 +10,9 @@
 
 [Telegram](https://t.me/rugzombie)
 
-Telegram Ann: COMING SOON
+[Telegram Announcements](https://t.me/rugzombieannounce)
+
+[Youtube](https://www.youtube.com/channel/UCJv0OdCDThvuJ_0lruZrm_w)
 
 [Github](https://github.com/rugzombie)
 

@@ -45,9 +45,9 @@
 
 ---
 
-* [More Links](https://linktr.ee/rugzombie)
+* [OFFICIAL LINKTREE](https://linktr.ee/rugzombie)
 * [Lite Paper](lite-paper.md)
-* [White Paper \(Long Form\)](white-paper-long-form.md)
 * [Marketing Information](marketing-information.md)
 * [Feedback, Suggestions and Bug Bounty](feedback-suggestions-and-bug-bounty.md)
+* [AIRDROPS](airdrops.md)
 
