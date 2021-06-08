@@ -12,7 +12,7 @@ Our team was thoughtful about balancing the fair and open nature of a decentrali
 
 Rather than restricting whales completely \(who can bring much needed liquidity to the market\), we have chosen instead to apply a whale tax of 8% on liquidity removal of more than 5% of the total supply. 
 
-This 8% will immediately return to locked liquidity in the ZMBE-BNB pool forever raising the price floor. So each whale that dumps will leave the community with a gift of an increasing price floor that is locked.
+This 8% will immediately unpaired and the BNB will go to the treasury and the ZMBE will be burned.
 
 As our market matures, we may need to change the tax rate, so please stay updated on the most relevant information. 
 
