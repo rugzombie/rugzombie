@@ -14,7 +14,7 @@ As such, RugZombie is beginning with ultra low liquidity, and therefore requires
 
 **Our APD feature on the first day of launch prevents any token holder from buying or owning more than 2% of the total supply of $ZMBE at any one time.** 
 
-Buy orders of 2% or more of the supply will be rejected and wallets holding 2% or more will not be able to acquire more $ZMBE through the swap feature until APD is lifted. They may still stake and earn $ZMBE through our LPs.
+Buy orders of 2% or more of the supply will be rejected and wallets holding 2% or more will not be able to acquire more $ZMBE through the swap feature until APD is lifted. They may still stake and earn $ZMBE through our LPs and GRAVES.
 
 **Any holder of $ZMBE can still earn more through providing Liquidity and Staking in our smart contracts, as they have been whitelisted. Until the APD is lifted, THIS IS THE ONLY WAY to acquire more $ZMBE if you own more than 2% of the supply.**
 
