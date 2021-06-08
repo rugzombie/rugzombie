@@ -32,7 +32,7 @@ We have created a custom [GRAVE](../basic-information/main-features/graves/) for
 
  About the $ZMBE Whale Grave:
 
-* Initial Deposit Amount has a minimum threshold of ~25000 BUSD
+* Initial Deposit Amount has a minimum threshold of ~10000 BUSD
 * The Withdraw Fee is increased to 10% on Whale Grave 
 * The Whale Tax still applies
 * The Withdraw Fee timer is increased to 30 Days
@@ -40,7 +40,7 @@ We have created a custom [GRAVE](../basic-information/main-features/graves/) for
 
 In exchange for their long-term view on the project, whale grave providers will be issued a custom WHALE PASS NFT each month that will include perks. \(details of the pass are in development\). This pass is considered almost like a "membership" that is renewed every 30 days and continues to reward long term holders with new and exciting treats. 
 
-* A CUSTOM WHALE PASS NFT
+* A CUSTOM WHALE NFT
 * Exclusive Access to a Whale Auction Event Soon After Launch
 * More exclusive membership perks coming \(will be announced\) 
 
