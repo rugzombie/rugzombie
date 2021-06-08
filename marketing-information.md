@@ -10,19 +10,22 @@ description: >-
 
 Our focus before we launch is on solid fundamentals and code; we are builders. Marketing efforts will not matter if we have no substance, and therefore we are focused primarily on delivering a great product and making the Dapp usable with dynamite NFTs. 
 
-We will begin a marketing campaign up to a week before our fair launch that includes:
+We will begin a marketing campaign up to a week or two before our fair launch that includes:
 
 * Twitter campaign
 * Tasteful telegram shilling
-* A series of reddit and medium posts
+* A series of reddit, publish0x and medium posts
 * Marketing on channels from community leaders in BSC
 * A series of AMAs scheduled for the week before and right after launch
+* Social Media Airdrop Contests
 
 **At Launch**
 
 The bulk of our marketing at launch will come from our community and some strategic partnerships we are making with a few projects, community audits and telegram/discord communities. 
 
 We want to stress that our community is part of our marketing, so please follow our socials and get the word out about $ZMBE.
+
+Stay Tuned: Our Auction Feature is scheduled to be released after launch, and the funds raised from our Auctions will be used for our marketing purposes. 
 
 **Will we use social influencers? \(tiktok, youtube, etc\)**
 
