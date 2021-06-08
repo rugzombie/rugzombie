@@ -12,5 +12,9 @@ Have an idea for the following? Let us know in telegram or by sending an email t
 * general feedback
 * bugs/code-breaking \(if you find a new bug/vulnerability you will be fairly compensated\) 
 
+If you are another project/company looking to partner with RugZombie, you can fill out this form below: 
+
+{% embed url="https://rugzombie.typeform.com/to/NKBnt4YK" %}
+
 
 
