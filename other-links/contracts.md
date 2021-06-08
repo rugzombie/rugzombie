@@ -5,7 +5,7 @@ Farming Contracts:
 * $ZMBE Token:
 * MasterChef:
 * Timelock:
-* Multisig Wallet: 
+* Multisig Dev Wallet: 
 
   
 
