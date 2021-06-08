@@ -18,7 +18,7 @@ Buy orders of 2% or more of the supply will be rejected and wallets holding 2% o
 
 **Any holder of $ZMBE can still earn more through providing Liquidity and Staking in our smart contracts, as they have been whitelisted. Until the APD is lifted, THIS IS THE ONLY WAY to acquire more $ZMBE if you own more than 2% of the supply.**
 
-Our team plans to monitor the initial release of our token and to scale this percentage back as necessary and to remove this APD feature completely once our public launch has stabilized. 
+Our team plans to monitor the initial release of our token and to scale this percentage back as necessary and to remove this APD feature completely once our public launch has stabilized.
 
 Our treasury wallet has been whitelisted and this feature will not apply on the wallet.
 
