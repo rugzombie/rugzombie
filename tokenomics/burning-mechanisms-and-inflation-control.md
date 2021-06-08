@@ -16,9 +16,9 @@ The dev team is committed to buying back and burning $ZMBE as we hit certain mil
 
 **3. Unlock Fees for Graves, Tombs, and Spawning Pool**
 
-With the unlock of each [grave, tomb or spawning pool,](../basic-information/main-features/) a portion of the unlock fee will go to buy back and burn automatically. We understand that paying a deposit fee can be avoided on other platforms that have their own AMM and are discussing plans to move toward our own AMM in the future.
+With the unlock of each [grave, tomb or spawning pool,](../basic-information/main-features/) a portion of the unlock fee will go to buy back and burn automatically. We understand that paying a deposit fee can be avoided on other platforms that have their own AMM and are discussing plans to move toward our own AMM in the future. 
 
-For now, you can view the deposit fee as payment for the custom NFT that you receive in our graves. :-\)
+For now, you can view the deposit fee as payment for the custom NFT that you receive in our graves. :-\) It also decreases the $ZMBE supply therefore supporting the price of $ZMBE longterm.
 
 **4. Future Features and Burning Elements**
 
