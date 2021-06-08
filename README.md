@@ -4,6 +4,8 @@ description: Bringing your rugged tokens back from the dead.
 
 # Introduction to RugZombie \($ZMBE\)
 
+![Welcome to RugZombie](.gitbook/assets/6%20%281%29.png)
+
 > Note: RugZombie is a new project, these documents are living and subject to change. Please stay active and be informed on our [social channels](other-links/socials.md).
 
 Welcome to RugZombie \($ZMBE\), the first resurrected-value focused crypto on the Binance Smart Chain. 
