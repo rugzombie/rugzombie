@@ -30,20 +30,6 @@ Whales are not bad. There is a common misconception in the crypto-space that wha
 
 We have created a custom [GRAVE](../basic-information/main-features/graves/) for whales that employs a unique long term reward structure for whales who are acting in a positive, good faith manner. Rather than punish such people, we desired to incentivize good whale behavior.
 
- About the $ZMBE Whale Grave:
-
-* Initial Deposit Amount has a minimum threshold of ~10000 BUSD
-* The Withdraw Fee is increased to 10% on Whale Grave 
-* The Whale Tax still applies
-* The Withdraw Fee timer is increased to 30 Days
-* Each deposit or withdraw from the Whale Grave resets the 30 Day timer
-
-In exchange for their long-term view on the project, whale grave providers will be issued a custom WHALE PASS NFT each month that will include perks. \(details of the pass are in development\). This pass is considered almost like a "membership" that is renewed every 30 days and continues to reward long term holders with new and exciting treats. 
-
-* A CUSTOM WHALE NFT
-* Exclusive Access to a Whale Auction Event Soon After Launch
-* More exclusive membership perks coming \(will be announced\) 
-
 ![](../.gitbook/assets/8.jpg)
 
 
