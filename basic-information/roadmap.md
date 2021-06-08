@@ -14,20 +14,22 @@ description: This roadmap is subject to adaption as market conditions are always
 * [ ] Launch of Dapp
 * [ ] Initial Grave, Tomb and Spawning Pool Offerings
 * [ ] Initial Marketing
+* [ ] Auction Feature
 {% endtab %}
 
 {% tab title="Q3 2021" %}
+* [ ] Zombie Multipliers
+* [ ] Whale Graves
 * [ ] Smart Contract Audits for Spawning Pools
-* [ ] Secondary Wave of Grave, Tomb and Spawning Pools Offerings
-* [ ] Certik/Hashex Audits
+* [ ] New Grave, Tomb and Spawning Pools Offerings
 * [ ] Own AMM\* 
 * [ ] Community Voting Features
 * [ ] NFT Showroom Launch
-* [ ] Merch Store
+* [ ] Merch Store Part 1
 {% endtab %}
 
 {% tab title="Q4 2021" %}
-* [ ] Merch Store Updates
+* [ ] Merch Store Part 2
 * [ ] More Partnerships\*
 * [ ] Exchange Listings
 * [ ] New DAPP Features \(in development\)
@@ -35,17 +37,11 @@ description: This roadmap is subject to adaption as market conditions are always
 {% endtab %}
 
 {% tab title="Q1 2022" %}
-* [ ] NFT Market Overhaul 
 * [ ] Secondary Market\*
 * [ ] NFT Game Ecosystem Launch
 * [ ] First Game Launch
-* [ ] Charitable Giving & Promotional Events
 {% endtab %}
 {% endtabs %}
-
-![stay tuned for all the exciting new features on and off this roadmap](../.gitbook/assets/rugzombie-road-map-transparent-.png)
-
-{% file src="../.gitbook/assets/rugzombie-road-map.mp4" caption="Rug Zombie Roadmap \(download\)" %}
 
 
 
