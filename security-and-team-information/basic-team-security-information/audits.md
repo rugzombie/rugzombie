@@ -8,15 +8,15 @@ description: >-
 
 Formal Audits
 
-* [ ] TechRate \(done\) 
+* [x] TechRate \(done\) 
 * [ ] Certik \(in progress\)
 * [ ] Hashex \(coming soon\)
 * [ ] Haechi \(in discussion\) 
 
 Community Audits
 
-* [ ] BSC Checker \(under discussion\) 
-* [ ] Rug Warnings 
+* [ ] BSC Checker \(under discussion, no commits\) 
+* [x] Rug Warnings 
 
 
 
