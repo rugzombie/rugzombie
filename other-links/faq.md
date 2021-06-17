@@ -8,7 +8,7 @@ description: For the nosy people.
 
 Visit PancakeSwap at https://exchange.pancakeswap.finance/\#/swap, and enter $ZMBE contract address \[INSERT ADDRESS\] and swap using $BNB. 
 
-Additionally, you may purchase $ZMBE on our site at [www.rugzombie.io](www.rugzombie.io) using our exchange or zap feature. 
+Additionally, you may purchase $ZMBE on our site at [www.rugzombie.io](www.rugzombie.io) using our exchange or zap feature when available. 
 
 In order to interface with PancakeSwap you will need create a Binance Smart Chain \(BSC\) wallet with either Trust Wallet or MetaMask and fund it with $BNB to purchase $ZMBE and to pay network fees.
 
