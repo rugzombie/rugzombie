@@ -18,7 +18,7 @@ view in [BSC SCAN](https://bscscan.com/address/0xa3473B7b44B63a577CFa56474dfb0b2
 
 **Initial Supply:** 100million ZMBE
 
-**Emission Rate on Launch:** 10 ZMBE / block
+**Emission Rate on Launch:** 20 ZMBE / block
 
 ## Why ZMBE has no hard capped supply?
 
