@@ -8,12 +8,12 @@ description: This roadmap is subject to adaption as market conditions are always
 
 {% tabs %}
 {% tab title="Q2 2021" %}
-* [ ] Techrate Audit
-* [ ] First Partnerships\*
+* [x] Techrate Audit
+* [x] First Partnerships\*
 * [ ]  Lite Paper Release
 * [ ] Launch of Dapp
-* [ ] Initial Grave, Tomb and Spawning Pool Offerings
-* [ ] Initial Marketing
+* [x] Initial Grave, Tomb and Spawning Pool Offerings
+* [x] Initial Marketing
 * [ ] Auction Feature
 {% endtab %}
 
