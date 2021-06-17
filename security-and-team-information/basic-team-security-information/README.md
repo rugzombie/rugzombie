@@ -34,7 +34,7 @@ At the same time, our team knows the unique problems facing developers and see t
 
 ## How Many Are on the Team? 
 
-Our team is a combination of core developers/founders \(dr. frankensteins\), and community leaders \(undertakers\).
+Our team is a combination of core developers/founders \(dr. frankensteins\), contract workers, and community leaders \(undertakers\).
 
 Our core dev team has 3 members currently, and we are actively adding more as our project grows. 
 
