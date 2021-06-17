@@ -12,7 +12,7 @@ Our team was thoughtful about balancing the fair and open nature of a decentrali
 
 Rather than restricting whales completely \(who can bring much needed liquidity to the market\), we have chosen instead to apply a whale tax of 8% on liquidity removal of more than 5% of the total supply. 
 
-This 8% will immediately unpaired and the BNB will go to the treasury and the ZMBE will be burned.
+This 8% will be immediately be sent to the treasury where we can buy back and burn our token.
 
 As our market matures, we may need to change the tax rate, so please stay updated on the most relevant information. 
 
