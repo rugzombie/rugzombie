@@ -16,7 +16,7 @@ APRs for these farms may be different that what you would see in other farms bec
 
 ## Buried Alive
 
-Some of our LPs will contain projects that may not truly be scammed or rug pulled tokens. Our team will denote which of these farms are "buried alive". Our devs have seen projects that appear to be rugged be relaunched with new teams or community efforts. 
+Some of our LPs will contain projects that may not truly be scammed or rug pulled tokens \(such as BNB\). Our team will denote which of these farms are "buried alive" if it is not obvious enough. Our devs have seen projects that appear to be rugged be relaunched with new teams or community efforts. 
 
 Our team is not attempting to make a statement on the future of these tokens, only that they have been subject to rug-pulled or malicious activity in the past, regardless of their communities new found faith in the project. 
 
