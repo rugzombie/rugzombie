@@ -10,9 +10,9 @@ While our team has chosen to remain anonymous to the public, we will have doxed 
 
 ●  [Audits](audits.md): Beginning with TechRate \(before launch\) and eventually Certik and others. Audits don’t make a project safe, but they show good-faith effort by developers because audits cost money and time. We will also welcome community audits through active crypto community voices and plan to acquire a few of these.
 
-●  [emergency withdraw feature](emergency-withdraw.md)
+●  [emergency withdraw feature](emergency-withdraw.md) \(in case of DDOS attack\)
 
-●  [Multi-signature treasury wallet](../../tokenomics/initial-token-supply.md#treasury-funds) and [vested developer tokens](../../tokenomics/initial-token-supply.md#developer-vested-tokens) with timelock
+●  [Multi-signature treasury wallet](../../tokenomics/initial-token-supply.md#treasury-funds) and [vested developer tokens](../../tokenomics/initial-token-supply.md#developer-vested-tokens) with timelock for 30 days
 
 ●  [Flash Loan Protection Features](../flash-loan-protection.md)
 
@@ -20,7 +20,7 @@ While our team has chosen to remain anonymous to the public, we will have doxed 
 
 and eventually 
 
-●  Community Governance to further de-risk our platform
+●  Community Governance \(eventually\) to further de-risk our platform
 
 ## Why Anonymous Team \(we know, it sounds bad\)
 
