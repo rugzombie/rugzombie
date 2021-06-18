@@ -38,6 +38,8 @@ We will publish a finalized treasury fund budget once it has been finalized. At 
 
 You can see the treasury fund wallet address here: 
 
+0x111a8fC09D65f29BBb026884c3034275DC9DA497 
+
 ## Developer Vested Tokens
 
 The dev team will be transparent about our tokens and lock funds in a time lock of 30 days. We also fully expect to participate just like all other token holders at launch with our own personal funds.
