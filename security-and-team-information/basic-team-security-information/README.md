@@ -40,3 +40,19 @@ We have a number of community leaders and experts who actively manage our social
 
 Interested to join our team? [Click Here](../join-our-team-of-dr.-frankensteins.md). 
 
+## What About all the Other Contract Features?
+
+There are a lot of contract features that defi projects have eliminated or locked upon launch. They do this to give public assurance that they are not a scam. This is admirable, however, these features are in the code for a reason. 
+
+#### Migrator Code
+
+For instance, goose finance was the first to remove the migrator code on the BSC. This feature allows for upgrade in the future of a project, and removing it is basically like saying a project does not intend to upgrade to a future version. Our project is a long term project, so we are doing what is best for the project, even if it goes against the norm for new BSC projects. 
+
+#### Locked Liquidity
+
+Our liquidity at launch will be very low to begin with, so locking our own liquidity is not actually that helpful. And besides, locked liquidity eventually gets unlocked and relocked, in and endless cycle. Our team is putting our blood, sweat and tears into this thing. 
+
+Locked liquidity and burned liquidity addresses left an entire generation of projects on v1 of pancakeswap. We do intend to limit ourselves in this manner. 
+
+At the end of the day, community trust and confidence are important to us, but so is doing what is right for the project. We will not add/remove features that will prevent future growth because early token holders need assurance. We expect our community to do their own research and due diligence.
+
