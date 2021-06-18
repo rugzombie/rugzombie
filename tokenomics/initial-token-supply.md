@@ -46,7 +46,7 @@ The Dev Team maintains 10% of initial supply \(a total of 10mil ZMBE\) in vested
 
 
 
-Our developer wallet is essentially a compensation plan for our core team of developers, artists, and more. 
+Our developer wallet is essentially a compensation plan for our core team of developers, artists, and more. This wallet also accrues a yield over time like other contracts.
 
 
 
