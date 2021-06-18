@@ -19,7 +19,7 @@ Estimated Target Date:
 * No Presale 
 * No Pre-mine
 * Pancakeswap liquidity added at farming start
-* Emission Rate: 20 $ZMBE per block
+* Emission Rate: 10 $ZMBE per block
 * Initial Supply: 100million $ZMBE
 * 80% supply to initial liquidity
 * 10% to developer wallet \([vested and time locked](../../tokenomics/initial-token-supply.md#developer-vested-tokens)\) 
