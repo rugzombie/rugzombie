@@ -8,9 +8,9 @@ description: Tokenomics 101
 
 **Token Symbol:** ZMBE
 
-**Contract Address**: 0xa3473B7b44B63a577CFa56474dfb0b2E238D4baD
+**Contract Address**: 
 
-view in [BSC SCAN](https://bscscan.com/address/0xa3473B7b44B63a577CFa56474dfb0b2E238D4baD#contracts)
+view in BSC SCAN
 
 **Chain:** Binance Smart Chain \(BEP20\)
 

@@ -29,9 +29,7 @@
 
 * [Basic Security Information](security-and-team-information/basic-team-security-information/README.md)
   * [Audits](security-and-team-information/basic-team-security-information/audits.md)
-  * [Migrator Code](security-and-team-information/basic-team-security-information/migrator-code.md)
   * [Emergency Withdraw](security-and-team-information/basic-team-security-information/emergency-withdraw.md)
-  * [Time Lock](security-and-team-information/basic-team-security-information/time-lock.md)
   * [API information](security-and-team-information/basic-team-security-information/api-information.md)
 * [Flash Loan Protection](security-and-team-information/flash-loan-protection.md)
 * [Preventative Double Rug Measures](security-and-team-information/preventative-double-rug-measures.md)
