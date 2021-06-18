@@ -23,7 +23,7 @@ description: This roadmap is subject to adaption as market conditions are always
 * [ ] Smart Contract Audits for Spawning Pools
 * [ ] New Grave, Tomb and Spawning Pools Offerings
 * [ ] Own AMM\* 
-* [ ] Community Voting Features
+* [ ] Community Voting/NFT Contests
 * [ ] NFT Showroom Launch
 * [ ] Merch Store Part 1
 {% endtab %}
