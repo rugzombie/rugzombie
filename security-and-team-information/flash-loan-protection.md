@@ -2,7 +2,7 @@
 
 Due to the recent increase in flash loan attacks on the Binance Smart Chain, our team desired to be above reproach in our security measures to prevent manipulation of our token and exploitation from hackers specifically in regards to Flash Loan attacks.
 
-To begin with, our price feed data uses ChainLink \(LINK\) to provide aggregate sources of price feed data, reducing the likelihood of flash loan attacks. 
+To begin with, our price feed data will use ChainLink \(LINK\) to provide aggregate sources of price feed data, reducing the likelihood of flash loan attacks. 
 
 [See more about LINK and flash loan protection HERE](https://blog.chain.link/flash-loans-and-the-importance-of-tamper-proof-oracles/).
 
