@@ -8,15 +8,17 @@ description: >-
 
 Formal Audits
 
-* [x] TechRate \(done\) 
-* [ ] Certik \(in progress\)
-* [ ] Hashex \(coming soon\)
+* [x] TechRate \(done\) See [HERE](https://github.com/TechRate/Smart-Contract-Audits/blob/main/DrFrankenstein%20Standart%20Smart%20Contract%20Security%20Audit.pdf)
+* [ ] Certik \(next on list\)
+* [ ] Hashex \(in discussion\)
 * [ ] Haechi \(in discussion\) 
 
 Community Audits
 
 * [ ] BSC Checker \(under discussion, no commits\) 
-* [x] Rug Warnings 
+* [x] Rug Warnings \(See [HERE](www.rugwarnings.com)\)
+
+
 
 
 
