@@ -18,7 +18,7 @@ view in [BSC SCAN](https://bscscan.com/address/0xa3473B7b44B63a577CFa56474dfb0b2
 
 **Initial Supply:** 100million ZMBE
 
-**Emission Rate on Launch:** 20 ZMBE / block
+**Emission Rate on Launch:** 10 ZMBE / block
 
 ## Why ZMBE has no hard capped supply?
 
@@ -40,7 +40,7 @@ In addition to utilizing $ZMBE to recover loss from rugged tokens, users are inc
 
 We have many burning mechanism, staking mechanisms and more that will lead to $ZMBE being emission neutral. If anything, we may need to _increase_ the emission rate rather than decrease due to high demand and how useful $ZMBE will be in all our ecosystems.But as the chart below demonstrates, $ZMBE is among some of the lowest emissions you will find in farming projects.
 
-![emission comparison with other projects](../.gitbook/assets/screen-shot-2021-06-17-at-3.55.59-pm.png)
+![](../.gitbook/assets/screen-shot-2021-06-01-at-1.01.25-pm.png)
 
 
 
