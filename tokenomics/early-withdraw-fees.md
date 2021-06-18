@@ -16,5 +16,3 @@ This fee applies to both harvesting and initial deposits. The withdraw period is
 
 This timer is reset upon each deposit and withdraw of to [de-incentive whales](whale-taxes-de-incentives-early-withdraw-fees.md) and incentivize long term holding.
 
-This timer can be suspended upon consent of the dev team.  
-
