@@ -52,7 +52,7 @@ For instance, goose finance was the first to remove the migrator code on the BSC
 
 Our liquidity at launch will be very low to begin with, so locking our own liquidity is not actually that helpful. And besides, locked liquidity eventually gets unlocked and relocked, in an endless cycle. Our team is putting our blood, sweat and tears into this thing. 
 
-Locked liquidity and burned liquidity addresses left an entire generation of projects on v1 of pancakeswap. We do intend to limit ourselves in this manner. 
+Locked liquidity and burned liquidity addresses left an entire generation of projects on v1 of pancakeswap. We don't intend to limit ourselves in this manner. 
 
-At the end of the day, community trust and confidence are important to us, but so is doing what is right for the project. We will not add/remove features that will prevent future growth because early token holders need assurance. We expect our community to do their own research and due diligence.
+At the end of the day, community trust and confidence are important to us, but so is doing what is right for the project. We will not add/remove features that will prevent future growth because early token holders need assurances. We expect our community to do their own research and due diligence. If you are uncomfortable with these decisions, you do not have to be involved in our token. No one is forcing users or token holders to participate.
 
