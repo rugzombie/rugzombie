@@ -50,7 +50,7 @@ For instance, goose finance was the first to remove the migrator code on the BSC
 
 #### Locked Liquidity
 
-Our liquidity at launch will be very low to begin with, so locking our own liquidity is not actually that helpful. And besides, locked liquidity eventually gets unlocked and relocked, in and endless cycle. Our team is putting our blood, sweat and tears into this thing. 
+Our liquidity at launch will be very low to begin with, so locking our own liquidity is not actually that helpful. And besides, locked liquidity eventually gets unlocked and relocked, in an endless cycle. Our team is putting our blood, sweat and tears into this thing. 
 
 Locked liquidity and burned liquidity addresses left an entire generation of projects on v1 of pancakeswap. We do intend to limit ourselves in this manner. 
 
