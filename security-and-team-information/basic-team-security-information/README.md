@@ -46,7 +46,7 @@ There are a lot of contract features that certain defi projects have eliminated 
 
 #### Migrator Code
 
-For instance, goose finance was the first to remove the migrator code on the BSC. This feature allows for upgrade in the future of a project, and removing it is basically like saying a project does not intend to upgrade to a future version. Our project is a long term project, so we are doing what is best for the project, even if it goes against the norm for new BSC projects. 
+For instance, goose finance was the first to remove the migrator code on the BSC. This feature allows for upgrade in the future of a project, and removing it is basically like saying a project does not intend to upgrade to a future version. Our project is a long term project, so we are doing what is best for the project, even if it goes against the norm for new BSC projects. Other notable projects that have kept this code are Pancakeswap and Sushiswap.
 
 #### Locked Liquidity
 
