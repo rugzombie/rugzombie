@@ -42,7 +42,7 @@ Interested to join our team? [Click Here](../join-our-team-of-dr.-frankensteins.
 
 ## What About all the Other Contract Features?
 
-There are a lot of contract features that defi projects have eliminated or locked upon launch. They do this to give public assurance that they are not a scam. This is admirable, however, these features are in the code for a reason. 
+There are a lot of contract features that certain defi projects have eliminated or locked upon launch. They do this to give public assurance that they are not a scam. This is admirable, however, these features are in the code for a reason and to eliminate them or lock them comes with significant drawbacks.
 
 #### Migrator Code
 
