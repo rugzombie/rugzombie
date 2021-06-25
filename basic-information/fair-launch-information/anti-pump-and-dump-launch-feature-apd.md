@@ -10,7 +10,7 @@ So when we launched, we tried to do everything right. In lieu of doing an initia
 
 Our hope is this move shows transparency and our team is invested long term because our own money went into it. 
 
-As such, RugZombie is beginning with ultra low liquidity, and therefore requires careful stewardship right after launch to protect token holders from pump and dumps, sniper bots and whale manipulations. 
+As such, RugZombie is beginning with lower liquidity than other tokens, and therefore requires careful stewardship right after launch to protect token holders from pump and dumps, sniper bots and whale manipulations. 
 
 **Our APD feature on the first day of launch prevents any token holder from buying or owning more than 2% of the total supply of $ZMBE at any one time.** 
 
