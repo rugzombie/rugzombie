@@ -20,5 +20,3 @@ Buy orders of 2% or more of the supply will be rejected and wallets holding 2% o
 
 Our team plans to monitor the initial release of our token and to scale this percentage back as necessary \(likely within the first hour of launch\) and to remove this APD feature completely once our public launch has stabilized, likely on the same day as our launch.
 
-Our treasury wallet has been whitelisted and this feature will not apply on the wallet.
-
