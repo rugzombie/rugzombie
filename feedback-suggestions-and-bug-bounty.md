@@ -4,7 +4,7 @@ description: have a thought? let us know.
 
 # Feedback, Suggestions and Bug Bounty
 
-Have an idea for the following? Let us know in telegram or by sending an email to [rugzombie@protonmail.com](mailto:rugzombie@protonmail.com).
+Have an idea for the following? Let us know in telegram or by sending an email to info@rugzombie.io.
 
 * Rugged projects to consider
 * New features
