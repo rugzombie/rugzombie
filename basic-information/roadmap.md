@@ -11,7 +11,7 @@ description: This roadmap is subject to adaption as market conditions are always
 * [x] Techrate Audit
 * [x] First Partnerships\*
 * [ ]  Lite Paper Release
-* [ ] Launch of Dapp
+* [x] Launch of Dapp
 * [x] Initial Grave, Tomb and Spawning Pool Offerings
 * [x] Initial Marketing
 * [ ] Auction Feature
