@@ -33,7 +33,7 @@ Our team is not planning to use social media influencers at launch because these
 
 We may revise our position on this as the project stabilizes and at community discretion and certain milestones.
 
-If you are an influencer, marketer and want to be involved in marketing our product, please email us at [rugzombie@protonmail.com](mailto:rugzombie@protonmail.com) with the header: MARKETING.
+If you are an influencer, marketer and want to be involved in marketing our product, please email us at [info@rugzombie.io](mailto:info@rugzombie.io) with the header: MARKETING.
 
 {% file src=".gitbook/assets/marketing-roadmap-1.mp4" caption="Marketing Roadmap" %}
 
