@@ -8,7 +8,7 @@ description: Tokenomics 101
 
 **Token Symbol:** ZMBE
 
-**Token Address**: 0xbefd2cD02021E59116953d42a74DC834dDCf9c9f
+**Token Address**: 0xbefd2cD02021E59116953d42a74DC834dDCf9c9f \(this token address has changed, do not use\) 
 
 view in BSC SCAN
 
