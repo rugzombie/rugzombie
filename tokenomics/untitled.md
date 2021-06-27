@@ -6,7 +6,7 @@ description: Tokenomics 101
 
 **Token Name:** Zombie 
 
-**Token Symbol:** ZMBE
+**Token Symb**
 
 **Token Address**: 0xbefd2cD02021E59116953d42a74DC834dDCf9c9f \(this token address has changed, do not use\) 
 

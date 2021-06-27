@@ -2,11 +2,13 @@
 
 Wallet Addresses and Contracts:
 
-* $ZMBE Token: 0xbefd2cD02021E59116953d42a74DC834dDCf9c9f
-* MasterChef: 0xF07fc10C5C0161188F204CB6189A1D4BFD26B4CF
+* $ZMBE Token: 0xbefd2cD02021E59116953d42a74DC834dDCf9c9f \(this has changed, do not use\) 
+* MasterChef: 0xF07fc10C5C0161188F204CB6189A1D4BFD26B4CF \(this has changed, do not use\) 
 * Multisig Dev Wallet: 0x666a26C410BdfDB4B5D51B971E209Dda4A96594e
 * Treasury Wallet: 0x111a8fC09D65f29BBb026884c3034275DC9DA497
 * Burn Address: 0x0662cfC47e366e60121c1F1D8DFcA0eF0F2F64a5
+
+
 
   
 
