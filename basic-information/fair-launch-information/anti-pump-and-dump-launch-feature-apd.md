@@ -4,7 +4,7 @@ description: This page is temporary and will be updated when these features are 
 
 # Anti-Pump&Dump Launch Feature \(APD\)
 
-RugZombie is a project born of passion. We are not whales, we are not a major corporation. We are a group of passionate, thoughtful, well-meaning men and women who want to clean up the defi ecosystem and provide real value. 
+RugZombie is a project born of passion to clean up the defi ecosystem and provide real value. 
 
 So when we launched, we tried to do everything right. In lieu of doing an initial coin or flip offering, our team chose a fair public launch and to provide initial liquidity ourselves, locked from the start. 
 
