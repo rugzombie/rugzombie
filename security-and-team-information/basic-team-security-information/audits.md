@@ -15,7 +15,6 @@ Formal Audits
 
 Community Audits
 
-* [ ] BSC Checker \(under discussion, no commits\) 
 * [x] Rug Warnings \(See [HERE](www.rugwarnings.com)\)
 
 **Techrate Audit In Depth**
