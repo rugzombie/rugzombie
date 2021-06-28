@@ -12,7 +12,9 @@ Our team was thoughtful about balancing the fair and open nature of a decentrali
 
 Rather than restricting whales completely \(who can bring much needed liquidity to the market\), we have chosen instead to apply a whale tax of 8% on liquidity removal of more than 5% of the total supply. 
 
-This 8% will be immediately be sent to the treasury where we can buy back and burn our token.
+This 8% will be immediately be sent to a multi-signature address where we can buy back and burn our token, lock liquidity or migrate to our own AMM.
+
+We considered locking liquidity but decided it was not in the best interest of the project longterm unless we were on our own AMM. 
 
 As our market matures, we may need to change the tax rate, so please stay updated on the most relevant information. 
 
