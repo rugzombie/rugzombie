@@ -22,7 +22,7 @@ These NFTs may be a fun way to adjust to losing money on scammed tokens, but wil
 {% endhint %}
 
 {% hint style="info" %}
-Our Deposit Fee is assessed in BNB to reduce selling pressure of ZMBE to keep our token price stable. TLDR: You won't see our treasury wallet selling lots of $ZMBE.
+Our Deposit Fee is assessed in BNB to reduce selling pressure of ZMBE to keep our token price stable. 
 {% endhint %}
 
 {% hint style="info" %}
