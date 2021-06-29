@@ -42,13 +42,11 @@ You can see the treasury fund wallet address here:
 
 ## Developer Vested Tokens
 
-The dev team will be transparent about our tokens and lock funds in a time lock of 30 days. We also fully expect to participate just like all other token holders at launch with our own personal funds.
+The dev team will be transparent about our tokens. We also fully expect to participate just like all other token holders at launch with our own personal funds.
 
 The Dev Team maintains 10% of initial supply \(a total of 10mil ZMBE\) in vested time-locked wallet which is held in a multisignature wallet at this address:
 
  0x666a26C410BdfDB4B5D51B971E209Dda4A96594e
 
-Our developer wallet is essentially a compensation plan for our core team of developers, artists, and more. This wallet also accrues a yield over time like other contracts.
-
-
+Our developer wallet is essentially a compensation plan for our core team of developers, artists, and more. 
 
