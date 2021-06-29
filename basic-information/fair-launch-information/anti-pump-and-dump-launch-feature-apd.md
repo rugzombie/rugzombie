@@ -12,7 +12,7 @@ Our hope is this move shows transparency and our team is invested long term beca
 
 As such, RugZombie is beginning with lower liquidity than other tokens, and therefore requires careful stewardship right after launch to protect token holders from pump and dumps, sniper bots and whale manipulations. 
 
-**Our APD feature on the first day of launch prevents any token holder from buying or owning more than 2% of the total supply of $ZMBE at any one time.** 
+**Our APD feature on the first day of launch prevents any token holder from buying or owning more than 2% of the total supply of $ZMBE at any one time. This feature will be removed appropriately after launch, likely within the first hour.**
 
 Buy orders of 2% or more of the supply will be rejected and wallets holding 2% or more will not be able to acquire more $ZMBE through the swap feature until APD is lifted. They may still stake and earn $ZMBE through our LPs and GRAVES.
 
