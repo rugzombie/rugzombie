@@ -6,7 +6,7 @@ description: This page is temporary and will be updated when these features are 
 
 RugZombie is a project born of passion to clean up the defi ecosystem and provide real value. 
 
-So when we launched, we tried to do everything right. In lieu of doing an initial coin or flip offering, our team chose a fair public launch and to provide initial liquidity ourselves, locked from the start. 
+So when we launched, we tried to do everything right. In lieu of doing an initial coin or flip offering, our team chose a fair public launch and to provide initial liquidity ourselves. To this point, our dev team has spent considerable money employing contract developers \(to the tune of thousands of dollars\), a similar amount in audits, subscriptions, paying artists and more.
 
 Our hope is this move shows transparency and our team is invested long term because our own money went into it. 
 
