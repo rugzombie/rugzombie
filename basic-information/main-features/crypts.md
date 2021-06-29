@@ -17,7 +17,7 @@ There is a deposit fee \(in BNB\) for SPs to be unlocked. This deposit fee allow
 * Build up our treasury fund for future liquidity pools, audits etc. 
 
 {% hint style="info" %}
-Our Deposit Fee is assessed in BNB to reduce selling pressure of ZMBE to keep our token price stable. TLDR: You won't see our treasury wallet selling lots of $ZMBE.
+Our Deposit Fee is assessed in BNB to reduce selling pressure of ZMBE to keep our token price stable. 
 {% endhint %}
 
 
