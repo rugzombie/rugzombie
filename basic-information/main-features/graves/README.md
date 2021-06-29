@@ -6,8 +6,9 @@ description: For those worthless dead tokens.
 
 Graves are single asset staking pools wherein the user stakes:
 
-* An "unlock amount" of $ZMBE to unlock the grave and stake
-* At least 1 of the rugged/scammed token to be donated
+* An "unlock amount" to open the Grave
+* At least 1 of the rugged/scammed token to be donated \(these are not recoverable\)
+* A minimum amount of staked $ZMBE, determined by each Grave
 
 The user will be rewarded for staking $ZMBE and the rugged token for a certain amount of time \(determined by each pool\) with a single NFT commemorating their rugged token experience and a determined amount of $ZMBE relative to the amount of $ZMBE staked.
 
