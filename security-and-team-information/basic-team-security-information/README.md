@@ -12,7 +12,7 @@ While our team has chosen to remain anonymous to the public, we will have doxed 
 
 ●  [emergency withdraw feature](emergency-withdraw.md) \(in case of DDOS attack\)
 
-●  [Multi-signature treasury wallet](../../tokenomics/initial-token-supply.md#treasury-funds) and [vested developer tokens](../../tokenomics/initial-token-supply.md#developer-vested-tokens)
+●  [Multi-signature treasury wallet](../../tokenomics/initial-token-supply.md#treasury-funds) and developer wallet
 
 ●  [Flash Loan Protection Features](../flash-loan-protection.md)
 
