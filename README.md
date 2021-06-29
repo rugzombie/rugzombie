@@ -24,7 +24,7 @@ and still other projects are exploited by flash loan attacks, and succumb to oth
 * Provide a humorous way for crypto users to “move on” emotionally from their losses
 * Promote a cleaner and safer defi ecosystem
 
-Feel free to peruse our docs for any information.
+Feel free to explore our docs for any information.
 
 **Here are a few quick links to get started:**
 
