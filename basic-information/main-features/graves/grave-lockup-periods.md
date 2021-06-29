@@ -1,10 +1,10 @@
-# Grave Lockup Periods
+# Grave Timer Periods
 
 **Grave and Tomb Timers** 
 
-$ZMBE employs a unique feature that penalizes early withdrawal from nearly all our graves, tombs and spawning pools. As all our graves, tombs and spawning pools require a certain vested time period to earn the NFT rewards, or farming rewards, the withdrawal fee helps ensure $ZMBE stays in staking pools.
+In order to earn our custom NFTs, users must stake their funds for a specific amount of time, denoted in each Grave. T
 
-To clarify, the withdrawal fee does not locks users' deposits. Deposited tokens can be withdrawn at any time, but if you choose to withdraw your farming rewards or initial deposit before the allotted time has passed, a withdraw fee will be assessed. Please be careful and thoughtful about when to deposit and withdraw funds. 
+Deposited tokens can be withdrawn at any time, but if you choose to withdraw your initial deposit before the allotted time has passed, a withdraw fee will be assessed. Please be careful and thoughtful about when to deposit and withdraw funds. 
 
 Please read the conditions of each pool before you begin staking or providing liquidity. 
 

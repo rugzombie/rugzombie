@@ -9,7 +9,7 @@
 * [Main Features](basic-information/main-features/README.md)
   * [NFTs](basic-information/main-features/nfts.md)
   * [Graves](basic-information/main-features/graves/README.md)
-    * [Grave Lockup Periods](basic-information/main-features/graves/grave-lockup-periods.md)
+    * [Grave Timer Periods](basic-information/main-features/graves/grave-lockup-periods.md)
   * [Tombs](basic-information/main-features/tombs.md)
   * [Spawning Pools](basic-information/main-features/crypts.md)
 * [Fair Launch Information](basic-information/fair-launch-information/README.md)
