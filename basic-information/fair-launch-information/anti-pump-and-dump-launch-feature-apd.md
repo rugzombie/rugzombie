@@ -8,7 +8,7 @@ RugZombie is a project born of passion to clean up the defi ecosystem and provid
 
 So when we launched, we tried to do everything right. In lieu of doing an initial coin or flip offering, our team chose a fair public launch and to provide initial liquidity ourselves. To this point, our dev team has spent considerable money employing contract developers \(to the tune of thousands of dollars\), a similar amount in audits, subscriptions, paying artists and more.
 
-Our hope is this move shows transparency and our team is invested long term because our own money went into it. 
+Our hope is this move shows transparency and our team is invested long term because our own money went into it in such a way that we cannot remove those funds as they have been used to purchase things necessary for our platform. 
 
 As such, RugZombie is beginning with lower liquidity than other tokens, and therefore requires careful stewardship right after launch to protect token holders from pump and dumps, sniper bots and whale manipulations. 
 
