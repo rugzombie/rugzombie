@@ -12,7 +12,5 @@ This fee applies to both harvesting and initial deposits. The withdraw period is
 
 **48 Hours on all initially deposited funds** 
 
-**2 Hours for all farming rewards**
-
 This timer is reset upon each deposit and withdraw of to [de-incentive whales](whale-taxes-de-incentives-early-withdraw-fees.md) and incentivize long term holding.
 
