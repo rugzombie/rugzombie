@@ -34,8 +34,6 @@ Why not burned wallet address/locked LP? As the transition of pancakeswap to ver
 Deposit Fees will be assessed in BNB so as to not put sell pressure on the price of $ZMBE. Our team uses a multi-signature treasury wallet that requires majority consensus on the use of treasury funds.
 {% endhint %}
 
-We will publish a finalized treasury fund budget once it has been finalized. At launch, we are trying to be as flexible as possible to adapt to needs as they arise. 
-
 You can see the treasury fund wallet address here: 
 
 0x111a8fC09D65f29BBb026884c3034275DC9DA497 
