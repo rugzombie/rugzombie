@@ -6,7 +6,7 @@ description: How to mitigate dumping and manipulation
 
 ## Whale Tax on LP Removal
 
-Whether a project starts with a presale or a fair launch, BSC projects can fall prey to large wallet holders who, whether willfully or not, affect price action on the open market. This is a short term issue that is nearly unavoidable on new tokens. While we are a long term project \(and not worried about short term price action\) we are mindful that the first weeks and months of a new project are extremely important for its success.
+Whether a project starts with a presale or a fair launch, BSC projects can fall prey to large wallet holders who can drastically affect price action on the open market. This is a short term issue that is nearly unavoidable on new tokens. While we are a long term project \(and not worried about short term price action\) we are mindful that the first weeks and months of a new project are extremely important for its success.
 
 Our team was thoughtful about balancing the fair and open nature of a decentralized financial market and restricting major market manipulation by whales. 
 
