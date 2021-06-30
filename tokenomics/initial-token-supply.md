@@ -44,7 +44,7 @@ You can see the treasury fund wallet address here:
 
 The dev team will be transparent about our tokens. We also fully expect to participate just like all other token holders at launch with our own personal funds.
 
-The Dev Team maintains 10% of initial supply \(a total of 10mil ZMBE\) in vested time-locked wallet which is held in a multisignature wallet at this address:
+The Dev Team maintains 10% of initial supply \(a total of 10mil ZMBE\) in vested wallet which is held in a multisignature wallet at this address:
 
  0x666a26C410BdfDB4B5D51B971E209Dda4A96594e
 
