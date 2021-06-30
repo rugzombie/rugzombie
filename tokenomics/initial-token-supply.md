@@ -18,13 +18,13 @@ Why not burned wallet address/locked LP? As the transition of pancakeswap to ver
 
 ●  Manual buyback and burns
 
-●  Paying for audits, product features, and project expenses
+●  Paying for audits, product features, subscriptions and project expenses
 
 ●  Marketing and promotions
 
 ●  Future listings on major exchanges
 
-●  NFT artist payments
+●  NFT artist payments, and contract developer payments
 
 ●  New features
 
