@@ -9,7 +9,7 @@ description: How are initial token funds used.
 80% of all our tokens will be in initial liquidity contract at fair launch. 
 
 {% hint style="info" %}
-Why not burned wallet address/locked LP? As the transition of pancakeswap to version 2 demonstrated  recently for many projects on PCS, burned/locked wallet addresses can really destroy a project. Our team wanted the ability to adjust to any issues that may arise over the course of time with new versioning of BSC projects like pancakeswap. 
+Why not burned wallet address/locked LP? As the transition of pancakeswap to version 2 demonstrated  recently for many projects on PCS, burned/locked wallet addresses can really destroy a project. Our team wanted the ability to adjust to any issues that may arise over the course of time with new versioning of BSC projects like pancakeswap. We also plan to upgrade and release future versions of our project. Burned wallets remove the ability to do this. 
 {% endhint %}
 
 ## Treasury Funds
