@@ -8,9 +8,11 @@ description: Tokenomics 101
 
 **Token Symbol: ZMBE**
 
-**Token Address**: 0xbefd2cD02021E59116953d42a74DC834dDCf9c9f \(this token address has changed, do not use\) 
+**OFFICIAL Token Address**: 0x50ba8BF9E34f0F83F96a340387d1d3888BA4B3b5
 
-view in BSC SCAN
+[view in BSC SCAN](https://bscscan.com/address/0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5)
+
+**Old Token Address:** ~~0xbefd2cD02021E59116953d42a74DC834dDCf9c9f~~ \(this token address has changed, do not use\) 
 
 **Chain:** Binance Smart Chain \(BEP20\)
 
