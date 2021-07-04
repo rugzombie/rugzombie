@@ -4,15 +4,7 @@ description: 'Fair Launch, No Presale, No pre-mine'
 
 # Fair Launch Information
 
-## Farming
-
-Farming will start at block: 
-
-you can view the block countdown at [bscscan.com](http://bscscan.com)
-
-Farming Starting Block:
-
-Estimated Target Date:
+Estimated Target Date: July 5th, 2021 12PM UTC
 
 ## Liquidity Information
 
