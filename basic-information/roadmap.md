@@ -24,7 +24,7 @@ description: This roadmap is subject to adaption as market conditions are always
 * [ ] New Grave, Tomb and Spawning Pools Offerings
 * [ ] Own AMM\* 
 * [ ] Community Voting/NFT Contests
-* [ ] NFT Showroom Launch
+* [ ] NFT Showroom Launch / Display Page
 * [ ] Merch Store Part 1
 {% endtab %}
 
