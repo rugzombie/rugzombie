@@ -1,6 +1,10 @@
+---
+description: It's basically this gitbook document...but prettier
+---
+
 # Lite Paper
 
-COMING SOON :-\) 
+{% file src=".gitbook/assets/rugzombie-lite-paper-zmbe-.pdf" caption="OFFICIAL RUG ZOMBIE LITE PAPER" %}
 
-![](.gitbook/assets/6.png)
+
 
