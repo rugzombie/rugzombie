@@ -9,9 +9,9 @@ Wallet Addresses and Contracts:
 * Multisig Dev Wallet: 0x666a26C410BdfDB4B5D51B971E209Dda4A96594e
 * Treasury Wallet: 0x111a8fC09D65f29BBb026884c3034275DC9DA497
 
+See our masterchef \(dr. frankenstein\) audit information posted on medium here: 
 
-
-
+[https://rugzombie.medium.com/token-contract-address-has-been-updated-765b96dfc020](https://rugzombie.medium.com/token-contract-address-has-been-updated-765b96dfc020)
 
   
 
