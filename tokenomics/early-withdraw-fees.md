@@ -10,7 +10,7 @@ This 5% fee will be immediately sent to the treasury upon early removal. Some of
 
 This fee applies to staked amounts. The withdraw period is:
 
-**48 Hours on all initially deposited funds** 
+**72 Hours on all initially deposited funds** 
 
 This timer is reset upon each deposit and withdraw of to [de-incentive whales](whale-taxes-de-incentives-early-withdraw-fees.md) and incentivize long term holding.
 
