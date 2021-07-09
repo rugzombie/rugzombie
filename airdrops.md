@@ -4,7 +4,7 @@ description: This page is actively updated to reflect current information.
 
 # AIRDROPS
 
-## First Airdrop Contest \(Ends at Launch or 1000 Contestants\) 
+## First Airdrop Contest \(Winners Announced on Twitter\) 
 
 {% embed url="https://rugzombie.typeform.com/to/kKv3YYdg" %}
 
