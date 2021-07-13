@@ -4,7 +4,7 @@ description: The ZMBE-burning live offerings.
 
 # Spawning Pools
 
-Our Spawning Pools \(SPs\) will operate more akin to the syrup pools on PancakeSwap, where a user deposits $ZMBE in order to earn live project tokens. 
+Our Spawning Pools \(SPs\) will operate more akin to the syrup pools on PancakeSwap, where a user deposits $ZMBE in order to earn live project tokens and additionally, a customized NFT. 
 
 Our team will do our best to provide due diligence on tokens we offer in the spawning pools. Because of the sensitive nature of working "around" rugged projects, we are hyper-vigilant about what tokens we offer. 
 
