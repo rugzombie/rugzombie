@@ -28,6 +28,7 @@ description: This roadmap is subject to adaption as market conditions are always
 * [x] Community Voting/NFT Contests
 * [ ] NFT Showroom Launch / Display Page
 * [ ] Merch Store Part 1
+* [x] ~~Not a Black Market, who told you about such things? we cannot confirm the existence of this feature. Catacombs? No, there is no such thing.~~
 {% endtab %}
 
 {% tab title="Q4 2021" %}
