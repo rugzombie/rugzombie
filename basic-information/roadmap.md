@@ -14,16 +14,18 @@ description: This roadmap is subject to adaption as market conditions are always
 * [x] Launch of Dapp
 * [x] Initial Grave, Tomb and Spawning Pool Offerings
 * [x] Initial Marketing
-* [ ] Auction Feature \(DELAYED UNTIL AFTER LAUNCH\)
+* [x] Auction Feature \(DELAYED UNTIL AFTER LAUNCH\)
 {% endtab %}
 
 {% tab title="Q3 2021" %}
 * [ ] Zombie Multipliers
 * [ ] Whale Graves
+* [ ] Referral System
+* [ ] BURN Grave
 * [ ] Smart Contract Audits for Spawning Pools
-* [ ] New Grave, Tomb and Spawning Pools Offerings
+* [x] New Grave, Tomb and Spawning Pools Offerings
 * [ ] Own AMM\* 
-* [ ] Community Voting/NFT Contests
+* [x] Community Voting/NFT Contests
 * [ ] NFT Showroom Launch / Display Page
 * [ ] Merch Store Part 1
 {% endtab %}

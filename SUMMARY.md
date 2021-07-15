@@ -13,6 +13,7 @@
   * [Tombs](basic-information/main-features/tombs.md)
   * [Mausoleum](basic-information/main-features/mausoleum.md)
   * [Spawning Pools](basic-information/main-features/crypts.md)
+  * [Referral Program](basic-information/main-features/referral-program.md)
 * [Fair Launch Information](basic-information/fair-launch-information/README.md)
   * [Anti-Pump&Dump Launch Feature \(APD\)](basic-information/fair-launch-information/anti-pump-and-dump-launch-feature-apd.md)
 * [$ZMBE Roadmap](basic-information/roadmap.md)
