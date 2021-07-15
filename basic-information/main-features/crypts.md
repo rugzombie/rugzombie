@@ -20,5 +20,5 @@ There is a deposit fee \(in BNB\) for SPs to be unlocked. This deposit fee allow
 Our Deposit Fee is assessed in BNB to reduce selling pressure of ZMBE to keep our token price stable. 
 {% endhint %}
 
-
+If you are interested to list your project as a Spawning Pool, please [fill out this application](https://rugzombie.typeform.com/to/NKBnt4YK). 
 
