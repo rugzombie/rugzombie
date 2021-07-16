@@ -8,6 +8,7 @@ Wallet Addresses and Contracts:
 * Old MasterChef: ~~0xF07fc10C5C0161188F204CB6189A1D4BFD26B4CF~~ \(this has changed, do not use\) 
 * Multisig Dev Wallet: 0x666a26C410BdfDB4B5D51B971E209Dda4A96594e
 * Treasury Wallet: 0x111a8fC09D65f29BBb026884c3034275DC9DA497
+* Artist Treasury Wallet: 0x21D35401266bB80F76b38ef05c3c45c8894497b8
 
 See our masterchef \(dr. frankenstein\) audit information posted on medium here: 
 
