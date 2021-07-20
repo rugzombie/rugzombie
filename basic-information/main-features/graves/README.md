@@ -12,6 +12,7 @@ Graves are single asset staking pools wherein the user stakes:
 
 The minimum staking amounts are subject to change, as our token price appreciates, we will necessarily lower the minimum amount. To begin with, staking minimums are the following:
 
+* Basic Zombie Grave - 5000 $ZMBE
 * Common Graves - 1000 $ZMBE
 * Uncommon Graves - 2500 $ZMBE
 * Rare Graves - 5000 $ZMBE
