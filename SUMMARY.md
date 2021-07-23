@@ -7,6 +7,7 @@
 * [Get Started: Disclaimer](basic-information/financial-disclaimer.md)
 * [The Problem and Solution](basic-information/the-problem-and-solution.md)
 * [Main Features](basic-information/main-features/README.md)
+  * [Catacombs](basic-information/main-features/catacombs.md)
   * [NFTs](basic-information/main-features/nfts.md)
   * [Graves](basic-information/main-features/graves/README.md)
     * [Grave Timer Periods](basic-information/main-features/graves/grave-lockup-periods.md)
