@@ -1,3 +1,7 @@
+---
+description: 'It''s time for business, that''s why we wear business socks.'
+---
+
 # Partnerships and Business Development
 
 For Spawning Pool Requests or Other Contact, you can view here: 
