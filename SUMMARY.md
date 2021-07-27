@@ -52,5 +52,5 @@
 * [Feedback, Suggestions and Bug Bounty](feedback-suggestions-and-bug-bounty.md)
 * [AIRDROPS](airdrops.md)
 * [Logos](logos.md)
-* [Untitled](untitled.md)
+* [Partnerships and Business Development](untitled.md)
 
