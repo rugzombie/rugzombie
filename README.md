@@ -34,6 +34,12 @@ Feel free to explore our docs for any information.
 
 {% page-ref page="security-and-team-information/flash-loan-protection.md" %}
 
+**See What RugZombie is Doing to Earn Trust in DeFi:**
+
+{% page-ref page="security-and-team-information/basic-team-security-information/trust-us-campaign.md" %}
+
+
+
 **Other Links:**
 
 {% page-ref page="lite-paper.md" %}
