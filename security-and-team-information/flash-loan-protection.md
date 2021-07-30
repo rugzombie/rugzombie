@@ -2,7 +2,7 @@
 
 Due to the recent increase in flash loan attacks on the Binance Smart Chain, our team desired to be above reproach in our security measures to prevent manipulation of our token and exploitation from hackers specifically in regards to Flash Loan attacks.
 
-To begin with, our price feed data will use ChainLink \(LINK\) to provide aggregate sources of price feed data, reducing the likelihood of flash loan attacks. This will happen as soon as we can list on a CEX for price feed data outside of the chain itself. 
+To begin with, our price feed data will eventually use ChainLink \(LINK\) to provide aggregate sources of price feed data, reducing the likelihood of flash loan attacks. This will happen as soon as we can list on a CEX for price feed data outside of the chain itself. 
 
 We actively monitor this currently, and we are currently exploring liquidity options on DEX that do not allow for flash loans at all.  
 
