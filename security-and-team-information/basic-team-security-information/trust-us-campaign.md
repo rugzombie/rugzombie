@@ -1,3 +1,7 @@
+---
+description: Obviously Read Our Security and Team Information...
+---
+
 # TRUST US CAMPAIGN
 
 ![](../../.gitbook/assets/wewanttrust.jpg)

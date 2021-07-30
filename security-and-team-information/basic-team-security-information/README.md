@@ -30,6 +30,8 @@ At the same time, our team knows the unique problems facing developers and see t
 
  It also requires that token holders do their own due diligence and research before buying or selling in a risky market like cryptocurrency. 
 
+Members of our team have KYCed to members of the media for publication, and all our contract developers are KYCed using [blockpass](https://blockpass.org/). 
+
 ## How Many Are on the Team? 
 
 Our team is a combination of core developers/founders \(dr. frankensteins\), contract workers, and community leaders \(undertakers\).
