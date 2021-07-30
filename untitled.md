@@ -6,7 +6,7 @@ description: 'It''s time for business, that''s why we wear business socks.'
 
 For Spawning Pool Requests or Other Contact, you can view here: 
 
-[Spawning Pools](basic-information/main-features/crypts.md)
+[Spawning Pools](basic-information/main-features/crypts/)
 
 [Contact Us](feedback-suggestions-and-bug-bounty.md)
 
