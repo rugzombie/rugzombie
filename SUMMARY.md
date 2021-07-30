@@ -32,6 +32,7 @@
 ## Security and Team Information
 
 * [Basic Security Information](security-and-team-information/basic-team-security-information/README.md)
+  * [TRUST US CAMPAIGN](security-and-team-information/basic-team-security-information/trust-us-campaign.md)
   * [Audits](security-and-team-information/basic-team-security-information/audits.md)
   * [Emergency Withdraw](security-and-team-information/basic-team-security-information/emergency-withdraw.md)
   * [API information](security-and-team-information/basic-team-security-information/api-information.md)
