@@ -8,7 +8,7 @@ While our team has chosen to remain anonymous to the public, we will have doxed 
 
 ●  Good Code: Our code is transparently placed on [GitHub](../../other-links/contracts.md) and available for you to review;
 
-●  [Audits](audits.md): Beginning with TechRate \(before launch\) and eventually Certik and others. Audits don’t make a project safe, but they show good-faith effort by developers because audits cost money and time. We will also welcome community audits through active crypto community voices and plan to acquire a few of these.
+●  [Audits](audits.md): Beginning with TechRate \(before launch\) and eventually Certik and/or others. Audits don’t make a project safe, but they show good-faith effort by developers because audits cost money and time. We will also welcome community audits through active crypto community voices and plan to acquire a few of these.
 
 ●  [emergency withdraw feature](emergency-withdraw.md) \(in case of DDOS attack\)
 
