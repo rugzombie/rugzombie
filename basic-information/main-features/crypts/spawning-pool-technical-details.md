@@ -16,7 +16,9 @@ Spawning Pool Length: 90 Days
 
 NFT Minting Timer: 45 Days
 
-GFI Spawning Pool Contract Address:
+GFI Spawning pool address: 0x83818859688eF175F6AEAFb80Be881Db24A4E50a 
+
+Spawning pool factory address: 0xABFe43a16C38DD79b94a0aD437fdc4437BE70A92
 
 \*please note the GFI token is a reflect token, as such the original supply will accrue additional GFI rewards over-time. Any remaining GFI will remain in the Treasury Wallet or remitted back to the Gorilla-Fi team. 
 
