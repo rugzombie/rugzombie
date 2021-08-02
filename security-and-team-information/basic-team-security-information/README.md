@@ -36,7 +36,7 @@ Members of our team have KYCed to members of the media for publication, and all 
 
 Our team is a combination of core developers/founders \(dr. frankensteins\), contract workers, and community leaders \(undertakers\).
 
-Our core dev team has 3 members currently, and we are actively adding more as our project grows. 
+Our core dev team has 3 members currently, and we are actively adding more as our project grows. Only one member has access to the deployer wallet, and all 3 founders have access to our multisignature wallet that requires 2/3 signatures for transactions.
 
 We have a number of community leaders and experts who actively manage our socials, SEO and web traffic, marketing, partnerships, design and other efforts. 
 
