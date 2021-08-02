@@ -46,19 +46,21 @@ Interested to join our team? [Click Here](../join-our-team-of-dr.-frankensteins.
 
 There are a lot of contract features that certain defi projects have eliminated or locked upon launch. They do this to give public assurance that they are not a scam. This is admirable, however, these features are in the code for a reason and to eliminate them or lock them comes with significant drawbacks.
 
-#### Migrator Code
+#### Migrator Code \(moved to safe-owner contract\)
 
 For instance, goose finance was the first to remove the migrator code on the BSC. This feature allows for upgrade in the future of a project, and removing it is basically like saying a project does not intend to upgrade to a future version. Our project is a long term project, so we are doing what is best for the project, even if it goes against the norm for new BSC projects. Other notable projects that have kept this code are Pancakeswap and Sushiswap.
 
-Update: After community request and careful review from our devs, we are implementing a time-lock on our Migrator Code to deepen trust in the public around our project.
+Update: After community request and careful review from our devs, we are implementing a safe-owner contract on our Migrator Code to deepen trust in the public around our project.
+
+This safe-owner contract can be found at [THIS LINK](https://twitter.com/rugzombie/status/1422018975270121472?s=20). 
 
 #### Locked Liquidity
 
-Locked liquidity and burned liquidity addresses left an entire generation of projects on v1 of pancakeswap. We don't intend to limit ourselves in this manner. 
+Locked liquidity and burned liquidity addresses left an entire generation of projects on v1 of pancakeswap. We don't intend to limit ourselves in this manner by burning our liquidity wallet. 
 
 At the end of the day, community trust and confidence are important to us, but so is doing what is right for the project. We will not add/remove features that will prevent future growth because early token holders need assurances. 
 
-We expect our community to do their own research and due diligence. If you are uncomfortable with these decisions, you do not have to be involved in our token. No one is forcing users or token holders to participate. At launch we deliberately chose to not lock liquidity for some development related reasons. 
+We expect our community to do their own research and due diligence. If you are uncomfortable with these decisions, you do not have to be involved in our token. No one is forcing users or token holders to participate. At launch we deliberately chose to not lock liquidity for some development related reasons, such as moving our Liquidity to major exchanges, etc.
 
-Update: We could not reveal the nature of our hesitations until recently, but our project plans to move our liquidity to other exchanges, thereby requiring the ability to move our LP tokens. Once we have moved our liquidity to our desired exchange, we will be locking our LP in a timelock.
+Update: We could not reveal the nature of our hesitations until recently, but our project plans to move our liquidity to other exchanges, thereby requiring the ability to move our LP tokens. Once we have moved our liquidity to our desired exchange, we will be locking our LP in a timelock, although our initial liquidity was low to begin with.
 
