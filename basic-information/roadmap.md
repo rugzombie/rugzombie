@@ -18,7 +18,7 @@ description: This roadmap is subject to adaption as market conditions are always
 {% endtab %}
 
 {% tab title="Q3 2021" %}
-* [ ] Zombie Multipliers
+* [x] Zombie Multipliers
 * [ ] Whale Graves
 * [ ] Referral System
 * [ ] BURN Grave
