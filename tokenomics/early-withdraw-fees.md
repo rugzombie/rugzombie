@@ -14,5 +14,5 @@ This fee applies to staked amounts. The withdraw period is:
 
 This timer is reset upon each deposit and withdraw of to [de-incentive whales](whale-taxes-de-incentives-early-withdraw-fees.md) and incentivize long term holding.
 
-For our TOMBS, the  5% fee LP is immediately unpaired, the $ZMBE is burned, and the other pair is sent to the treasury address.
+For our TOMBS, the  5% fee LP is immediately unpaired, the $ZMBE is burned, and the other pair is sent to the treasury address. 
 
