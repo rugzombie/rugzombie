@@ -54,6 +54,10 @@ Update: After community request and careful review from our devs, we are impleme
 
 This safe-owner contract can be found at [THIS LINK](https://twitter.com/rugzombie/status/1422018975270121472?s=20). 
 
+#### **Time-Locked Masterchef**
+
+We have implemented a 6 hour tim-eock on the masterchef \(dr. frankenstein\) contract. The contract can be viewed [HERE](https://bscscan.com/address/0xDb9Cd921AaA2f7785425e6682F7c7b68c6c82049#code).
+
 #### Locked Liquidity
 
 Locked liquidity and burned liquidity addresses left an entire generation of projects on v1 of pancakeswap. We don't intend to limit ourselves in this manner by burning our liquidity wallet. 
