@@ -16,6 +16,7 @@ The minimum staking amounts are subject to change, as our token price appreciate
 * Common Graves - 1000 $ZMBE
 * Uncommon Graves - 2500 $ZMBE
 * Rare Graves - 5000 $ZMBE
+* Legendary Graves - 7500 $ZMBE
 
 The user will be rewarded for staking $ZMBE and the rugged token for a certain amount of time \(determined by each pool\) with a single NFT commemorating their rugged token experience and a determined amount of $ZMBE relative to the amount of $ZMBE staked.
 
