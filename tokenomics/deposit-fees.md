@@ -16,5 +16,5 @@ The treasury wallet address can be seen here:
 
 0x111a8fC09D65f29BBb026884c3034275DC9DA497
 
-If and when we launch our own AMM, these fees will likely be reduced or go away entirely. Thanks for your support in the meantime. You are helping keep $ZMBE undead.
+If or when we launch our own AMM, these fees will likely be reduced or go away entirely. Thanks for your support in the meantime. You are helping keep $ZMBE undead.
 
