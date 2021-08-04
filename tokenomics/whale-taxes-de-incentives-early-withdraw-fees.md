@@ -14,9 +14,11 @@ Rather than restricting whales completely \(who can bring much needed liquidity 
 
 This 8% will be immediately be sent to a multi-signature address where we can buy back and burn our token, lock liquidity or migrate to our own AMM.
 
-We considered locking liquidity but decided it was not in the best interest of the project longterm unless we were on our own AMM. 
+We considered locking liquidity but decided it was not in the best interest of the project longterm at the beginning.
 
 As our market matures, we may need to change the tax rate, so please stay updated on the most relevant information. 
+
+Please note this whale tax is hardcoded into the contract of our TOMBS and therefore will trigger even in event of emergency withdrawal.
 
 ## De-Incentives
 
