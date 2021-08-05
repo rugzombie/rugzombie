@@ -8,6 +8,10 @@ While our team has chosen to remain anonymous to the public, we will have doxed 
 
 ●  Good Code: Our code is transparently placed on [GitHub](../../other-links/contracts.md) and available for you to review;
 
+●  Migrator Code removed by safeowner \(read below\);
+
+●  Time-Lock on Masterchef Contract \(6 Hours\) \(read below\);
+
 ●  [Audits](audits.md): Beginning with TechRate \(before launch\) and eventually Hashex and/or others. Audits don’t make a project safe, but they show good-faith effort by developers because audits cost money and time. We will also welcome community audits through active crypto community voices and plan to acquire a few of these.
 
 ●  [emergency withdraw feature](emergency-withdraw.md) \(in case of DDOS attack\)
@@ -50,13 +54,15 @@ There are a lot of contract features that certain defi projects have eliminated 
 
 For instance, goose finance was the first to remove the migrator code on the BSC. This feature allows for upgrade in the future of a project, and removing it is basically like saying a project does not intend to upgrade to a future version. Our project is a long term project, so we are doing what is best for the project, even if it goes against the norm for new BSC projects. Other notable projects that have kept this code are Pancakeswap and Sushiswap.
 
-Update: After community request and careful review from our devs, we are implementing a safe-owner contract on our Migrator Code to deepen trust in the public around our project.
+After community request and careful review from our devs, we are implementing a safe-owner contract on our Migrator Code to deepen trust in the public around our project.
+
+The drawback of removing this code is that migrating to new DEX must be a manual process.
 
 This safe-owner contract can be found at [THIS LINK](https://twitter.com/rugzombie/status/1422018975270121472?s=20). 
 
 #### **Time-Locked Masterchef**
 
-We have implemented a 6 hour tim-eock on the masterchef \(dr. frankenstein\) contract. The contract can be viewed [HERE](https://bscscan.com/address/0xDb9Cd921AaA2f7785425e6682F7c7b68c6c82049#code).
+We have implemented a 6 hour time-lock on the masterchef \(dr. frankenstein\) contract. The contract can be viewed [HERE](https://bscscan.com/address/0xDb9Cd921AaA2f7785425e6682F7c7b68c6c82049#code).
 
 #### Locked Liquidity
 
@@ -64,7 +70,9 @@ Locked liquidity and burned liquidity addresses left an entire generation of pro
 
 At the end of the day, community trust and confidence are important to us, but so is doing what is right for the project. We will not add/remove features that will prevent future growth because early token holders need assurances. 
 
-We expect our community to do their own research and due diligence. If you are uncomfortable with these decisions, you do not have to be involved in our token. No one is forcing users or token holders to participate. At launch we deliberately chose to not lock liquidity for some development related reasons, such as moving our Liquidity to major exchanges, etc.
+We currently do not have locked liquidity, but plan to lock it at the appropriate time.
 
-Update: We could not reveal the nature of our hesitations until recently, but our project plans to move our liquidity to other exchanges, thereby requiring the ability to move our LP tokens. Once we have moved our liquidity to our desired exchange, we will be locking our LP in a timelock, although our initial liquidity was low to begin with.
+We expect our community to do their own research and due diligence. If you are uncomfortable with the features in our code,  you do not have to be involved in our token. No one is forcing users or token holders to participate. At launch we deliberately chose to not lock liquidity for some development related reasons, such as moving our Liquidity to major exchanges, etc.
+
+
 
