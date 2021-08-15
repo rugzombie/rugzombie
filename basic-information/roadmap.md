@@ -22,7 +22,7 @@ description: This roadmap is subject to adaption as market conditions are always
 * [ ] Whale Graves
 * [ ] Referral System
 * [ ] BURN Grave
-* [ ] Smart Contract Audits for Spawning Pools
+* [x] Smart Contract Audits for Spawning Pools
 * [x] New Grave, Tomb and Spawning Pools Offerings
 * [x] ~~Own~~ ~~AMM\*~~ 
 * [x] Community Voting/NFT Contests
