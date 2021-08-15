@@ -6,7 +6,7 @@ description: 'Team Information Below, Keep Scrolling for Security Features'
 
 While our team has chosen to remain anonymous to the public, we will have doxed with one another before launch, and have set up a number of security features that we believe will generate trust from token holders:
 
-●  Good Code: Our code is transparently placed on [GitHub](../../other-links/contracts.md) and available for you to review;
+●  Good Code: Our code is transparently placed on [GitHub](../../other-links/contracts/) and available for you to review;
 
 ●  Migrator Code removed by safeowner \(read below\);
 

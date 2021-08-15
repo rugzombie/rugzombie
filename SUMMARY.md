@@ -43,7 +43,8 @@
 ## Other Links
 
 * [Socials](other-links/socials.md)
-* [Contracts](other-links/contracts.md)
+* [Contracts](other-links/contracts/README.md)
+  * [NFT Contract Addresses](other-links/contracts/nft-contract-addresses.md)
 * [FAQ](other-links/faq.md)
 
 ---
