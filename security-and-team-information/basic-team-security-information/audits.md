@@ -9,13 +9,15 @@ description: >-
 Formal Audits
 
 * [x] TechRate \(done\) See [HERE](https://github.com/TechRate/Smart-Contract-Audits/blob/main/DrFrankenstein%20Standart%20Smart%20Contract%20Security%20Audit.pdf)
-* [ ] Certik \(next on list\)
-* [ ] Hashex \(in discussion\)
+* [x] Hashex \(in progress: preliminary report received\) 
 * [ ] Haechi \(in discussion\) 
 
-Community Audits
+Community Audits/Reviews
 
 * [x] Rug Warnings \(See [HERE](www.rugwarnings.com)\)
+* [x] RugDoc Review\*
+
+\*RugDoc determined our code was too complex to warrant a full review. We are currently working with them post our HASHEX audit report to get that coveted "low risk" button. :-\) 
 
 **Techrate Audit In Depth**
 
