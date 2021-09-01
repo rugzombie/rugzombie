@@ -14,7 +14,10 @@ Formal Audits
 
 Community Audits/Reviews
 
+_There are various crypto communities out there trying to provide a service for the defi space. Let us know if we get a positive review from a community you are a part of!_
+
 * [x] Rug Warnings \(See [HERE](www.rugwarnings.com)\)
+* [x] Rug Seekers \(See [HERE](https://twitter.com/rugseekers/status/1432930057295704067?s=21)\)
 * [x] RugDoc Review\*
 
 \*RugDoc determined our code was too complex to warrant a full review. We are currently working with them post our HASHEX audit report to get that coveted "low risk" button. :-\) 
