@@ -10,7 +10,7 @@ Formal Audits
 
 * [x] TechRate \(done\) See [HERE](https://github.com/TechRate/Smart-Contract-Audits/blob/main/DrFrankenstein%20Standart%20Smart%20Contract%20Security%20Audit.pdf)
 * [x] Hashex \(in progress: preliminary report received\) 
-* [ ] Haechi \(in discussion\) 
+* [x] Haechi \(done\) See [HERE](https://github.com/HashEx/public_audits/blob/master/rugzombie/Zombie%20report.pdf)
 
 Community Audits/Reviews
 
@@ -32,7 +32,7 @@ Our Initial Techrate Audit can be see [HERE](https://github.com/TechRate/Smart-C
 
 {% file src="../../.gitbook/assets/rugzombie-standart-smart-contract-security-audit.pdf" caption="Techrate Audit of Original Contract" %}
 
-
+{% file src="../../.gitbook/assets/hashexzombieaudit.pdf" caption="Hashex Audit of Masterchef \(Dr.Frankenstein\)" %}
 
 
 
