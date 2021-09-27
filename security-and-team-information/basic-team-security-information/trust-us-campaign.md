@@ -14,11 +14,12 @@ In August of 2021, The RugZombie team committed to an overhaul of transparency, 
 * [x] KYC for our core founders with an outside firm
 * [x] KYC for all contract devs on our platform utilizing [blockpass](https://blockpass.org/)
 * [x] [Time-locked Master-Chef](./)
-* [ ] Announcing and Subsequently Locking our Liquidity
 * [x] Increased Visibility through AMAs, etc.
 * [x] Some interesting [MAUSOLEUM](../../basic-information/main-features/mausoleum.md) pieces to celebrate our progress
-* [x] Application for a Second Audit
+* [x] Application for a Second Audit \(AUDIT COMPLETED\)
 * [x] Some Sponsored Press through trusted media outlets about our project
 
-We hope these efforts will further offer our current and future users trust on our platform. We take pride in being transparent \(if not a bit irreverent\) regarding our platform. 
+We hope these efforts will further offer our current and future users trust on our platform. We take pride in being transparent \(if not a bit irreverent\) regarding our platform.
+
+ \*locked LP is not possible to maintain our commitment to 75% of our LP committed to apeswap. 
 
