@@ -11,7 +11,7 @@ The RugZombie is committed to earning the trust of our users. DeFi can be a hell
 In August of 2021, The RugZombie team committed to an overhaul of transparency, trust and security related matters for our team and platform including a campaign that includes: 
 
 * [x] Locking Our Migrator Code with a Custom SafeOwner Code
-* [x] KYC for our core founders with an outside firm
+* [x] KYC for our core founders with an outside firm \(EZ confirmed with a news outlet before publication\) 
 * [x] KYC for all contract devs on our platform utilizing [blockpass](https://blockpass.org/)
 * [x] [Time-locked Master-Chef](./)
 * [x] Increased Visibility through AMAs, etc.
