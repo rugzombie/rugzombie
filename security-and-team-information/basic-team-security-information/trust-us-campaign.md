@@ -16,7 +16,7 @@ In August of 2021, The RugZombie team committed to an overhaul of transparency, 
 * [x] [Time-locked Master-Chef](./)
 * [x] Increased Visibility through AMAs, etc.
 * [x] Some interesting [MAUSOLEUM](../../basic-information/main-features/mausoleum.md) pieces to celebrate our progress
-* [x] Application for a Second Audit \(AUDIT COMPLETED\)
+* [x] Application for a Second Audit \([AUDIT COMPLETED: VIEW HERE](https://rugzombie.gitbook.io/docs/security-and-team-information/basic-team-security-information/audits)\)
 * [x] Some Sponsored Press through trusted media outlets about our project
 
 We hope these efforts will further offer our current and future users trust on our platform. We take pride in being transparent \(if not a bit irreverent\) regarding our platform.
