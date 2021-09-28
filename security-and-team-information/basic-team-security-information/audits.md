@@ -9,8 +9,9 @@ description: >-
 Formal Audits
 
 * [x] TechRate \(done\) See [HERE](https://github.com/TechRate/Smart-Contract-Audits/blob/main/DrFrankenstein%20Standart%20Smart%20Contract%20Security%20Audit.pdf)
-* [x] Hashex \(in progress: preliminary report received\) 
-* [x] Haechi \(done\) See [HERE](https://github.com/HashEx/public_audits/blob/master/rugzombie/Zombie%20report.pdf)
+* [x] Hashex \(done\) See [HERE](https://github.com/HashEx/public_audits/blob/master/rugzombie/Zombie%20report.pdf)
+
+  Haechi \(in discussion\) 
 
 Community Audits/Reviews
 
