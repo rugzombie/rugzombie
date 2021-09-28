@@ -32,6 +32,8 @@ Our Initial Techrate Audit can be see [HERE](https://github.com/TechRate/Smart-C
 
 **Old Token Address:** ~~0xbefd2cD02021E59116953d42a74DC834dDCf9c9f~~ \(this token address was changed before launch, do not use\) 
 
+As this audit was an audit commissioned preliminarily to launch, there are certain smart contracts not included in this audit, our most up to date and recent to date audit was conducted by HASHEX and can be viewed below. 
+
 {% file src="../../.gitbook/assets/drfrankenstein-standart-smart-contract-security-audit.pdf" caption="Dr. Frankenstein Audit" %}
 
 {% file src="../../.gitbook/assets/rugzombie-standart-smart-contract-security-audit.pdf" caption="Techrate Audit of Original Contract" %}
