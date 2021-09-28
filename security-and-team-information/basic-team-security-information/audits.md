@@ -13,15 +13,18 @@ Formal Audits
 
   Haechi \(in discussion\) 
 
-Community Audits/Reviews
+Community Reviews
 
-_There are various crypto communities out there trying to provide a service for the defi space. Let us know if we get a positive review from a community you are a part of!_
+_There are various crypto communities out there trying to provide a service for the defi space. Let us know if we get a positive review from a community you are a part of! These are NOT Audits_
 
 * [x] Rug Warnings \(See [HERE](www.rugwarnings.com)\)
 * [x] Rug Seekers \(See [HERE](https://twitter.com/rugseekers/status/1432930057295704067?s=21)\)
-* [x] RugDoc Review\*
+* [x] RugDoc Review\* \(See [HERE](https://rugdoc.io/project/rugzombie/)\)
+* [x] Ape O Clock Featured \(See [HERE](https://www.apeoclock.com/launch/rugzombie-nft-launch/)\)
 
 \*RugDoc determined our code was too complex to warrant a full review. We are currently working with them post our HASHEX audit report to get that coveted "low risk" button. :-\) 
+
+![](../../.gitbook/assets/featured-on-apeoclock-light.png)
 
 **Techrate Audit In Depth**
 
