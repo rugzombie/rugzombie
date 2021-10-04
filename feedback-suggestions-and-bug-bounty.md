@@ -16,5 +16,5 @@ If you are another project/company looking to partner with RugZombie, you can fi
 
 {% embed url="https://rugzombie.typeform.com/to/NKBnt4YK" %}
 
-
+To setup a meeting with one of our team member or to chat in our public chat, [check out this live document for meeting requests, etc.](https://rugzombie.notion.site/RugZombie-Team-Public-Hours-e3277845cbce4a26bc77bb3e15539d05)
 
