@@ -9,7 +9,7 @@ description: How are initial token funds used.
 80% of all our tokens will be in initial liquidity contract at fair launch. 
 
 {% hint style="info" %}
-Why not burned wallet address/locked LP? As the transition of pancakeswap to version 2 demonstrated  recently for many projects on PCS, burned/locked wallet addresses can really destroy a project. Our team wanted the ability to adjust to any issues that may arise over the course of time with new versioning of BSC projects like pancakeswap. We also plan to upgrade and release future versions of our project. Burned wallets remove the ability to do this. 
+Why not burned wallet address/locked LP? As the transition of pancakeswap to version 2 demonstrated  recently for many projects on PCS, burned/locked wallet addresses can really destroy a project. We also plan to upgrade and release future versions of our project and balance our Liquidity between our various DEX. Burned wallets remove the ability to do this.
 {% endhint %}
 
 ## Treasury Funds
@@ -42,9 +42,8 @@ You can see the treasury fund wallet address here:
 
 The dev team will be transparent about our tokens. We also fully expect to participate just like all other token holders at launch with our own personal funds.
 
-The Dev Team maintains 10% of initial supply \(a total of 10mil ZMBE\) in vested wallet which is held in a multisignature wallet at this address:
+The Dev Team maintains 10% of initial supply (a total of 10mil ZMBE) in vested wallet which is held in a multisignature wallet at this address:
 
  0x666a26C410BdfDB4B5D51B971E209Dda4A96594e
 
-Our developer wallet is essentially a compensation plan for our core team of developers, artists, and more. 
-
+Our developer wallet is essentially a compensation plan for our core team of developers, artists, and more. They are vested monthly over the course of 2021-2024.

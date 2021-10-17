@@ -31,12 +31,12 @@
 ## Security and Team Information
 
 * [Basic Security Information](security-and-team-information/basic-team-security-information/README.md)
-  * [TRUST US CAMPAIGN](security-and-team-information/basic-team-security-information/trust-us-campaign.md)
   * [Audits](security-and-team-information/basic-team-security-information/audits.md)
   * [Emergency Withdraw](security-and-team-information/basic-team-security-information/emergency-withdraw.md)
   * [API information](security-and-team-information/basic-team-security-information/api-information.md)
-* [Flash Loan Protection](security-and-team-information/flash-loan-protection.md)
-* [Preventative Double Rug Measures](security-and-team-information/preventative-double-rug-measures.md)
+  * [Flash Loan Protection](security-and-team-information/basic-team-security-information/flash-loan-protection.md)
+  * [Preventative Double Rug Measures](security-and-team-information/basic-team-security-information/preventative-double-rug-measures.md)
+* [TRUST US CAMPAIGN (complete)](security-and-team-information/trust-us-campaign.md)
 * [Join Our Team](security-and-team-information/join-our-team-of-dr.-frankensteins.md)
 
 ## Other Links

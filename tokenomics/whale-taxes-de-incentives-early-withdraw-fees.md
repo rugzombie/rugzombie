@@ -6,15 +6,13 @@ description: How to mitigate dumping and manipulation
 
 ## Whale Tax on LP Removal
 
-Whether a project starts with a presale or a fair launch, BSC projects can fall prey to large wallet holders who can drastically affect price action on the open market. This is a short term issue that is nearly unavoidable on new tokens. While we are a long term project \(and not worried about short term price action\) we are mindful that the first weeks and months of a new project are extremely important for its success.
+Whether a project starts with a presale or a fair launch, BSC projects can fall prey to large wallet holders who can drastically affect price action on the open market. This is a short term issue that is nearly unavoidable on new tokens. While we are a long term project (and not worried about short term price action) we are mindful that the first weeks and months of a new project are extremely important for its success.
 
 Our team was thoughtful about balancing the fair and open nature of a decentralized financial market with restricting major market manipulation by whales. 
 
-Rather than restricting whales completely \(who can bring much needed liquidity to the market\), we have chosen instead to apply a whale tax of 8% on liquidity removal of more than 5% of the total supply. 
+Rather than restricting whales completely (who can bring much needed liquidity to the market), we have chosen instead to apply a whale tax of 8% on liquidity removal of more than 5% of the total supply from TOMBS. 
 
 This 8% will be immediately be sent to a multi-signature address where we can buy back and burn our token, lock liquidity or migrate to our own AMM.
-
-We considered locking liquidity but decided it was not in the best interest of the project longterm at the beginning.
 
 As our market matures, we may need to change the tax rate, so please stay updated on the most relevant information. 
 
@@ -35,6 +33,4 @@ Whales are not bad. There is a common misconception in the crypto-space that wha
 We are creating a custom [GRAVE](../basic-information/main-features/graves/) for whales that employs a unique long term reward structure for whales who are acting in a positive, good faith manner. Rather than punish such people, we desired to incentivize good whale behavior. More details are coming soon for our Whale Graves. In the meantime, whale on.
 
 ![](../.gitbook/assets/8.jpg)
-
-
 
