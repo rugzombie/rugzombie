@@ -7,7 +7,7 @@ description: For those worthless dead tokens.
 Graves are single asset staking pools wherein the user stakes:
 
 * An "unlock amount" to open the Grave
-* At least 1 of the rugged/scammed token to be donated \(these are not recoverable\)
+* At least 1 of the rugged/scammed token to be donated (these are not recoverable)
 * A minimum amount of staked $ZMBE, determined by each Grave
 
 The minimum staking amounts are subject to change, as our token price appreciates, we will necessarily lower the minimum amount. To begin with, staking minimums are the following:
@@ -17,10 +17,11 @@ The minimum staking amounts are subject to change, as our token price appreciate
 * Uncommon Graves - 2500 $ZMBE
 * Rare Graves - 5000 $ZMBE
 * Legendary Graves - 7500 $ZMBE
+* Spawning Pools - 5000 $ZMBE
 
-The user will be rewarded for staking $ZMBE and the rugged token for a certain amount of time \(determined by each pool\) with a single NFT commemorating their rugged token experience and a determined amount of $ZMBE relative to the amount of $ZMBE staked.
+The user will be rewarded for staking $ZMBE and the rugged token for a certain amount of time (determined by each pool) with a single NFT commemorating their rugged token experience and a determined amount of $ZMBE relative to the amount of $ZMBE staked.
 
-There is a deposit fee \(in BNB\) for graves to be unlocked. This deposit fee allows our team to:
+There is a deposit fee (in BNB) for graves to be unlocked. This deposit fee allows our team to:
 
 * Buy back and burn ZMBE
 * Pay our starving artists
@@ -37,4 +38,3 @@ Our Deposit Fee is assessed in BNB to reduce selling pressure of ZMBE to keep ou
 {% hint style="info" %}
 We determine the APR for $ZMBE staking based on the amount of $ZMBE only. Your rugged token is ONLY used to determine eligibility for the NFT.
 {% endhint %}
-

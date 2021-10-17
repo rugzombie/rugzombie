@@ -10,11 +10,10 @@ This 5% fee will be immediately sent to the treasury upon early removal. Some of
 
 This fee applies to staked amounts. The withdraw period is:
 
-**72 Hours on all initially deposited funds** 
+**72 Hours on all initially deposited funds **
 
 This timer is reset upon each deposit and withdraw to [de-incentive whales](whale-taxes-de-incentives-early-withdraw-fees.md) and incentivize long term holding.
 
 For our TOMBS, the  5% fee LP is immediately unpaired, the $ZMBE is burned, and the other pair is sent to the treasury address. 
 
 Please note that this 5% fee is hardcoded into the contract, and even an emergency withdrawal will trigger this fee. Pleas DYOR before depositing into a grave so as to note result in lost funds. Our team cannot recover this amount for users.
-

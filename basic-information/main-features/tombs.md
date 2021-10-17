@@ -1,33 +1,32 @@
 ---
-description: For locked liquidity rugged tokens and "buried alive" tokens.
+description: Putting the Fun back in Non-Fungible.
 ---
 
-# Tombs
+# Tombs (NFTombs)
 
-Our tombs are most similar to what users of AMMs \(automated market makers\) experience with providing liquidity-with a twist. After paying our deposit fee, users will be able to stake unique Liquidity Pairings of $ZMBE and certain rugged tokens in order to earn a certain amount of $ZMBE as a yield. 
-
-While our graves are designed for “rugged” tokens that have zero or very little financial value, **in contrast, our Tombs are designed for “rugged” tokens that retain some residual value by way of locked liquidity.** 
-
-This residual value allows our team to resurrect life from dead tokens by allowing our users to stake their rugged tokens in our Tombs to receive a comparable yield with $ZMBE, thereby resurrecting the rugged token from the dead. It is quite possible for users who hold $ZMBE long enough to completely recover their lost value from these scammed projects. It’s alive!!!
-
-{% hint style="info" %}
-APRs for these farms may be different that what you would see in other farms because the value of rugged tokens is generally fairly low and the liquidity pair itself is fairly unique.
-{% endhint %}
-
-## Buried Alive
-
-Some of our LPs will contain projects that may not truly be scammed or rug pulled tokens \(such as BNB\). Our team will denote which of these farms are "buried alive" if it is not obvious enough. Our devs have seen projects that appear to be rugged be relaunched with new teams or community efforts. 
-
-Our team is not attempting to make a statement on the future of these tokens, only that they have been subject to rug-pulled or malicious activity in the past, regardless of their communities new found faith in the project. 
-
-## Land of the Living
-
-In addition to allowing LP for rugged projects, we will of course offer a few traditional LP pairs for those who believe in $ZMBE long term, or maybe have not been victim of a rug pull and still want to participate in the project. We hope to provide the following LPs:  
+Our tombs are most similar to what users experience with LP Farms. Our TOMBS provide various opportunities for our users to earn additional ZMBE rewards for providing Liquidity on ZMBE-BNB Pair on the various DEX partners. 
 
 
-* ZMBE-BNB LP \(at launch\) 
-* ZMBE-BUSD LP \(next\) 
-* ZMBE-CAKE LP \(maybe\)
+
+## Non Fungible Randomness
+
+Our TOMBS not only provide some of the best yields our platform has to offer in ZMBE rewards, but additionally provide a unique way for users to randomly generate NFTs based on their share of the Liquidity Pool. 
+
+RugZombie has integrated [ChainLink VRF](https://docs.chain.link/docs/chainlink-vrf/) to fairly and randomly distribute NFTs to LP holders in our Tombs based on their share of the pool. Simply put: the more LP you provide, the higher your chances to roll a RARE or LEGENDARY NFT. 
+
+Our NFTs for all TOMBS are the same for our common, uncommon and rare NFTs, but our Legendary NFTs are created specifically for each Pair. 
+
+Currently, we are listed on 3 DEX, therefore have a total of 3 LEGENDARY NFT, corresponding to their pools: 
+
+Autoshark Pairing: Legendary Ocean 
+
+ApeSwap Pairing: Inevitable Ape
+
+PancakeSwap Pairing: ???
+
+##  
+
+
 
 {% hint style="info" %}
 All our Tombs will also eventually have corresponding Graves so that users may both acquire custom NFTs and earn a yield on their scammed tokens.
@@ -37,7 +36,7 @@ All our Tombs will also eventually have corresponding Graves so that users may b
 We hope to add future LP pairs on various DEX tokens in the future, please stay tuned for more as we add partnerships.
 {% endhint %}
 
-There is a deposit fee \(in BNB\) for tombs to be unlocked. This deposit fee allows our team to:
+There is a deposit fee (in BNB) for tombs to be unlocked. This deposit fee allows our team to:
 
 * Buy back and burn ZMBE
 * Pay our starving artists
@@ -46,4 +45,3 @@ There is a deposit fee \(in BNB\) for tombs to be unlocked. This deposit fee all
 {% hint style="info" %}
 Our Deposit Fee is assessed in BNB to reduce selling pressure of ZMBE to keep our token price stable. TLDR: Our team is discussing development of our own AMM in order to sustain the project long-term and move away from deposit fees in general.
 {% endhint %}
-

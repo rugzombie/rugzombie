@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction to RugZombie \($ZMBE\)](README.md)
+* [Introduction to RugZombie ($ZMBE)](README.md)
 
 ## Basic Information
 
@@ -10,14 +10,14 @@
   * [NFTs](basic-information/main-features/nfts.md)
   * [Graves](basic-information/main-features/graves/README.md)
     * [Grave Timer Periods](basic-information/main-features/graves/grave-lockup-periods.md)
-  * [Tombs](basic-information/main-features/tombs.md)
+  * [Tombs (NFTombs)](basic-information/main-features/tombs.md)
   * [Mausoleum](basic-information/main-features/mausoleum.md)
   * [Spawning Pools](basic-information/main-features/crypts/README.md)
     * [Spawning Pool Technical Details](basic-information/main-features/crypts/spawning-pool-technical-details.md)
   * [Catacombs](basic-information/main-features/catacombs.md)
   * [Referral Program](basic-information/main-features/referral-program.md)
 * [Fair Launch Information](basic-information/fair-launch-information/README.md)
-  * [Anti-Pump&Dump Launch Feature \(APD\)](basic-information/fair-launch-information/anti-pump-and-dump-launch-feature-apd.md)
+  * [Anti-Pump\&Dump Launch Feature (APD)](basic-information/fair-launch-information/anti-pump-and-dump-launch-feature-apd.md)
 * [$ZMBE Roadmap](basic-information/roadmap.md)
 
 ## Tokenomics
@@ -47,7 +47,7 @@
   * [NFT Contract Addresses](other-links/contracts/nft-contract-addresses.md)
 * [FAQ](other-links/faq.md)
 
----
+***
 
 * [OFFICIAL LINKTREE](https://linktr.ee/rugzombie)
 * [Lite Paper](lite-paper.md)
@@ -57,4 +57,3 @@
 * [Logos](logos.md)
 * [Partnerships and Business Development](untitled/README.md)
   * [Brand Assets & Links](untitled/brand-assets-and-links.md)
-
