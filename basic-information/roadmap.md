@@ -4,10 +4,6 @@ description: This roadmap is subject to adaption as market conditions are always
 
 # $ZMBE Roadmap
 
-{% file src="../../.gitbook/assets/rugzombie-road-map (1).mp4" %}
-Roadmap File Download
-{% endfile %}
-
 {% tabs %}
 {% tab title="Q4 2021" %}
 * [ ] Merch Store Part 1
