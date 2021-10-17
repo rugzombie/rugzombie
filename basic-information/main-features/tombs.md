@@ -24,24 +24,3 @@ ApeSwap Pairing: Inevitable Ape
 
 PancakeSwap Pairing: ???
 
-##  
-
-
-
-{% hint style="info" %}
-All our Tombs will also eventually have corresponding Graves so that users may both acquire custom NFTs and earn a yield on their scammed tokens.
-{% endhint %}
-
-{% hint style="info" %}
-We hope to add future LP pairs on various DEX tokens in the future, please stay tuned for more as we add partnerships.
-{% endhint %}
-
-There is a deposit fee (in BNB) for tombs to be unlocked. This deposit fee allows our team to:
-
-* Buy back and burn ZMBE
-* Pay our starving artists
-* Build up our treasury fund for future liquidity pools, audits etc. 
-
-{% hint style="info" %}
-Our Deposit Fee is assessed in BNB to reduce selling pressure of ZMBE to keep our token price stable. TLDR: Our team is discussing development of our own AMM in order to sustain the project long-term and move away from deposit fees in general.
-{% endhint %}
