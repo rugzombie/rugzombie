@@ -34,8 +34,8 @@ Feel free to explore our docs for any information.
 [lite-paper.md](lite-paper.md)
 {% endcontent-ref %}
 
-{% content-ref url="basic-information/roadmap.md" %}
-[roadmap.md](basic-information/roadmap.md)
+{% content-ref url="basic-information/roadmap/" %}
+[roadmap](basic-information/roadmap/)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

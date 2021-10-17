@@ -16,9 +16,8 @@
     * [Spawning Pool Technical Details](basic-information/main-features/crypts/spawning-pool-technical-details.md)
   * [Catacombs](basic-information/main-features/catacombs.md)
   * [Referral Program](basic-information/main-features/referral-program.md)
-* [Fair Launch Information](basic-information/fair-launch-information/README.md)
-  * [Anti-Pump\&Dump Launch Feature (APD)](basic-information/fair-launch-information/anti-pump-and-dump-launch-feature-apd.md)
-* [$ZMBE Roadmap](basic-information/roadmap.md)
+* [$ZMBE Roadmap](basic-information/roadmap/README.md)
+  * [Fair Launch Information](basic-information/roadmap/fair-launch-information.md)
 
 ## Tokenomics
 

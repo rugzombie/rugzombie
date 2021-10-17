@@ -1,10 +1,10 @@
 ---
-description: 'Fair Launch, No Presale, No pre-mine'
+description: Fair Launch, No Presale, No pre-mine
 ---
 
 # Fair Launch Information
 
-Estimated Target Date: July 5th, 2021 12PM UTC
+Launch Date: July 5th, 2021 12PM UTC
 
 ## Liquidity Information
 
@@ -13,8 +13,8 @@ Estimated Target Date: July 5th, 2021 12PM UTC
 * Pancakeswap liquidity added at farming start
 * Emission Rate: 10 $ZMBE per block
 * Initial Supply: 100million $ZMBE
-* 80% supply to initial liquidity \([multisignature wallet](../../tokenomics/initial-token-supply.md#developer-vested-tokens)\) 
-* 10% to treasury funds \([multisignature wallet](../../security-and-team-information/basic-team-security-information/)\) 
+* 80% supply to initial liquidity ([multisignature wallet](../../tokenomics/initial-token-supply.md#developer-vested-tokens)) 
+* 10% to treasury funds ([multisignature wallet](../../security-and-team-information/basic-team-security-information/)) 
 
 **Why No Presale?**
 
@@ -26,4 +26,3 @@ The dev team has chosen NOT to participate in any IFO because of two main reason
 {% hint style="info" %}
 We received our first [TechRate audit](../../security-and-team-information/basic-team-security-information/audits.md) before launch to give more investor confidence. Audits of smart contracts with other auditors will come and are built into the roadmap.
 {% endhint %}
-

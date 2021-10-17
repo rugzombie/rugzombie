@@ -1,12 +1,12 @@
 ---
-description: 'Released End of September, 2021'
+description: Released End of September, 2021
 ---
 
 # Catacombs
 
 The Humans Live down here!
 
-The catacombs offers humans \(or peaceful zombies?\) many opportunities. They have developed quite the ecosystem down there. Here are just a few offerings, not particularly in order. Please see our Medium Post and subscribe to socials to get a good idea of feature release dates.
+The catacombs offers humans (or peaceful zombies?) many opportunities. They have developed quite the ecosystem down there. Here are just a few offerings, not particularly in order. Please see our Medium Posts and subscribe to socials to get a good idea of feature release dates.
 
 **Rug Roll- Released quickly after Launch**
 
@@ -26,7 +26,7 @@ Our Data Lab is where the Humans collect their information on the happenings abo
 
 Our Data Lab features our MYTHIC tier NFTs and our newest category of rarity: SPECIAL NFTs among other things. As paying off the right people can result in leaks from the lab, these NFTs are available for insta-purchase.
 
-There are future plans in store for the lab, but for now, enjoy some instant gratification. You will see a variety of options: limited edition supply \(MYTHIC\) NFTs, SPECIAL NFTs, and even rising price floors on certain pieces of our collection.
+There are future plans in store for the lab, but for now, enjoy some instant gratification. You will see a variety of options: limited edition supply (MYTHIC) NFTs, SPECIAL NFTs, and even rising price floors on certain pieces of our collection.
 
 The First Leak from the Lab is the MYTHIC CATACOMBS NFT, the very first discovered and confirmed intelligence report intercepted by the under dwellers.
 
@@ -43,4 +43,3 @@ REDACTED
 **The Dungeon**
 
 REDACTED
-
