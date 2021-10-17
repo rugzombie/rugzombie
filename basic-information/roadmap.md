@@ -25,6 +25,8 @@ description: This roadmap is subject to adaption as market conditions are always
 * [ ] V2 Website
 * [ ] ZMBE Lottery Partners\*
 * [ ] Upgraded Graveyard (Gamified and 3D)
+* [ ] Cross-Chain Implementation
+* [ ] Introduce CORE Tech
 {% endtab %}
 
 {% tab title="(completed)Q2 2021" %}

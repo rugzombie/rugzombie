@@ -52,7 +52,6 @@
 * [Lite Paper](lite-paper.md)
 * [Marketing Information](marketing-information.md)
 * [Feedback, Suggestions and Bug Bounty](feedback-suggestions-and-bug-bounty.md)
-* [AIRDROPS](airdrops.md)
 * [Logos](logos.md)
 * [Partnerships and Business Development](untitled/README.md)
   * [Brand Assets & Links](untitled/brand-assets-and-links.md)
