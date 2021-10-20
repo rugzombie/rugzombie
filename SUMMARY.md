@@ -18,6 +18,7 @@
   * [Referral Program](basic-information/main-features/referral-program.md)
 * [$ZMBE Roadmap](basic-information/roadmap.md)
   * [Fair Launch Information](basic-information/fair-launch-information/README.md)
+* [User Guide](basic-information/user-guide.md)
 
 ## Tokenomics
 
