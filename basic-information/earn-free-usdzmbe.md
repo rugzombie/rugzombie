@@ -4,7 +4,7 @@ description: Be a part of the Horde! Earn FREE $ZMBE through our business referr
 
 # Earn FREE $ZMBE
 
-RugZombie is excited for the  the next phase of our growth plan! Introducing our Zombie Horde Business Referral program. This program is not intended to be indefinite, but toggled on during seasons of partner growth.
+RugZombie is excited for the next phase of our growth plan! Introducing our Zombie Horde Business Referral program. This program is not intended to be indefinite, but toggled on during seasons of partner growth.
 
 **This Program is currently Active. **
 
