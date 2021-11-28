@@ -30,6 +30,11 @@
 * [Early Withdraw Fees](tokenomics/early-withdraw-fees.md)
 * [Whale Games](tokenomics/whale-taxes-de-incentives-early-withdraw-fees.md)
 
+***
+
+* [NFT + GameFi Services](nft-+-gamefi-services/README.md)
+  * [Quest as a Service (QaaS)](nft-+-gamefi-services/quest-as-a-service-qaas.md)
+
 ## Security and Team Information
 
 * [Basic Security Information](security-and-team-information/basic-team-security-information/README.md)
@@ -40,7 +45,6 @@
   * [Preventative Double Rug Measures](security-and-team-information/basic-team-security-information/preventative-double-rug-measures.md)
 * [TRUST US CAMPAIGN (complete)](security-and-team-information/trust-us-campaign.md)
 * [Join Our Team](security-and-team-information/join-our-team-of-dr.-frankensteins.md)
-* [Quest as a Service (QaaS)](security-and-team-information/quest-as-a-service-qaas.md)
 
 ## Other Links
 
