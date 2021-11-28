@@ -67,7 +67,7 @@ Happy Badgers NFT collection desires to have an Epic Quest for Patient Zero.&#x2
 
 We craft a Quest that can be started by engaging the Badger Bagger (a non-player character) in Rotter's Hollow (one of our starting cities).&#x20;
 
-If the player owns a Happy Badger NFT, they are then given access to this quest, let's say they must recover 30 badger pelts and return to the Bagger for an in-game currency prize (not a bep20 token but rather in game currency). Player's interaction in fighting badgers will trigger a Momma Badger Boss Fight, which upon victory will reward the player with a custom Momma Badger Claw, that will be a special weapon that gives the player a perk or possibly has a strong attack power, etc. The details can be highly curated according to the quest. The also may collect more badger pelts, and forge clothing items etc. from them.
+If the player owns a Happy Badger NFT, they are then given access to this quest, let's say they must recover 30 badger pelts and return to the Bagger for an in-game currency prize (not a bep20 token but rather in game currency). Player's interaction in fighting badgers will trigger a Momma Badger Boss Fight, which upon victory will reward the player with a custom Momma Badger Claw, that will be a special weapon that gives the player a perk or possibly has a strong attack power, etc. The details can be highly curated according to the quest. The player also may collect more badger pelts, and forge clothing items etc. from them.
 
 This quest's text will be formulated such that this story is eligible to be integrated into the canon of our main plot-line, meaning that in future renditions of our Patient Zero game, Happy Badgers will enjoy references, and a forever special place in the history of PØ.&#x20;
 
