@@ -40,6 +40,7 @@
   * [Preventative Double Rug Measures](security-and-team-information/basic-team-security-information/preventative-double-rug-measures.md)
 * [TRUST US CAMPAIGN (complete)](security-and-team-information/trust-us-campaign.md)
 * [Join Our Team](security-and-team-information/join-our-team-of-dr.-frankensteins.md)
+* [Quest as a Service (QaaS)](security-and-team-information/quest-as-a-service-qaas.md)
 
 ## Other Links
 
