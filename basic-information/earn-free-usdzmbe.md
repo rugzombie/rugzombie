@@ -12,7 +12,7 @@ If anyone in the Zombie Horde finds a project they would like RugZombie to partn
 
 Here is the process:&#x20;
 
-1\) Send [the following form to be filled out by the partner](https://rugzombie.typeform.com/to/NKBnt4YK) or just this page link (see below for embedded form). Make sure they add your telegram handle to the form so you are rewarded.&#x20;
+1\) Send our page link ([HERE](https://admin.rugzombie.io/partnership\_requests/new)). Make sure they add your telegram handle to the form so you are rewarded.&#x20;
 
 2\) Create a telegram group by adding the primary point of contact from the potential partner AND one of the main devs from RugZombie. (be sure to @ us in main chat so we see it in our inbox)&#x20;
 
@@ -34,8 +34,6 @@ Here is the process:&#x20;
 * Grave Sponsors
 * DEX Listings
 * Other
-
-{% embed url="https://rugzombie.typeform.com/to/NKBnt4YK" %}
 
 
 

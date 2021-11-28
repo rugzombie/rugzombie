@@ -4,21 +4,21 @@ description: of Dr. Frankensteins or Undertakers
 
 # Join Our Team
 
-Our team of talented devs \(dr. frankensteins\) are looking for community and blockchain leaders to grow our expanding team. If you have interest in working on a community project like RugZombie and have skills in the following areas, please send your resume and an email to [info@rugzombie.io](mailto:info@rugzombie.io)
+Our team of talented devs (dr. frankensteins) are looking for community and blockchain leaders to grow our expanding team. If you have interest in working on a community project like RugZombie and have skills in the following areas, please send your resume and an email to [info@rugzombie.io](mailto:info@rugzombie.io)
 
-●  Marketing, Social Media and Branding, Creative Developer
+Our open jobs are below, with our priority hires in **bold**
 
-●  Front End / Back End Blockchain Developer
-
-●  UX/UI Designer
+**●  UX/UI Designer**
 
 ●  Technical Writer
+
+**●  Business Developer**
 
 ●  NFT artwork/animation & graphic design
 
 ●  Mobile Game & App Developer
 
-●  IT and Security 
+●  IT and Security&#x20;
 
 ●  Ecommerce Product Manager
 
