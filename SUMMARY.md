@@ -35,6 +35,7 @@
 * [NFT + GameFi Services](nft-+-gamefi-services/README.md)
   * [Quest as a Service (QaaS)](nft-+-gamefi-services/quest-as-a-service-qaas.md)
   * [Patient Ø (zero)](nft-+-gamefi-services/patient-o-zero.md)
+  * [Are you dEaD yEt?](nft-+-gamefi-services/are-you-dead-yet.md)
 
 ## Security and Team Information
 
