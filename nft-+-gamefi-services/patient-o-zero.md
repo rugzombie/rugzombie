@@ -14,7 +14,7 @@ This game is in beta, more details to come soon. If you are a project owner and 
 
 **Private Beta**
 
-If you want to join our Private Beta for early access to this game, send us an email at info@rugzombie.io. Private Beta players must own at least 15 RugZombie NFTs or be a notable member of the RugZombie community. Private Beta is invite only.&#x20;
+Our Private Beta is now closed.&#x20;
 
 **Public Beta**
 
