@@ -6,7 +6,7 @@ description: Be a part of the Horde! Earn FREE $ZMBE through our business referr
 
 RugZombie is excited for the next phase of our growth plan! Introducing our Zombie Horde Business Referral program. This program is not intended to be indefinite, but toggled on during seasons of partner growth.
 
-**This Program is currently Active. **
+**This Program is currently Active.**&#x20;
 
 If anyone in the Zombie Horde finds a project they would like RugZombie to partner with you can earn 7,500 ZMBE (\~25USD) for each referral.&#x20;
 

@@ -30,7 +30,7 @@ _There are various crypto communities out there trying to provide a service for 
 
 Our Initial Techrate Audit can be see [HERE](https://github.com/TechRate/Smart-Contract-Audits/blob/main/DrFrankenstein%20Standart%20Smart%20Contract%20Security%20Audit.pdf) and is also provided below, however because our master chef contract was named "Dr. Frankenstein", in order to avoid confusion we have asked the techrate team to redraw their audit report with Rug Zombie as the title. You can both attached here below for your review. [Here is an article we wrote](https://rugzombie.medium.com/token-contract-address-has-been-updated-765b96dfc020) explaining the situation as well. This audit was re-sent to the RugZombie team on 6/27/2021. All contract information is the same for these two original audit reports:
 
-**PRELAUNCHED Old Token Address:** ~~0xbefd2cD02021E59116953d42a74DC834dDCf9c9f ~~(this token address was changed before launch, do not use)&#x20;
+**PRELAUNCHED Old Token Address:** ~~0xbefd2cD02021E59116953d42a74DC834dDCf9c9f~~ (this token address was changed before launch, do not use)&#x20;
 
 As this audit was an audit commissioned preliminarily to launch, there are certain smart contracts not included in this audit, our most up to date and recent to date audit was conducted by HASHEX and can be viewed below.&#x20;
 

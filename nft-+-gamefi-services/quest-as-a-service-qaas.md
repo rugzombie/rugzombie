@@ -17,13 +17,13 @@ Using RugZombie's gaming ecosystem, our team will curate and give personal atten
 
 PØ is RugZombie's one-of-a-kind MUD (multi-user dungeon) experience. Finding its roots in retro-gaming worlds like Aardwold, WOTmud, and Dikumud, RugZombie is building the first ever MUD on the blockchain.&#x20;
 
-**What is a MUD? **
+**What is a MUD?**&#x20;
 
 MUD gaming is a form of RPG gaming based entirely on text, allowing users to imagine the world as they see fit, and prioritizing the content and story over graphic engines.&#x20;
 
 Our MUD world has a main storyline (encompassed by our Patient Zero story) that is free to play, with optional side quests that are a part of the "canon" of our world.&#x20;
 
-**How Does Your Project Integrate? **
+**How Does Your Project Integrate?**&#x20;
 
 With your NFT collection, RugZombie is able to offer anthology/fabled quests while not a part of the main storyline, provide our users more playing time and things to do in our world.&#x20;
 
@@ -33,7 +33,7 @@ _example: Your NFT collection of "dudes" can be integrated into a special quest 
 
 The options for Quests as a Service are highly tailored to the project NFT in question. Some NFTs are better represented in game as "objects" to be collected, while others are better represented as "Enemies to Fight" and still others will perform best as access to special maps that are not available apart from NFT holders.&#x20;
 
-**Packages **
+**Packages**&#x20;
 
 Common Quests - 2.5 BNB&#x20;
 
@@ -51,7 +51,7 @@ Legendary Quests AND can be renewed after their season is over for a nominal fee
 
 
 
-_Questions? Send a direct message to EZ on telegram with @emperor\_zombietine. Our turn around time for quest as a service is about 3 weeks as we take care to make sure that your project is well composed with thoughtful dungeon interactions, text, items, enemy fights...in short, we put about 40 hours of work into your dungeon alone. _
+_Questions? Send a direct message to EZ on telegram with @emperor\_zombietine. Our turn around time for quest as a service is about 3 weeks as we take care to make sure that your project is well composed with thoughtful dungeon interactions, text, items, enemy fights...in short, we put about 40 hours of work into your dungeon alone._&#x20;
 
 
 

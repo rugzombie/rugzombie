@@ -4,7 +4,7 @@ description: RugZombie's unique NFT auction house.
 
 # Mausoleum
 
-**So What Happens with the Winning Bid? **
+**So What Happens with the Winning Bid?**&#x20;
 
 Glad you asked. Most of our auctions are meant to fund specific development or marketing efforts, however some of these will be charity auctions (stay tuned to our socials for this).
 
