@@ -43,11 +43,15 @@ Epic Quests - 5 BNB
 
 Epic Quests will not only include a special quest based on the project NFT, but RugZombie team will curate special no drop items and privileges that are highly desirable in game. Epic Quests are eligible to become canon in the main storyline of Patient Zero. These quests are seasonal and have an expiry date.
 
+Epic Quest Projects are eligible for whitelisting NFT collections on our upcoming secondary marketplace.
+
 Legendary Quests - 7 BNB + Project Tokens
 
 Legendary Quests not only include a common quest in perpetuity, but will combine the Epic Quests functionality of a seasonal campaign that rewards players with special no drop items or boss battles based on your NFTs, as well as your tokens and ZMBE tokens. Legendary quests are eligible to become canon in the main storyline of Patient Zero.&#x20;
 
 Legendary Quests AND can be renewed after their season is over for a nominal fee + Project Tokens to be rewarded.&#x20;
+
+Legendary Quest Projects are eligible for whitelisting NFT collections on our upcoming secondary marketplace.
 
 
 
