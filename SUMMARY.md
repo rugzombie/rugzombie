@@ -46,7 +46,7 @@
   * [Flash Loan Protection](security-and-team-information/basic-team-security-information/flash-loan-protection.md)
   * [Preventative Double Rug Measures](security-and-team-information/basic-team-security-information/preventative-double-rug-measures.md)
 * [TRUST US CAMPAIGN (complete)](security-and-team-information/trust-us-campaign.md)
-* [Join Our Team](security-and-team-information/join-our-team-of-dr.-frankensteins.md)
+* [Join Our Team | HIRING](security-and-team-information/join-our-team-of-dr.-frankensteins.md)
 
 ## Other Links
 
