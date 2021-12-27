@@ -14,4 +14,4 @@ For Spawning Pool Requests or Other Contact, you can view here:&#x20;
 Business Development Short Paper
 {% endfile %}
 
-Contract Development - Hire a Zombie
+[Contract Development - Hire a Zombie](brand-assets-and-links/zombie-ops.md)
