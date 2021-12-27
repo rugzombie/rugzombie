@@ -13,3 +13,5 @@ For Spawning Pool Requests or Other Contact, you can view here:&#x20;
 {% file src="../.gitbook/assets/business-development-.pdf" %}
 Business Development Short Paper
 {% endfile %}
+
+Contract Development - Hire a Zombie

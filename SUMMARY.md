@@ -63,4 +63,5 @@
 * [Feedback, Suggestions and Bug Bounty](feedback-suggestions-and-bug-bounty.md)
 * [Logos](logos.md)
 * [Partnerships and Business Development](untitled/README.md)
-  * [Brand Assets & Links](untitled/brand-assets-and-links.md)
+  * [Brand Assets & Links](untitled/brand-assets-and-links/README.md)
+    * [Zombie Ops](untitled/brand-assets-and-links/zombie-ops.md)
