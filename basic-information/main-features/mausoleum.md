@@ -4,6 +4,8 @@ description: RugZombie's unique NFT auction house.
 
 # Mausoleum
 
+Occasionally, the RugZombie team releases 1/1 NFTs for the community to bid on. These NFTs have powerful in-game effects, and acquiring them early on for cheaper price points is recommended.
+
 **So What Happens with the Winning Bid?**&#x20;
 
 Glad you asked. Most of our auctions are meant to fund specific development or marketing efforts, however some of these will be charity auctions (stay tuned to our socials for this).
