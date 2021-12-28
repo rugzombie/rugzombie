@@ -10,8 +10,6 @@ description: The following is a non-exhaustive list of ZMBE features.
 4. **Secondary Market**: A peer to peer marketplace to buy, sell and trade your rugged $ZMBE NFTs and Merch.
 5. **Community Building Features**: Auctions, Secret Dapp Sections, Special Events, and other fun ways to earn $ZMBE and Collectible NFTs.&#x20;
 
-The community features will happen after a long period of thought and consideration for the best decisions for the project.&#x20;
-
 As you can see, our main features have nothing to do with tokenomics (which you can see next), because **utility is the underlying value of our blockchain project.**&#x20;
 
 {% hint style="info" %}
