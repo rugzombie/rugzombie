@@ -28,7 +28,7 @@ RugZombie is committed to being emission neutral with a soft-cap of 200million s
 
 We began our project with an emission rate of 10/block (see below). This was a great way to start. As we aim for emission neutrality, we will have scheduled reductions in minting supply with the aim of being at 1/block by the year 2023.
 
-These scheduled emission changes will positively impact early holders as the value of their ZMBE is not diluted by increased supply, and it will stave off&#x20;
+These scheduled emission changes will positively impact early holders as the value of their ZMBE is not diluted by increased supply, and it will stave off rampant inflation.
 
 ## Why ZMBE has no hard capped supply?
 
