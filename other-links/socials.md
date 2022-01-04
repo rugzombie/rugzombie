@@ -1,6 +1,6 @@
 # Socials
 
-[Twitter](www.twitter.com/rugzombie)
+[Twitter](https://www.twitter.com/rugzombie)
 
 [Medium](https://medium.com/@rugzombie)
 
@@ -12,9 +12,9 @@
 
 [Telegram Announcements](https://t.me/rugzombieannounce)
 
-[Youtube](https://www.youtube.com/channel/UCJv0OdCDThvuJ_0lruZrm_w)
+[Youtube](https://www.youtube.com/channel/UCJv0OdCDThvuJ\_0lruZrm\_w)
 
 [Github](https://github.com/rugzombie)
 
-
+[Discord](https://discord.gg/267zwJsb4x)
 
