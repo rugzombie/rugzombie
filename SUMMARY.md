@@ -60,7 +60,7 @@
   * [Lite Paper](feedback-suggestions-and-bug-bounty/lite-paper.md)
 * [Fine Print Stuff](fine-print-stuff/README.md)
   * [Privacy Notice](fine-print-stuff/privacy-notice.md)
-* [Terms of Use](terms-of-use.md)
+  * [Terms of Use](fine-print-stuff/terms-of-use.md)
 * [Partnerships and Business Development](untitled/README.md)
   * [Brand Assets & Links](untitled/brand-assets-and-links/README.md)
     * [Zombie Ops](untitled/brand-assets-and-links/zombie-ops.md)
