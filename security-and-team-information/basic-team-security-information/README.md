@@ -16,11 +16,11 @@ While our team has chosen to remain anonymous to the public at this time, we wil
 
 ●  [emergency withdraw feature](emergency-withdraw.md) (in case of DDOS attack)
 
-●  [Multi-signature treasury wallet](../../tokenomics/initial-token-supply.md#treasury-funds) and developer wallet
+●  [Multi-signature treasury wallet](../../tokenomics/untitled/initial-token-supply.md#treasury-funds) and developer wallet
 
 ● KYC with selected firms and/or exchanges;
 
-and eventually 
+and eventually&#x20;
 
 ●  Community Governance (eventually) to further de-risk our platform
 
@@ -30,19 +30,19 @@ While a generally accepted practice in DeFi, anonymous teams create a risk for a
 
 At the same time, our team knows the unique problems facing developers and see the risk doxed devs carry as a result for their transparency. There is no simple solution. Anonymity allows us to really rely on the strength of our code, added security features, and decentralized efforts, while protecting our personal lives from being harassed by some of you unsavory folk (you know who you are).
 
- It also requires that token holders do their own due diligence and research before buying or selling in a risky market like cryptocurrency. 
+&#x20;It also requires that token holders do their own due diligence and research before buying or selling in a risky market like cryptocurrency.&#x20;
 
-Members of our team have KYCed to members of the media for publication, and all our contract developers are KYCed using [blockpass](https://blockpass.org). You may have to take our words for it, but we are concerned about security more than you :) 
+Members of our team have KYCed to members of the media for publication, and all our contract developers are KYCed using [blockpass](https://blockpass.org). You may have to take our words for it, but we are concerned about security more than you :)&#x20;
 
-## How Many Are on the Team? 
+## How Many Are on the Team?&#x20;
 
 Our team is a combination of core developers/founders (dr. frankensteins), contract workers, and community leaders (undertakers)
 
 Our core dev team has 4 members currently, and we are actively adding more as our project grows. Only one member has access to the deployer wallet, and 3 founders have access to our multisignature wallet that requires 2/3 signatures for transactions.
 
-We have a number of community leaders and experts who actively manage our socials, SEO and web traffic, marketing, partnerships, design and other efforts. 
+We have a number of community leaders and experts who actively manage our socials, SEO and web traffic, marketing, partnerships, design and other efforts.&#x20;
 
-Interested to join our team? [Click Here](../join-our-team-of-dr.-frankensteins.md). 
+Interested to join our team? [Click Here](join-our-team-of-dr.-frankensteins.md).&#x20;
 
 ## What About all the Other Contract Features?
 
@@ -58,7 +58,7 @@ After community request and careful review from our devs, we are implementing a 
 
 The drawback of removing this code is that migrating to new DEX must be a manual process.
 
-This safe-owner contract can be found at [THIS LINK](https://twitter.com/rugzombie/status/1422018975270121472?s=20). 
+This safe-owner contract can be found at [THIS LINK](https://twitter.com/rugzombie/status/1422018975270121472?s=20).&#x20;
 
 #### **Time-Locked Masterchef**
 
@@ -66,9 +66,9 @@ We have implemented a 6 hour time-lock on the masterchef (dr. frankenstein) cont
 
 #### Locked Liquidity
 
-Locked liquidity and burned liquidity addresses left an entire generation of projects on v1 of pancakeswap. We don't intend to limit ourselves in this manner by burning our liquidity wallet. 
+Locked liquidity and burned liquidity addresses left an entire generation of projects on v1 of pancakeswap. We don't intend to limit ourselves in this manner by burning our liquidity wallet.&#x20;
 
-At the end of the day, community trust and confidence are important to us, but so is doing what is right for the project. We will not add/remove features that will prevent future growth because early token holders need assurances. 
+At the end of the day, community trust and confidence are important to us, but so is doing what is right for the project. We will not add/remove features that will prevent future growth because early token holders need assurances.&#x20;
 
 We currently do not have locked liquidity, but plan to lock it at the appropriate time. Please note most of our LP is community provided.
 

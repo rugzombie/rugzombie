@@ -4,20 +4,20 @@ description: The ZMBE Horde live offerings.
 
 # Spawning Pools
 
-Our Spawning Pools (SPs) will operate more akin to the syrup pools on PancakeSwap, where a user deposits $ZMBE in order to earn live project tokens and additionally, a customized NFT. 
+Our Spawning Pools (SPs) will operate more akin to the syrup pools on PancakeSwap, where a user deposits $ZMBE in order to earn live project tokens and additionally, a customized NFT.&#x20;
 
-Our team will do our best to provide due diligence on tokens we offer in the spawning pools. Because of the sensitive nature of working "around" rugged projects, we are hyper-vigilant about what tokens we offer. 
+Our team will do our best to provide due diligence on tokens we offer in the spawning pools. Because of the sensitive nature of working "around" rugged projects, we are hyper-vigilant about what tokens we offer.&#x20;
 
-Rest assured we are doing everything to ensure projects are safe that list in our crypts. With that being said, **please deposit in spawning pools at your own risk**. 
+Rest assured we are doing everything to ensure projects are safe that list in our crypts. With that being said, **please deposit in spawning pools at your own risk**.&#x20;
 
 There is a deposit fee (in BNB) for SPs to be unlocked. This deposit fee allows our team to:
 
 * Buy back and burn $ZMBE
 * Pay our starving artists
-* Build up our treasury fund for future liquidity pools, audits etc. 
+* Build up our treasury fund for future liquidity pools, audits etc.&#x20;
 
 {% hint style="info" %}
-Our Deposit Fee is assessed in BNB to reduce selling pressure of ZMBE to keep our token price stable. 
+Our Deposit Fee is assessed in BNB to reduce selling pressure of ZMBE to keep our token price stable.&#x20;
 {% endhint %}
 
-If you are interested to list your project as a Spawning Pool, please [fill out this application](https://rugzombie.typeform.com/to/NKBnt4YK). 
+If you are interested to list your project as a Spawning Pool, please [fill out this application](../../../untitled/).&#x20;

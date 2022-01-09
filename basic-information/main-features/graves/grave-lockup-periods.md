@@ -12,4 +12,4 @@ Deposited tokens can be withdrawn at any time, but if you choose to withdraw you
 
 Please read the conditions of each pool before you begin staking or providing liquidity.&#x20;
 
-[See more HERE about our withdraw fee and lockup time helps long term users.](../../../tokenomics/early-withdraw-fees.md)
+[See more HERE about our withdraw fee and lockup time helps long term users.](../../../tokenomics/untitled/early-withdraw-fees.md)
