@@ -42,4 +42,4 @@ A peer to peer marketplace for rugged tokens. Need access to a grave and don't h
 
 **The Dungeon**
 
-Our [Patient Zero](../nft-+-gamefi-services/patient-o-zero.md) game is hosted down here. See the page for more.
+Our [Patient Zero](../../nft-+-gamefi-services/patient-o-zero.md) game is hosted down here. See the page for more.

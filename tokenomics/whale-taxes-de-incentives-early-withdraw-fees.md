@@ -30,7 +30,7 @@ This early withdraw fee is [explained in depth here](early-withdraw-fees.md), an
 
 Whales are not bad. There is a common misconception in the crypto-space that whales are only about manipulation. While whales have the ability to do that, we did not want to wholly de-incentivize them from our platform as many whales are good actors with a desire to promote adoption of cryptocurrency  projects. Whales provide needed liquidity and are crucial to long term success if they believe in the project and are willing to hold.&#x20;
 
-We have a custom [GRAVE](../../basic-information/main-features/graves/) for whales that employs a unique long term reward structure for whales who are acting in a positive, good faith manner. Rather than punish such people, we desired to incentivize good whale behavior.&#x20;
+We have a custom [GRAVE](../basic-information/main-features/graves/) for whales that employs a unique long term reward structure for whales who are acting in a positive, good faith manner. Rather than punish such people, we desired to incentivize good whale behavior.&#x20;
 
 Holders of the Whale Pass NFT are offered the following benefits plus some more along the way:
 
@@ -38,5 +38,5 @@ Holders of the Whale Pass NFT are offered the following benefits plus some more 
 * Reduced fees on NFT marketplace activity
 * A % of all retail sales in perpetuity automatically offered to all NFT holders of "Whale Pass Season 1".
 
-![](../../.gitbook/assets/8.jpg)
+![](../.gitbook/assets/8.jpg)
 

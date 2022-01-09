@@ -4,7 +4,7 @@ description: Keep $ZMBE Undead.
 
 # Early Withdraw Fees
 
-To keep and incentivize liquidity and to punish arbitrage and harvesting bots, all graves, tombs and spawning pools have an early withdraw fee assessed if removed prematurely. 
+To keep and incentivize liquidity and to punish arbitrage and harvesting bots, all graves, tombs and spawning pools have an early withdraw fee assessed if removed prematurely.&#x20;
 
 This 5% fee will be immediately sent to the treasury upon early removal. Some of those funds will be used for periodic buy-back and burns, among other things. [See the use of our treasury funds here](initial-token-supply.md#treasury-funds).
 
@@ -12,6 +12,6 @@ This fee applies to staked amounts. The withdraw period is set according to each
 
 This timer is reset upon each deposit and withdraw to [de-incentive manipulation ](whale-taxes-de-incentives-early-withdraw-fees.md)and incentivize long term holding.
 
-For our TOMBS, the  5% fee LP is immediately unpaired, the $ZMBE is burned, and the other pair is sent to the treasury address. 
+For our TOMBS, the  5% fee LP is immediately unpaired, the $ZMBE is burned, and the other pair is sent to the treasury address.&#x20;
 
 Please note that this 5% fee is hardcoded into the contract, and even an emergency withdrawal will trigger this fee. Pleas DYOR before depositing into a grave so as to note result in lost funds. Our team cannot recover this amount for users.

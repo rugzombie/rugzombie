@@ -6,8 +6,8 @@ description: >-
 
 # NFT + GameFi Services
 
-{% content-ref url="oblivion-nft-marketplace.md" %}
-[oblivion-nft-marketplace.md](oblivion-nft-marketplace.md)
+{% content-ref url="../basic-information/nft-+-gamefi-services/oblivion-nft-marketplace.md" %}
+[oblivion-nft-marketplace.md](../basic-information/nft-+-gamefi-services/oblivion-nft-marketplace.md)
 {% endcontent-ref %}
 
 {% content-ref url="quest-as-a-service-qaas.md" %}

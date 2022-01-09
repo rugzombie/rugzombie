@@ -8,7 +8,7 @@ It sucks to be the victim of a rug pull. While you may never recover the lost va
 
 Our [GRAVES](graves/) allow users to earn custom NFT artwork that will be a consolation prize of sorts for being scammed.&#x20;
 
-We don't offer NFTs for rug pulls only, we have several ways for our users to acquire RugZombie NFTs. We also aim to provide utility for NFT collections outside of our project (see [QaaS](../nft-+-gamefi-services/quest-as-a-service-qaas.md)).
+We don't offer NFTs for rug pulls only, we have several ways for our users to acquire RugZombie NFTs. We also aim to provide utility for NFT collections outside of our project (see [QaaS](../../nft-+-gamefi-services/quest-as-a-service-qaas.md)).
 
 Our NFTs will serve many functions; they will play a key role in our  [gaming ecosystem](./) and our merchandise arrangements.
 

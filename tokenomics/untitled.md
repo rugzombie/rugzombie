@@ -50,5 +50,5 @@ In addition to utilizing $ZMBE to recover loss from rugged tokens, users are inc
 
 We have many burning mechanism, staking mechanisms and more that will lead to $ZMBE being emission neutral. If anything, we may need to _increase_ the emission rate rather than decrease due to high demand and how useful $ZMBE will be in all our ecosystems.But as the chart below demonstrates, $ZMBE is among some of the lowest emissions you will find in farming projects.
 
-![](../../.gitbook/assets/screen-shot-2021-06-01-at-1.01.25-pm.png)
+![](../.gitbook/assets/screen-shot-2021-06-01-at-1.01.25-pm.png)
 

@@ -10,7 +10,7 @@ The deposit fee for Graves are a flat fee taken in BNB but represented in BUSD a
 
 50% of all fees are used to immediately buy back $ZMBE and burn thereby reducing the supply.
 
-The rest of the fees are sent to the treasury in order to pay for things related to the project such as the NFT artists, audits, and future features, [adding developers to our team](../../security-and-team-information/basic-team-security-information/join-our-team-of-dr.-frankensteins.md).&#x20;
+The rest of the fees are sent to the treasury in order to pay for things related to the project such as the NFT artists, audits, and future features, [adding developers to our team](../security-and-team-information/join-our-team-of-dr.-frankensteins.md).&#x20;
 
 The treasury wallet address can be seen here:&#x20;
 

@@ -2,7 +2,7 @@
 description: >-
   Our first of its kind, MUD (multi-user dungeon) on the blockchain with NFT
   integration.
-cover: ../../.gitbook/assets/Patient_Zero_Wallpaper.png
+cover: ../.gitbook/assets/Patient_Zero_Wallpaper.png
 coverY: 0
 ---
 
@@ -22,7 +22,7 @@ Our Private Beta is now closed.&#x20;
 
 Our public beta will be live in December 2021, and we will use real time feedback to enhance and further the development of this minigame. Any BASIC ZMBE NFT holder is able to play Patient Ø.&#x20;
 
-![](../../.gitbook/assets/Patient\_Zero\_Wallpaper.png)
+![](../.gitbook/assets/Patient\_Zero\_Wallpaper.png)
 
 **Synopsis**&#x20;
 

@@ -15,24 +15,24 @@
     * [Spawning Pool Technical Details](basic-information/main-features/crypts/spawning-pool-technical-details.md)
   * [Catacombs](basic-information/main-features/catacombs.md)
   * [Referral Program](basic-information/main-features/referral-program.md)
-  * [The Problem and Solution](basic-information/main-features/the-problem-and-solution.md)
+  * [The Problem and Solution](basic-information/the-problem-and-solution.md)
 * [$ZMBE Roadmap](basic-information/roadmap.md)
   * [Fair Launch Information](basic-information/fair-launch-information/README.md)
 * [User Guide](basic-information/user-guide.md)
-* [NFT + GameFi Services](basic-information/nft-+-gamefi-services/README.md)
+* [NFT + GameFi Services](nft-+-gamefi-services/README.md)
   * [Oblivion NFT Marketplace](basic-information/nft-+-gamefi-services/oblivion-nft-marketplace.md)
-  * [Quest as a Service (QaaS)](basic-information/nft-+-gamefi-services/quest-as-a-service-qaas.md)
-  * [Patient Ø (zero)](basic-information/nft-+-gamefi-services/patient-o-zero.md)
-  * [Are you dEaD yEt?](basic-information/nft-+-gamefi-services/are-you-dead-yet.md)
+  * [Quest as a Service (QaaS)](nft-+-gamefi-services/quest-as-a-service-qaas.md)
+  * [Patient Ø (zero)](nft-+-gamefi-services/patient-o-zero.md)
+  * [Are you dEaD yEt?](nft-+-gamefi-services/are-you-dead-yet.md)
 
 ## Tokenomics
 
-* [Basic Token Information](tokenomics/untitled/README.md)
-  * [Initial Token Supply](tokenomics/untitled/initial-token-supply.md)
-  * [Deposit Fees](tokenomics/untitled/deposit-fees.md)
-  * [Burning Mechanisms and Inflation Control](tokenomics/untitled/burning-mechanisms-and-inflation-control.md)
-  * [Early Withdraw Fees](tokenomics/untitled/early-withdraw-fees.md)
-  * [Whale Games](tokenomics/untitled/whale-taxes-de-incentives-early-withdraw-fees.md)
+* [Basic Token Information](tokenomics/untitled.md)
+  * [Initial Token Supply](tokenomics/initial-token-supply.md)
+  * [Deposit Fees](tokenomics/deposit-fees.md)
+  * [Burning Mechanisms and Inflation Control](tokenomics/burning-mechanisms-and-inflation-control.md)
+  * [Early Withdraw Fees](tokenomics/early-withdraw-fees.md)
+  * [Whale Games](tokenomics/whale-taxes-de-incentives-early-withdraw-fees.md)
 
 ## Security and Team Information
 
@@ -42,8 +42,8 @@
   * [API information](security-and-team-information/basic-team-security-information/api-information.md)
   * [Flash Loan Protection](security-and-team-information/basic-team-security-information/flash-loan-protection.md)
   * [Preventative Double Rug Measures](security-and-team-information/basic-team-security-information/preventative-double-rug-measures.md)
-  * [TRUST US CAMPAIGN (complete)](security-and-team-information/basic-team-security-information/trust-us-campaign.md)
-  * [Join Our Team | HIRING](security-and-team-information/basic-team-security-information/join-our-team-of-dr.-frankensteins.md)
+  * [TRUST US CAMPAIGN (complete)](security-and-team-information/trust-us-campaign.md)
+  * [Join Our Team | HIRING](security-and-team-information/join-our-team-of-dr.-frankensteins.md)
 
 ## Other Links
 

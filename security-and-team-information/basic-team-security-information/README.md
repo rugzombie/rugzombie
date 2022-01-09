@@ -16,7 +16,7 @@ While our team has chosen to remain anonymous to the public at this time, we wil
 
 ●  [emergency withdraw feature](emergency-withdraw.md) (in case of DDOS attack)
 
-●  [Multi-signature treasury wallet](../../tokenomics/untitled/initial-token-supply.md#treasury-funds) and developer wallet
+●  [Multi-signature treasury wallet](../../tokenomics/initial-token-supply.md#treasury-funds) and developer wallet
 
 ● KYC with selected firms and/or exchanges;
 
@@ -42,7 +42,7 @@ Our core dev team has 4 members currently, and we are actively adding more as ou
 
 We have a number of community leaders and experts who actively manage our socials, SEO and web traffic, marketing, partnerships, design and other efforts.&#x20;
 
-Interested to join our team? [Click Here](join-our-team-of-dr.-frankensteins.md).&#x20;
+Interested to join our team? [Click Here](../join-our-team-of-dr.-frankensteins.md).&#x20;
 
 ## What About all the Other Contract Features?
 
