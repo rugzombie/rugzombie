@@ -47,18 +47,20 @@
 
 ## Other Links
 
-* [Socials](other-links/socials.md)
+* [Socials](other-links/socials/README.md)
+  * [OFFICIAL LINKTREE](https://linktr.ee/rugzombie)
 * [Contracts](other-links/contracts/README.md)
   * [NFT Contract Addresses](other-links/contracts/nft-contract-addresses.md)
 * [FAQ](other-links/faq.md)
 
 ***
 
-* [OFFICIAL LINKTREE](https://linktr.ee/rugzombie)
-* [Lite Paper](lite-paper.md)
-* [Marketing Information](marketing-information.md)
-* [Feedback, Suggestions and Bug Bounty](feedback-suggestions-and-bug-bounty.md)
-* [Logos](logos.md)
+* [Feedback, Suggestions and Bug Bounty](feedback-suggestions-and-bug-bounty/README.md)
+  * [Marketing Information](feedback-suggestions-and-bug-bounty/marketing-information.md)
+  * [Lite Paper](feedback-suggestions-and-bug-bounty/lite-paper.md)
+* [Fine Print Stuff](fine-print-stuff/README.md)
+  * [Privacy Notice](fine-print-stuff/privacy-notice.md)
 * [Partnerships and Business Development](untitled/README.md)
   * [Brand Assets & Links](untitled/brand-assets-and-links/README.md)
     * [Zombie Ops](untitled/brand-assets-and-links/zombie-ops.md)
+  * [Logos](untitled/logos.md)

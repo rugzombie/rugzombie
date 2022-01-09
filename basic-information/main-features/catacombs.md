@@ -14,7 +14,7 @@ Simply deposit a rugged token which has a GRAVE listed in our graves page, and b
 
 **The Barracks**
 
-REDACTED
+Barracks is our user-controlled NFT only pool collection. The set of NFTs in the barracks are available for locking up assets for a set amount of time. The pools have a maximum stake so that there is a maximum number of mints available.&#x20;
 
 **HR**
 
@@ -38,8 +38,8 @@ REDACTED
 
 **The Black Market**
 
-REDACTED
+A peer to peer marketplace for rugged tokens. Need access to a grave and don't have the proper rug in your wallet? You can now trade and sell your rugs on the black market with anonymity. No more sharing your wallet address with other users.
 
 **The Dungeon**
 
-REDACTED
+Our [Patient Zero](../../nft-+-gamefi-services/patient-o-zero.md) game is hosted down here. See the page for more.
