@@ -30,6 +30,8 @@ We began our project with an emission rate of 10/block (see below). This was a g
 
 These scheduled emission changes will positively impact early holders as the value of their ZMBE is not diluted by increased supply, and it will stave off rampant inflation.
 
+Our eventual goal is to remain emission neutral as a project; as our Zombie services see increase adoption, users will be attracted to our platform, not for "highest yields" but for the NFTs, retail dividends, and gaming. We are confident that a slow and steady approach to this question will help ZMBE remain fundamentally strong over the longterm.
+
 ## Why ZMBE has no hard capped supply?
 
 $ZMBE at its core is a simple yield-farming token allowing the user to earn new tokens out of their rugged tokens. Our mission is simple; providing new value to our users through resurrecting rugged or dead projects with this new yield in $ZMBE.
