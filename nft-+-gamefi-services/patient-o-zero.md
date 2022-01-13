@@ -20,7 +20,7 @@ Our Private Beta is now closed.&#x20;
 
 **Public Beta**
 
-Our public beta will be live in December 2021, and we will use real time feedback to enhance and further the development of this minigame. Any BASIC ZMBE NFT holder is able to play Patient Ø.&#x20;
+Our public beta is currently ongoing at patientzero.rugzombie.io, and we will use real time feedback to enhance and further the development of this minigame. Any BASIC ZMBE NFT holder is able to play Patient Ø.&#x20;
 
 ![](../.gitbook/assets/Patient\_Zero\_Wallpaper.png)
 
