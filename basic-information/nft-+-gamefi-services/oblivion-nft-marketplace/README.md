@@ -6,7 +6,7 @@ description: >-
 
 # Oblivion NFT Marketplace
 
-![](<../../.gitbook/assets/Oblivion 2.1.jpg>)
+![](<../../../.gitbook/assets/Oblivion 2.1.jpg>)
 
 Welcome to the Oblivion, a user-centric NFT marketplace on the RugZombie platform.&#x20;
 
@@ -65,7 +65,7 @@ Whitelisted artists will enjoy publicity and budget-free marketing from our team
 
 For project owners who have NFT collections, RugZombie team would love to get your project whitelisted for secondary trading with royalties and a dedicated profile page for your project. [Please let us know here](https://docs.google.com/forms/u/4/d/e/1FAIpQLSdkKJRBugKWdVOryendbJVfLoNX7VB8UKNjH0g6xavDafUKRA/viewform?usp=send\_form).
 
-Whitelisted NFT collections are eligible to become in game NFT assets for our [patient zero minigame](../../nft-+-gamefi-services/patient-o-zero.md), and more.
+Whitelisted NFT collections are eligible to become in game NFT assets for our [patient zero minigame](../../../nft-+-gamefi-services/patient-o-zero.md), and more.
 
 These NFT collections will enjoy publicity and budget-free marketing  from our team as a support at no cost.&#x20;
 
@@ -81,7 +81,7 @@ The Oblivion NFT Marketplace will not be released in one stage, but multiple sta
 
 2\) Whitelisting premier artists and selected projects for dedicated secondary pages.&#x20;
 
-3\) Open season where NFTs may be listed from any collection from any user (without dedicated support). Projects that desire a dedicated page must go through our whitelisting page.
+3\) Open season where NFTs may be listed from any collection from any user (without dedicated support). Projects that desire a dedicated page must go through our [whitelisting process](whitelisting-process.md).
 
 4\) Self-minting services for all users (for a nominal fee)
 
