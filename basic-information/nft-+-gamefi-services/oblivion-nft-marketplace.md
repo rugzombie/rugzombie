@@ -1,8 +1,12 @@
 ---
-description: You can't stop what has begun, signed, sealed, they deliver oblivion
+description: >-
+  You can't stop what has begun, signed, sealed, they deliver oblivion (this
+  page is under construction and will change before release)
 ---
 
 # Oblivion NFT Marketplace
+
+![](<../../.gitbook/assets/Oblivion 2.1.jpg>)
 
 Welcome to the Oblivion, a user-centric NFT marketplace on the RugZombie platform.&#x20;
 
@@ -10,7 +14,7 @@ Oblivion boasts a number of benefits for NFT lovers:
 
 * optimized and fast user experience
 * &#x20;the lowest service fees on BSC of secondary marketplaces (see below)
-* NFT rental system for passive earnings on your NFT assets
+* NFT rental system for passive earnings on your NFT assets\*
 * absolutely FREE minting services for select artists/projects (see more below)&#x20;
 * dedicated project focused pages for your NFT collection
 
@@ -38,6 +42,8 @@ This means that if both of these conditions are met, users can enjoy a service f
 
 
 RugZombie's ecosystem involves a variety of released features and games in development that utilize our NFT collection. For this reason, the Oblivion Market will soon have a rental feature that allows NFT holders to rent their NFTs to other users for passive income.&#x20;
+
+\*Are you an NFT project or game-fi project that wants to incorporate rentals into your system? Send us a message; we would love to help you receive royalties from our rental system and provide a way for your project to benefit substantial from our rental system.&#x20;
 
 
 
