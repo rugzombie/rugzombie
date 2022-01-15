@@ -40,10 +40,10 @@ You can see the treasury fund wallet address here:&#x20;
 
 ## Developer Vested Tokens
 
-The dev team has agreed to develop the platform in exchange for ZMBE tokens, and will be transparent about our token allocations. We also fully expect to participate just like all other token holders at launch with our own personal funds.
+The dev team will be transparent about our tokens. We also fully expect to participate just like all other token holders at launch with our own personal funds.
 
-The Dev Team was allocated 10% of initial supply (a total of 10mil ZMBE) in vested wallet which is held in a multi-signature wallet at this address:
+The Dev Team maintains 10% of initial supply (a total of 10mil ZMBE) in vested wallet which is held in a multi-signature wallet at this address:
 
 &#x20;0x666a26C410BdfDB4B5D51B971E209Dda4A96594e
 
-Our developer wallet is essentially a compensation plan for our core team of contracted developers, artists, and more. They are vested monthly over the course of 2021-2024.
+Our developer wallet is essentially a compensation plan for our core team of developers, artists, and more. They are vested monthly over the course of 2021-2024.
