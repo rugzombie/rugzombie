@@ -1,6 +1,6 @@
 # Grave Timer Periods
 
-**Grave and Tomb Timers**&#x20;
+**Grave, Spawning Pool and Tomb Timers**&#x20;
 
 In order to earn our custom NFTs, users must stake their funds for a specific amount of time, denoted in each Grave.
 

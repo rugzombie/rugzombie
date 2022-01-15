@@ -1,5 +1,7 @@
 ---
-description: RugZombie's unique NFT auction house.
+description: >-
+  To Be Deprecated on Launch of the Oblivion Marketplace, All Auctions will be
+  placed on the marketplace thereafter.
 ---
 
 # Mausoleum

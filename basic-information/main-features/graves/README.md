@@ -22,20 +22,14 @@ The minimum staking amounts are subject to change, as our token price appreciate
 
 The user will be rewarded for staking $ZMBE and the rugged token for a certain amount of time (determined by each pool) with a single NFT commemorating their rugged token experience and a determined amount of $ZMBE relative to the amount of $ZMBE staked.
 
-There is a deposit fee (in BNB) for graves to be unlocked. This deposit fee allows our team to:
-
-* Buy back and burn ZMBE
-* Pay our starving artists
-* Build up our treasury fund for future liquidity pools, audits etc.&#x20;
-
 {% hint style="info" %}
-These NFTs may be a fun way to adjust to losing money on scammed tokens, but will have utility in our upcoming NFT gaming ecosystem and value on our secondary market as well.&#x20;
+These Grave NFTs may be a fun way to adjust to losing money on scammed tokens, but will have utility in our upcoming NFT gaming ecosystem and value on our secondary market as well.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-Our Deposit Fee is assessed in BNB to reduce selling pressure of ZMBE to keep our token price stable.&#x20;
+Our Deposit Fee is assessed in BNB to reduce selling pressure of ZMBE to keep our token price stable, it also helps to pay our artists and any contact hires.
 {% endhint %}
 
 {% hint style="info" %}
-We determine the APR for $ZMBE staking based on the amount of $ZMBE only. Your rugged token is ONLY used to determine eligibility for the NFT.
+In our graves, we determine the APR for $ZMBE staking based on the amount of $ZMBE only. Your rugged token is ONLY used to determine eligibility for the NFT.
 {% endhint %}
