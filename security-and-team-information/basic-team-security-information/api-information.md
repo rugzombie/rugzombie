@@ -6,5 +6,4 @@ description: Will be updated when ready.
 
 **API**
 
-Check the GitHub at: 
-
+Check our GitHub for information regarding API.
