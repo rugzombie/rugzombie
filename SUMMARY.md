@@ -5,6 +5,7 @@
 ## Basic Information
 
 * [Get Started: Disclaimer](basic-information/financial-disclaimer.md)
+* [Quick Start Guide & Ecosystem Overview](basic-information/quick-start-guide-and-ecosystem-overview.md)
 * [Main Features](basic-information/main-features/README.md)
   * [NFTs](basic-information/main-features/nfts.md)
   * [Graves](basic-information/main-features/graves/README.md)
