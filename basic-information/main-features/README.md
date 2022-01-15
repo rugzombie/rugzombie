@@ -7,7 +7,7 @@ description: The following is a non-exhaustive list of ZMBE features.
 1. **NFT Farming:** Stake in our graves, tombs and spawning pools to earn NFTs.
 2. **Liquidity & Yield Farming**: Liquidity pairings with ZMBE-BNB in our [TOMBS](tombs.md) for exclusive, vrf randomized NFT rewards. The more you stake, the better your odds of rare NFTs. All our grave also emit a nominal amount of ZMBE.
 3. **Gaming Studio**: Our ecosystem project Dead Games will be releasing games based on the RugZombie NFT collection and token. &#x20;
-4. ****[**Secondary Market**](../nft-+-gamefi-services/oblivion-nft-marketplace/): The Oblivion NFT Marketplace, a peer to peer marketplace to buy, sell, trade and rent your rugged $ZMBE NFTs and other favorite NFT collections.
+4. ****[**Secondary Market**](../nft-marketplace-+-gamefi-services/oblivion-nft-marketplace/): The Oblivion NFT Marketplace, a peer to peer marketplace to buy, sell, trade and rent your rugged $ZMBE NFTs and other favorite NFT collections.
 5. **Community Building Features**: Auctions, Secret Dapp Sections, Special Events, and other fun ways to earn $ZMBE and Collectible NFTs.&#x20;
 
 As you can see, our main features have nothing to do with tokenomics (which you can see next), because **utility and development is the underlying value of our blockchain project.**&#x20;

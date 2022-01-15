@@ -42,6 +42,6 @@ A peer to peer marketplace for rugged tokens. Need access to a grave and don't h
 
 **The Dungeon - Released January 2022**
 
-Our [Patient Zero](../../nft-+-gamefi-services/patient-o-zero.md) game is hosted down here. See the page for more.
+Our [Patient Zero](../nft-marketplace-+-gamefi-services/dead-games-studio/patient-o-zero.md) game is hosted down here. See the page for more.
 
 This game will be moved to another dedicated gaming section soon after general release.

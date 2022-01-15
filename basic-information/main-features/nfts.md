@@ -12,7 +12,7 @@ Our [GRAVES](graves/) allow users to earn custom NFT artwork that will be a cons
 
 **Spawning Pools**
 
-We don't offer NFTs for rug pulls only, we have several ways for our users to acquire RugZombie NFTs. We also aim to provide utility for NFT collections outside of our project (see [QaaS](../../nft-+-gamefi-services/quest-as-a-service-qaas.md)). Our Spawning Pools let you earn Partner Tokens AND RugZombie NFTs.&#x20;
+We don't offer NFTs for rug pulls only, we have several ways for our users to acquire RugZombie NFTs. We also aim to provide utility for NFT collections outside of our project (see [QaaS](../nft-marketplace-+-gamefi-services/dead-games-studio/quest-as-a-service-qaas.md)). Our Spawning Pools let you earn Partner Tokens AND RugZombie NFTs.&#x20;
 
 **Gaming & Merchandise**
 

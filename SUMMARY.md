@@ -5,7 +5,8 @@
 ## Basic Information
 
 * [Get Started: Disclaimer](basic-information/financial-disclaimer.md)
-* [Quick Start Guide & Ecosystem Overview](basic-information/quick-start-guide-and-ecosystem-overview.md)
+* [Quick Start Guide & Ecosystem Overview](basic-information/quick-start-guide-and-ecosystem-overview/README.md)
+  * [Helpful Links](basic-information/quick-start-guide-and-ecosystem-overview/helpful-links.md)
 * [Main Features](basic-information/main-features/README.md)
   * [NFTs](basic-information/main-features/nfts.md)
   * [Graves](basic-information/main-features/graves/README.md)
@@ -19,13 +20,12 @@
   * [The Problem and Solution](basic-information/the-problem-and-solution.md)
 * [$ZMBE Roadmap](basic-information/roadmap.md)
   * [Fair Launch Information](basic-information/fair-launch-information/README.md)
-* [User Guide](basic-information/user-guide.md)
-* [NFT + GameFi Services](nft-+-gamefi-services/README.md)
-  * [Oblivion NFT Marketplace](basic-information/nft-+-gamefi-services/oblivion-nft-marketplace/README.md)
-    * [Whitelisting Process](basic-information/nft-+-gamefi-services/oblivion-nft-marketplace/whitelisting-process.md)
-  * [Quest as a Service (QaaS)](nft-+-gamefi-services/quest-as-a-service-qaas.md)
-  * [Patient Ø (zero)](nft-+-gamefi-services/patient-o-zero.md)
-  * [Are you dEaD yEt?](nft-+-gamefi-services/are-you-dead-yet.md)
+* [NFT Marketplace + GameFi Services](basic-information/nft-marketplace-+-gamefi-services/README.md)
+  * [Oblivion NFT Marketplace](basic-information/nft-marketplace-+-gamefi-services/oblivion-nft-marketplace/README.md)
+    * [Whitelisting Process](basic-information/nft-marketplace-+-gamefi-services/oblivion-nft-marketplace/whitelisting-process.md)
+  * [Dead Games Studio](basic-information/nft-marketplace-+-gamefi-services/dead-games-studio/README.md)
+    * [Quest as a Service (QaaS)](basic-information/nft-marketplace-+-gamefi-services/dead-games-studio/quest-as-a-service-qaas.md)
+    * [Patient Ø (zero)](basic-information/nft-marketplace-+-gamefi-services/dead-games-studio/patient-o-zero.md)
 
 ## Tokenomics
 

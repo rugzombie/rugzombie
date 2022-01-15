@@ -13,6 +13,6 @@ There are many issues concerning blockchain technologies. From prolific scams to
 RugZombie is doing 4 primary things on the crypto space, beginning on the Binance Smart Chain (BSC);
 
 1. Identify and Issue NFTs for Dead/Rugpulled Tokens.&#x20;
-2. An NFT Powered Gaming Studio. Starting with our minigame, [Patient Zero](../nft-+-gamefi-services/patient-o-zero.md), and with more in development, turn your NFTs into game assets.
+2. An NFT Powered Gaming Studio. Starting with our minigame, [Patient Zero](nft-marketplace-+-gamefi-services/dead-games-studio/patient-o-zero.md), and with more in development, turn your NFTs into game assets.
 3. Bridge the gap between digital and physical assets (our upcoming merch portal will be mind-blowing)&#x20;
 4. Under the surface, the Zombie team is committed to strengthening business to business relationships with our partners to encourage healthy development in crypto.

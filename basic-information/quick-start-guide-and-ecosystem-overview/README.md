@@ -15,8 +15,8 @@ The RugZombie ecosystem contains various inter-related projects; RugZombie is a 
 Here are a few things you can do with RugZombie:&#x20;
 
 * Swap tokens, Stake ZMBE and Earn NFTs on RugZombie's native platform
-* Purchase NFTs on the [Oblivion Marketplace](nft-+-gamefi-services/oblivion-nft-marketplace/)
-* Play NFT and P2E games via the [Dead Games](../nft-+-gamefi-services/) Indie Gaming Studio
+* Purchase NFTs on the [Oblivion Marketplace](../nft-marketplace-+-gamefi-services/oblivion-nft-marketplace/)
+* Play NFT and P2E games via the [Dead Games](../nft-marketplace-+-gamefi-services/) Indie Gaming Studio
 * More Ecosystem Projects to come
 
 ### **Basics of RugZombie Staking**

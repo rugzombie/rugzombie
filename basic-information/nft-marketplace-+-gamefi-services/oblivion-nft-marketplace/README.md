@@ -31,7 +31,7 @@ RugZombie's Oblivion Market is meant to provide the absolute lowest NFT service 
 The service fees has 2 simple tiers:&#x20;
 
 * If BNB is used to buy/sell NFTs, the user is rebated 50% of the service fee in $ZMBE.&#x20;
-* If the seller holds either the Whale Pass Season 1 in their wallet, they can reduce the service fee even further by 50% more.
+* If the seller holds either the Whale Pass Season 1 in their wallet, they can reduce the service fee even further by a 50% rebate and more.
 
 This means that if both of these conditions are met, users can enjoy a service fee of .25% on NFT sales.&#x20;
 
@@ -65,7 +65,7 @@ Whitelisted artists will enjoy publicity and budget-free marketing from our team
 
 For project owners who have NFT collections, RugZombie team would love to get your project whitelisted for secondary trading with royalties and a dedicated profile page for your project. [Please let us know here](https://docs.google.com/forms/u/4/d/e/1FAIpQLSdkKJRBugKWdVOryendbJVfLoNX7VB8UKNjH0g6xavDafUKRA/viewform?usp=send\_form).
 
-Whitelisted NFT collections are eligible to become in game NFT assets for our [patient zero minigame](../../../nft-+-gamefi-services/patient-o-zero.md), and more.
+Whitelisted NFT collections are eligible to become in game NFT assets for our [patient zero minigame](../dead-games-studio/patient-o-zero.md), and more.
 
 These NFT collections will enjoy publicity and budget-free marketing  from our team as a support at no cost.&#x20;
 
