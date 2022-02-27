@@ -16,12 +16,12 @@ We don't offer NFTs for rug pulls only, we have several ways for our users to ac
 
 **Gaming & Merchandise**
 
-Our NFTs will serve many functions; they will play a key role in our  [gaming ecosystem](./) and our merchandise arrangements.
+Our NFTs will serve many functions; they will play a key role in a  [gaming ecosystem](./) and our merchandise arrangements.
 
 Our NFTs will come with ratings based on rarity ([view our Medium Article for more](https://rugzombie.medium.com/retiring-graves-and-grave-multipliers-on-rugzombie-afb823e249e3?source=user\_profile---------23----------------------------)).
 
 **Secondary Market Sales**
 
-Additionally, with our secondary market, users may trade their trophy NFTs with others. NFT artwork is exclusive to each particular rugged token project, and will therefore be more difficult to acquire for those who were not scammed, making them fairly unique ie valuable as collectibles.&#x20;
+Additionally, with our partner oblivion.art, users may trade their trophy NFTs with others. NFT artwork is exclusive to each particular rugged token project, and will therefore be more difficult to acquire for those who were not scammed, making them fairly unique ie valuable as collectibles.&#x20;
 
 If you have suggestions for artists for our NFT collection we would be happy to hear. [Let us know here](../../feedback-suggestions-and-bug-bounty/) or in our [telegram](../../other-links/socials/) group.
