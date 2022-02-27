@@ -9,13 +9,13 @@ description: >-
 
 RugZombie is excited to provide a wildly innovative service for any project that has NFTs as a part of its offerings; QaaS (quest as a service).&#x20;
 
-Using RugZombie's gaming ecosystem, our team will curate and give personal attention to a custom-crafted storyline and "lore" for your NFTs, integrating them into the ever-unfolding game world that our team is making. See below for our current offerings;
+Using RugZombie's partner, Dead Games, our team will curate and give personal attention to a custom-crafted storyline and "lore" for your NFTs, integrating them into the ever-unfolding game world that our team is making. See below for our current offerings;
 
 
 
 **Patient Ø (Zero)**
 
-PØ is RugZombie's one-of-a-kind MUD (multi-user dungeon) experience. Finding its roots in retro-gaming worlds like Aardwold, WOTmud, and Dikumud, RugZombie is building the first ever MUD on the blockchain.&#x20;
+PØ is a game based on RugZombie NFTs boasting a one-of-a-kind MUD (multi-user dungeon) experience. Finding its roots in retro-gaming worlds like Aardwold, WOTmud, and Dikumud, Patient Zero is the first ever MUD on the blockchain.&#x20;
 
 **What is a MUD?**&#x20;
 
@@ -25,9 +25,9 @@ Our MUD world has a main storyline (encompassed by our Patient Zero story) that 
 
 **How Does Your Project Integrate?**&#x20;
 
-With your NFT collection, RugZombie is able to offer anthology/fabled quests while not a part of the main storyline, provide our users more playing time and things to do in our world.&#x20;
+With your NFT collection, RugZombie and Dead Games are able to offer anthology/fabled quests while not a part of the main storyline, provide our users more playing time and things to do in our world.&#x20;
 
-For your Quest, RugZombie team will meet with our marketing and story team to custom craft your quest that will integrate your NFTs into the gameplay itself.&#x20;
+For your Quest, RugZombie and Dead Games team will meet with our marketing and story team to custom craft your quest that will integrate your NFTs into the gameplay itself.&#x20;
 
 _example: Your NFT collection of "dudes" can be integrated into a special quest wherein owners of "dude" NFTs can retrieve special quested items, fight special one of a kind monsters/bosses, and even cash prizes in the form of bep20 tokens (see below)._
 
@@ -41,17 +41,17 @@ Common quests will be perpetually available and do not provide users with no dro
 
 Epic Quests - 5 BNB
 
-Epic Quests will not only include a special quest based on the project NFT, but RugZombie team will curate special no drop items and privileges that are highly desirable in game. Epic Quests are eligible to become canon in the main storyline of Patient Zero. These quests are seasonal and have an expiry date.
+Epic Quests will not only include a special quest based on the project NFT, but RugZombie and Dead Games team will curate special no drop items and privileges that are highly desirable in game. Epic Quests are eligible to become canon in the main storyline of Patient Zero. These quests are seasonal and have an expiry date.
 
 Epic Quest Projects are eligible for whitelisting NFT collections on our upcoming secondary marketplace.
 
 Legendary Quests - 7 BNB + Project Tokens
 
-Legendary Quests not only include a common quest in perpetuity, but will combine the Epic Quests functionality of a seasonal campaign that rewards players with special no drop items or boss battles based on your NFTs, as well as your tokens and ZMBE tokens. Legendary quests are eligible to become canon in the main storyline of Patient Zero.&#x20;
+Legendary Quests not only include a common quest in perpetuity, but will combine the Epic Quests functionality of a seasonal campaign that rewards players with special no drop items or boss battles based on your NFTs, as well as your tokens and ZMBE tokens, for example. Legendary quests are eligible to become canon in the main storyline of Patient Zero.&#x20;
 
 Legendary Quests AND can be renewed after their season is over for a nominal fee + Project Tokens to be rewarded.&#x20;
 
-Legendary Quest Projects are eligible for whitelisting NFT collections on our upcoming secondary marketplace.
+Legendary Quest Projects are eligible for whitelisting NFT collections on the Oblivion NFT Marketplace.
 
 
 
