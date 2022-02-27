@@ -4,7 +4,6 @@
 
 ## Basic Information
 
-* [NEW: NFT HeadHunting](basic-information/new-nft-headhunting.md)
 * [Get Started: Disclaimer](basic-information/financial-disclaimer.md)
 * [Quick Start Guide & Ecosystem Overview](basic-information/quick-start-guide-and-ecosystem-overview/README.md)
   * [Helpful Links](basic-information/quick-start-guide-and-ecosystem-overview/helpful-links.md)
