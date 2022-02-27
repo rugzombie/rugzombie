@@ -22,7 +22,7 @@ _There are various crypto communities out there trying to provide a service for 
 * [x] RugDoc Review\* (See [HERE](https://rugdoc.io/project/rugzombie/))
 * [x] Ape O Clock Featured (See [HERE](https://www.apeoclock.com/launch/rugzombie-nft-launch/))
 
-\*RugDoc determined our code was too complex to warrant a full review. We have respectfully asked them post our HASHEX audit report to get that coveted "low risk" button, however this is not in our control.
+\*RugDoc determined our code was too complex to warrant a full review. We are currently working with them post our HASHEX audit report to get that coveted "low risk" button. :-)&#x20;
 
 ![](../../.gitbook/assets/featured-on-apeoclock-light.png)
 

@@ -26,7 +26,7 @@ This timer resets whenever any amount of $ZMBE is removed from Graves and Tombs,
 
 This early withdraw fee is [explained in depth here](early-withdraw-fees.md), and applies to all graves, tombs and spawning pools regardless of amount staked, so be mindful when entering and exiting our pools.
 
-## Incentives - Whale Grave&#x20;
+## Incentives - Whale Graves Coming Soon
 
 Whales are not bad. There is a common misconception in the crypto-space that whales are only about manipulation. While whales have the ability to do that, we did not want to wholly de-incentivize them from our platform as many whales are good actors with a desire to promote adoption of cryptocurrency  projects. Whales provide needed liquidity and are crucial to long term success if they believe in the project and are willing to hold.&#x20;
 
