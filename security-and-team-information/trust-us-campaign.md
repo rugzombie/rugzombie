@@ -15,7 +15,7 @@ In August of 2021, The RugZombie team committed to an overhaul of transparency, 
 * [x] KYC for all longterm contract devs on our platform utilizing [blockpass](https://blockpass.org)
 * [x] [Time-locked Master-Chef](basic-team-security-information/)
 * [x] Increased Visibility through AMAs, etc.
-* [x] Some interesting [MAUSOLEUM](../basic-information/main-features/mausoleum.md) pieces to celebrate our progress
+* [x] Some interesting [MAUSOLEUM](broken-reference) pieces to celebrate our progress
 * [x] Application for a Second Audit ([AUDIT COMPLETED: VIEW HERE](https://rugzombie.gitbook.io/docs/security-and-team-information/basic-team-security-information/audits))
 * [x] Some Sponsored Press through trusted media outlets about our project
 

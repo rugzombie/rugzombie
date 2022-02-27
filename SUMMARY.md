@@ -12,7 +12,6 @@
   * [Graves](basic-information/main-features/graves/README.md)
     * [Grave Timer Periods](basic-information/main-features/graves/grave-lockup-periods.md)
   * [Tombs (NFTombs)](basic-information/main-features/tombs.md)
-  * [Mausoleum](basic-information/main-features/mausoleum.md)
   * [Spawning Pools](basic-information/main-features/crypts/README.md)
     * [Spawning Pool Technical Details](basic-information/main-features/crypts/spawning-pool-technical-details.md)
   * [Catacombs](basic-information/main-features/catacombs.md)
