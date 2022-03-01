@@ -7,7 +7,7 @@ description: >-
 
 # Oblivion NFT Marketplace
 
-![](<../../.gitbook/assets/Oblivion 2.1.jpg>)
+![](<../../../.gitbook/assets/Oblivion 2.1.jpg>)
 
 Welcome to the Oblivion, a user-centric NFT marketplace on the in the RugZombie world! In partnership with Dead Games studio, RugZombie is proud to benefit from a number of features on the marketplace itself. Read below;&#x20;
 
@@ -66,7 +66,7 @@ Whitelisted artists will enjoy publicity and budget-free marketing from RugZombi
 
 For project owners who have NFT collections, the Oblivion team would love to get your project whitelisted for secondary trading with royalties and a dedicated profile page for your project. [Please let us know here](https://docs.google.com/forms/u/4/d/e/1FAIpQLSdkKJRBugKWdVOryendbJVfLoNX7VB8UKNjH0g6xavDafUKRA/viewform?usp=send\_form).
 
-Whitelisted NFT collections are eligible to become in game NFT assets for the [patient zero minigame](dead-games-studio/patient-o-zero.md), and more.
+Whitelisted NFT collections are eligible to become in game NFT assets for the [patient zero minigame](../dead-games-studio/patient-o-zero.md), and more.
 
 These NFT collections will enjoy publicity and budget-free marketing  from our team as a support at no cost.&#x20;
 
