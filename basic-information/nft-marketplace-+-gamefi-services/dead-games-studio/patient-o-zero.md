@@ -8,7 +8,7 @@ coverY: 0
 
 # Patient Ø (zero)
 
-This mini-game will provide utility in the form of gameplay items and quests for RugZombie NFTs as well as provide play-to-earn opportunities for players.&#x20;
+This mini-game created by Dead Games will provide utility in the form of gameplay items and quests for RugZombie NFTs as well as provide play-to-earn opportunities for players. Dead Games will also offer integrations of other NFT collections including but not limited to RugZombie NFTs.
 
 This game is in beta, more details to come soon. If you are a project owner and interested in how you can deepen the utility of your NFTs, check out our [Quest as a Service (QaaS)](quest-as-a-service-qaas.md).
 
@@ -16,11 +16,11 @@ This game is in beta, more details to come soon. If you are a project owner and 
 
 **Private Beta**
 
-Our Private Beta is now closed.&#x20;
+The Private Beta is now closed.&#x20;
 
 **Public Beta**
 
-Our public beta is currently ongoing at patientzero.rugzombie.io, and we will use real time feedback to enhance and further the development of this minigame. Any BASIC ZMBE NFT holder is able to play Patient Ø.&#x20;
+The public beta is currently ongoing and hosted at patientzero.rugzombie.io, and we will use real time feedback to enhance and further the development of this minigame. Any BASIC ZMBE NFT holder is able to play Patient Ø.&#x20;
 
 ![](../../../.gitbook/assets/Patient\_Zero\_Wallpaper.png)
 

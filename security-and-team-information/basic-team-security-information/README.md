@@ -36,9 +36,9 @@ Members of our team have KYCed to members of the media for publication, and all 
 
 ## How Many Are on the Team?&#x20;
 
-Our team is a combination of core contracted developers/founders (dr. frankensteins), contract workers, and community leaders (undertakers)
+Our team is a combination of core contracted developers/founders, contract workers, community leaders, and YOU! RugZombie is a defi project that fair-launched. Our project is for the community!&#x20;
 
-Our "core" dev team has 6 members currently, and we are actively adding more as our project grows. Only one member has access to the deployer wallet, and 4 founders have access to our multi-signature wallet that requires 2/4 signatures for transactions.
+Our "core" dev team has multiple members currently, and we are actively adding more as our project grows. Only one member has access to the deployer wallet, and a few founders have access to a multisignature treasury.
 
 We have a number of community leaders and experts who actively manage our socials, SEO and web traffic, marketing, partnerships, design and other efforts.&#x20;
 
