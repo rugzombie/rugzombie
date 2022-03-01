@@ -32,7 +32,7 @@ The Oblivion Market is meant to provide the absolute lowest NFT service fees on 
 The service fees has 2 simple tiers:&#x20;
 
 * If BNB is used to buy/sell NFTs, the user is rebated 50% of the service fee in $ZMBE.&#x20;
-* If the seller holds either the Whale Pass Season 1 in their wallet, they can reduce the service fee even further by a 50% rebate and more.
+* If the seller holds the RugZombie Whale Pass Season 1 in their wallet, they can reduce the service fee even further by a 50% rebate and more.
 
 This means that if both of these conditions are met, users can enjoy a service fee of .25% on NFT sales.&#x20;
 
