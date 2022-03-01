@@ -12,8 +12,8 @@ While Dead Games owns a number of assets utilized in the RugZombie ecosystem (th
 
 Read below for more information.
 
-{% content-ref url="oblivion-nft-marketplace/" %}
-[oblivion-nft-marketplace](oblivion-nft-marketplace/)
+{% content-ref url="oblivion-nft-marketplace.md" %}
+[oblivion-nft-marketplace.md](oblivion-nft-marketplace.md)
 {% endcontent-ref %}
 
 {% content-ref url="dead-games-studio/quest-as-a-service-qaas.md" %}

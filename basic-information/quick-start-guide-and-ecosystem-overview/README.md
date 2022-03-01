@@ -10,14 +10,14 @@ RugZombie is a DeFi (decentralized finance) project on the Binance Smart Chain. 
 
 **Ecosystem Overview**
 
-The RugZombie ecosystem contains various inter-related projects; RugZombie is a decentralized and community owned project, and not responsible for projects with built utility on our token platform or NFTs.
+The RugZombie ecosystem contains various inter-related and partner projects; RugZombie is a decentralized and community owned project, and not responsible for projects with built utility on our token platform or NFTs.
 
 Here are a few things you can do with RugZombie:&#x20;
 
 * Swap tokens, Stake ZMBE and Earn NFTs on RugZombie's native platform
-* Purchase NFTs on the [Oblivion Marketplace](../nft-marketplace-+-gamefi-services/oblivion-nft-marketplace/)
-* Play NFT and P2E games via the [Dead Games](../nft-marketplace-+-gamefi-services/) Indie Gaming Studio
-* More Ecosystem Projects to come
+* Purchase NFTs on our partner, [Oblivion Marketplace](../nft-marketplace-+-gamefi-services/oblivion-nft-marketplace.md)
+* Play NFT and P2E games via our partner, [Dead Games](../nft-marketplace-+-gamefi-services/) Indie Gaming Studio
+* More Ecosystem and Partner Projects to come
 
 ### **Basics of RugZombie Staking**
 
