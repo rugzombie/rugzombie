@@ -16,7 +16,7 @@
     * [Spawning Pool Technical Details](basic-information/main-features/crypts/spawning-pool-technical-details.md)
   * [Catacombs](basic-information/main-features/catacombs.md)
   * [Referral Program](basic-information/main-features/referral-program.md)
-  * [The Problem and Solution](basic-information/the-problem-and-solution.md)
+  * [The Problem & Solution](basic-information/the-problem-and-solution.md)
 * [$ZMBE Roadmap](basic-information/roadmap.md)
   * [Fair Launch Information](basic-information/fair-launch-information/README.md)
 * [NFT Marketplace + GameFi Services](basic-information/nft-marketplace-+-gamefi-services/README.md)

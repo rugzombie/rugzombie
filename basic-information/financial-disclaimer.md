@@ -9,3 +9,5 @@ The information shared in these docs, our roadmap, our lite paper and white pape
 These documents do not constitute a prospectus or offer document of any sort and is not intended to constitute an offer of securities or a solicitation for investment in securities in any jurisdiction.
 
 Neither RugZombie nor any of its contributors or creators shall be held liable or responsible for any errors or omissions concerning this project or for any damage you may suffer from your participation or as a result of failing to seek competent financial advice from a financial professional. This white paper and associated documentation is not in any way intended to create or put into implicit effect any elements of a contractual relationship.
+
+Futhermore, $ZMBE is a utility token allowing our users to earn NFTs that are used for art, and in-game NFT items. Participating in our ecosystem require the use of blockchain.&#x20;

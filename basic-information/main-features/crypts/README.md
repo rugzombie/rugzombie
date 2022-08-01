@@ -6,9 +6,9 @@ description: The ZMBE Horde live offerings.
 
 Our Spawning Pools (SPs) will operate more akin to the syrup pools on PancakeSwap, where a user deposits $ZMBE in order to earn live project tokens and additionally, a customized NFT.&#x20;
 
-Our team will do our best to provide due diligence on tokens we offer in the spawning pools. Because of the sensitive nature of working "around" rugged projects, we are hyper-vigilant about what tokens we offer.&#x20;
+Our team will do our best to provide due diligence on tokens we allow in the spawning pools. Because of the sensitive nature of working "around" rugged projects, we are hyper-vigilant about what tokens we offer.&#x20;
 
-Rest assured we are doing everything to ensure projects are safe that list in our crypts. With that being said, **please deposit in spawning pools at your own risk**.&#x20;
+Rest assured we are doing everything to ensure projects are safe that list in our crypts. With that being said, **please deposit in spawning pools at your own risk**. RugZombie is a fun project about providing cool NFTs for our games and any association to other projects should not be considered an endorsement of any kind.
 
 There is a deposit fee (in BNB) for SPs to be unlocked. This deposit fee allows our team to:
 

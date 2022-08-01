@@ -14,7 +14,7 @@ Welcome to the Oblivion, a user-centric NFT marketplace on the in the RugZombie 
 Oblivion boasts a number of benefits for NFT lovers:
 
 * optimized and fast user experience
-* &#x20;the lowest service fees on BSC of secondary marketplaces (see below)
+* &#x20;the lowest service fees on BNBCHain, Nervos, and Polygon of secondary marketplaces (see below)
 * NFT rental system for passive earnings on your NFT assets\*
 * absolutely FREE minting services for select artists/projects (see more below)&#x20;
 * dedicated project focused pages for your NFT collection

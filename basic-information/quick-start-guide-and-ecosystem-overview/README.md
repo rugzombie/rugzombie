@@ -2,21 +2,21 @@
 
 ### **Introduction**
 
-RugZombie is a DeFi (decentralized finance) project on the Binance Smart Chain. In order to use RugZombie and our associated ecosystem partner projects, a user needs to have:&#x20;
+RugZombie is a decentralized project on the Binance Smart Chain. In order to use RugZombie and our associated ecosystem partner projects, a user needs to have:&#x20;
 
-* A defi ready wallet on the Binance Smart (BSC/Bep20)(such as metamask, trust wallet or safepal)&#x20;
-* Permission regarding their jurisdiction to participate in defi activity
+* A ready wallet on the Binance Smart (BSC/Bep20)(such as metamask, trust wallet or safepal)&#x20;
+* Permission regarding their jurisdiction to participate in blockchain activity
 * Understanding of smart contracts, NFTs, and yield farming
 
 **Ecosystem Overview**
 
-The RugZombie ecosystem contains various inter-related and partner projects; RugZombie is a decentralized and community owned project, and not responsible for projects with built utility on our token platform or NFTs.
+The RugZombie ecosystem contains various inter-related and partner projects; RugZombie is a decentralized, and not responsible for individual token holders' use of our product.
 
 Here are a few things you can do with RugZombie:&#x20;
 
 * Swap tokens, Stake ZMBE and Earn NFTs on RugZombie's native platform
 * Purchase NFTs on our partner, [Oblivion Marketplace](../nft-marketplace-+-gamefi-services/oblivion-nft-marketplace/)
-* Play NFT and P2E games via our partner, [Dead Games](../nft-marketplace-+-gamefi-services/) Indie Gaming Studio
+* Play NFT games via our partner, [Dead Games](../nft-marketplace-+-gamefi-services/) Indie Gaming Studio
 * More Ecosystem and Partner Projects to come
 
 ### **Basics of RugZombie Staking**
@@ -53,7 +53,7 @@ Graves - Earn NFTs based on dead/rug-pulled projects&#x20;
 
 Tombs - Our LP Farms
 
-Catacombs - A password protected and gamified section of our site with a blackmarket for trading, NFTs for instabuy (deprecated when marketplace launches)&#x20;
+Catacombs - A password protected and gamified section of our site with a "black market" for trading.
 
 Rug Token - A project token from a dead/scam/rug-pulled project.&#x20;
 

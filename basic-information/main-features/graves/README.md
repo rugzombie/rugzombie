@@ -27,7 +27,7 @@ These Grave NFTs may be a fun way to adjust to losing money on scammed tokens, b
 {% endhint %}
 
 {% hint style="info" %}
-Our Deposit Fee is assessed in BNB to reduce selling pressure of ZMBE to keep our token price stable, it also helps to pay our artists and any contact hires.
+Our Deposit Fee is assessed in BNB which reduces selling pressure of ZMBE to keep our token price stable, but primarily, it  helps to pay our artists and any contact hires plus game development.
 {% endhint %}
 
 {% hint style="info" %}

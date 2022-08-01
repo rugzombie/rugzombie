@@ -10,13 +10,9 @@ The catacombs offers humans (or peaceful zombies?) many opportunities. They have
 
 **Rug Roll- Released September 2021**
 
-Deposit a rugged token and receive a different rugged token, this feature allows users to claim the rug tokens needed for entry into graves without needing to acquire them off our platform
+Deposit a rugged token and receive a different rugged token, this feature allows users to claim the rug tokens needed for entry into graves without needing to acquire them elsewhere.
 
 \*rolling for rugged tokens is still intrinsically risky and users do so at their own risk, this feature was meant to be price independent and should not be used for another purpose than getting the access tokens needed for graves.
-
-**The Barracks - Released January 2022**
-
-Barracks is our user-controlled NFT only pool collection. The set of NFTs in the barracks are available for locking up assets for a set amount of time. The pools have a maximum stake so that there is a maximum number of mints available.&#x20;
 
 **HR**
 
@@ -31,10 +27,6 @@ Our Data Lab is where the Humans collect their information on the happenings abo
 Our Data Lab features our MYTHIC tier NFTs and our newest category of rarity: SPECIAL NFTs among other things. As paying off the right people can result in leaks from the lab, these NFTs are available for insta-purchase.
 
 More information will be released on future versioning in due time.
-
-**The Tavern**
-
-REDACTED
 
 **The Black Market - Released December 2021**
 

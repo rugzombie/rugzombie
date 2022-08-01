@@ -1,5 +1,5 @@
 ---
-description: Bringing your rugged tokens back from the dead.
+description: Bringing your rugged tokens back from the dead, gamefi and more.
 ---
 
 # Introduction to RugZombie ($ZMBE)
@@ -8,15 +8,13 @@ description: Bringing your rugged tokens back from the dead.
 
 > Note: RugZombie is an active project, these documents are living and subject to change. Please stay active and be informed on our [social channels](other-links/socials/).
 
-Welcome to RugZombie ($ZMBE), the first resurrected-value focused crypto on the Binance Smart Chain.&#x20;
+Welcome to RugZombie ($ZMBE), the place where you come to bury the dead and earn sweet, brainy Zombie NFTs.
 
-While $ZMBE cannot prevent or predict the exposure of the public to “rug pulled” or “scammed” tokens, it is our mission to provide a value for the victims of rug pulled projects in a cathartic way.
-
-Unfortunately, many defi users subject themselves to rug pulls, scams, dead tokens, and hacks unknowingly.&#x20;
+It is our mission to provide a value for the victims of rug pulled projects in a cathartic way and allow our community to have fun using NFTs in our featured games!
 
 **As an overview, Rug Zombie exists to:**
 
-* Create value out of dead or rugged tokens
+* Create value (through NFTs) out of dead or rugged tokens
 * Provide a humorous way for crypto users to “move on” emotionally from their losses
 * Promote a cleaner and safer defi ecosystem
 

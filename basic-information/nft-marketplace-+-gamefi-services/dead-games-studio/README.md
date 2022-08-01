@@ -12,4 +12,3 @@ coverY: 0
 
 Dead Games is an indie gaming studio coming to the RugZombie ecosystem as a partner in 2022. It will boast a range of NFT-powered gaming titles including [Patient Zero](patient-o-zero.md).
 
-Dead Games Studio is a separate entity entirely from the decentralized RugZombie project. Dead Games has received exclusive permission from RugZombie developers to build, own and deploy the games for RugZombie.

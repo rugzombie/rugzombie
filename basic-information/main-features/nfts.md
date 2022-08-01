@@ -8,11 +8,11 @@ description: Art with a purpose.
 
 It sucks to be the victim of a rug pull. While you may never recover the lost value of certain tokens, we remain committed to helping you get value in a novel way: custom NFTs.&#x20;
 
-Our [GRAVES](graves/) allow users to earn custom NFT artwork that will be a consolation prize of sorts for being scammed.&#x20;
+Our [GRAVES](graves/) allow users to earn custom NFT artwork that will be a consolation prize of sorts for being scammed. These should be considered for their artwork and potential game utility only.
 
 **Spawning Pools**
 
-We don't offer NFTs for rug pulls only, we have several ways for our users to acquire RugZombie NFTs. We also aim to provide utility for NFT collections outside of our project (see [QaaS](../nft-marketplace-+-gamefi-services/dead-games-studio/quest-as-a-service-qaas.md)). Our Spawning Pools let you earn Partner Tokens AND RugZombie NFTs.&#x20;
+We don't offer NFTs for rug pulls only, we have several ways for our users to acquire RugZombie NFTs. We also aim to provide utility for NFT collections outside of our project (see [QaaS](../nft-marketplace-+-gamefi-services/dead-games-studio/quest-as-a-service-qaas.md)). Our Spawning Pools let you earn Partner Tokens AND RugZombie NFTs at the same time.
 
 **Gaming & Merchandise**
 
