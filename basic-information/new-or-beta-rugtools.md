@@ -16,6 +16,8 @@ Our telegram bot and discord bot are currently live. By registering with Safe Me
 
 The setup process is meant to be simple, straightforward. How you choose to use and deploy the service is really up to you. Remember, discord and telegram are still web2 tools, but our key difference is that these messages are verifiable on the chain.&#x20;
 
+
+
 ### Registering Bot with Telegram
 
 1. Add the Rug Tools bot to your group (https://t.me/RugToolsBot @RugToolsBot)&#x20;
@@ -74,3 +76,11 @@ Our Project Uses 'Safe Messaging' in order to secure our messages on the chain. 
 {% endhint %}
 
 We also recommend a public announcement of using the tool to your community so that they know what they are seeing.&#x20;
+
+#### Service Costs
+
+The RugToolsBot messaging service is intended to be a public utility and therefore as cheap as possible:
+
+Sending on-chain messages requires a gas cost (minimal)&#x20;
+
+To set up the bot and send messages requires a fractional charge or 2$ to setup and .50c per message. These costs support feeding the contract, deploying on new chains and maintaining the bots.&#x20;
