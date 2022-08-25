@@ -32,11 +32,11 @@ PUBLIC BETA: SOON.&#x20;
 
 <div>
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-08-25 at 4.20.50 PM (1).png" alt=""><figcaption><p>menu page sneak screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-25 at 4.20.50 PM.png" alt=""><figcaption><p>menu page sneak screen</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-08-25 at 4.20.57 PM.png" alt=""><figcaption><p>battle selection page sneak screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-25 at 4.20.57 PM (1).png" alt=""><figcaption><p>battle selection page sneak screen</p></figcaption></figure>
 
  
 
@@ -44,7 +44,7 @@ PUBLIC BETA: SOON.&#x20;
 
  
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-08-25 at 4.21.11 PM.png" alt=""><figcaption><p>defeat page sneak screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-25 at 4.21.11 PM (1).png" alt=""><figcaption><p>defeat page sneak screen</p></figcaption></figure>
 
 </div>
 
