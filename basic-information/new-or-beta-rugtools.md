@@ -21,7 +21,7 @@ The setup process is meant to be simple, straightforward. How you choose to use 
 1. Add the Rug Tools bot to your group (https://t.me/RugToolsBot @RugToolsBot)&#x20;
 2. Start the registration process in the chat /register \<wallet\_address> Chains: bsc&#x20;
 3. The bot will respond back with a registration code&#x20;
-4. Go to https://tools.rugzombio.io/messaging/admin&#x20;
+4. Go to [https://tools.rugzombio.io/messaging/admin](https://tools.rugzombio.io/messaging/admin)&#x20;
 5. Connect your wallet and use the form to set your registration code in the contract&#x20;
 6. Once the code is set, the bot will pick that up within the next minute and a message will be broadcast to the group advising the wallet has been added as a messaging source
 
@@ -32,25 +32,25 @@ The setup process is meant to be simple, straightforward. How you choose to use 
 3. Go to the text channel in your server that you want the bot to and do the /register command which will open this dialog
 4. Fill out the wallet and chain fields and submit the command Chains: bsc&#x20;
 5. The bot will respond back with a registration code&#x20;
-6. Go to https://tools.rugzombio.io/messaging/admin&#x20;
+6. Go to [https://tools.rugzombio.io/messaging/admin](https://tools.rugzombio.io/messaging/admin)&#x20;
 7. Connect your wallet and use the form to set your registration code in the contract
 8. &#x20;Once the code is set, the bot will pick that up within the next minute and a message will be broadcast to the group advising the wallet has been added as a messaging source
 
 ### Sending Messages&#x20;
 
-1. Go to https://tools.rugzombie.io/messaging&#x20;
+1. Go to [https://tools.rugzombie.io/messaging](https://tools.rugzombie.io/messaging)&#x20;
 2. Connect your wallet and use the form to submit a message to the blockchain&#x20;
 3. Once the transaction is complete, the bot will pick up the message within the next minute and broadcast it out to any channels on Discord or Telegram that have been previously registered
 
 ### Reading Messages
 
-1. Go to https://tools.rugzombie.io/messaging
+1. Go to [https://tools.rugzombie.io/messaging](https://tools.rugzombie.io/messaging)
 2. Connect your wallet (needed to get the blockchain ID from)&#x20;
 3. Use either the alias or wallet address search to pull up all the messages sent by the address
 
 ### Set Wallet Alias&#x20;
 
-1. Go to https://tools.rugzombie.io/messaging/admin&#x20;
+1. Go to [https://tools.rugzombie.io/messaging/admin](https://tools.rugzombie.io/messaging/admin)&#x20;
 2. Connect your wallet&#x20;
 3. Use the form to submit a new alias name for your wallet address
 
