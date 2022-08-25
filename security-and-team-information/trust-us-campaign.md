@@ -12,7 +12,7 @@ In August of 2021, The RugZombie team committed to an overhaul of transparency, 
 
 * [x] Locking Our Migrator Code with a Custom SafeOwner Code
 * [x] KYC for our core founders with an outside firm (EZ confirmed with a news outlet before publication)&#x20;
-* [x] KYC for all longterm contract devs on our platform utilizing [blockpass](https://blockpass.org)
+* [x] KYC for all longterm contract devs on our platform utilizing [blockpass](https://blockpass.org/)
 * [x] [Time-locked Master-Chef](basic-team-security-information/)
 * [x] Increased Visibility through AMAs, etc.
 * [x] Some interesting [MAUSOLEUM](broken-reference) pieces to celebrate our progress

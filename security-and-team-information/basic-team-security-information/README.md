@@ -32,7 +32,7 @@ At the same time, our team knows the unique problems facing developers and see t
 
 It also requires that token holders do their own due diligence and research before buying or selling in a risky market like cryptocurrency.&#x20;
 
-Members of our team have KYCed to members of the media for publication, and all our longterm contract developers are KYCed using [blockpass](https://blockpass.org). You may have to take our words for it, but we are concerned about security more than you :)&#x20;
+Members of our team have KYCed to members of the media for publication, and all our longterm contract developers are KYCed using [blockpass](https://blockpass.org/). You may have to take our words for it, but we are concerned about security more than you :)&#x20;
 
 ## How Many Are on the Team?&#x20;
 

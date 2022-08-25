@@ -10,7 +10,7 @@ _Spawning pool factory address: 0xABFe43a16C38DD79b94a0aD437fdc4437BE70A92_
 
 ## G-FI (Our First Spawning Pool)
 
-The spawning pool is with [Gorilla-Fi](https://www.gorillafi.com), a reflection token on BSC.&#x20;
+The spawning pool is with [Gorilla-Fi](https://www.gorillafi.com/), a reflection token on BSC.&#x20;
 
 Supply: 2million GFI\*
 
