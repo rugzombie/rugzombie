@@ -4,6 +4,13 @@
 
 Welcome to RugTools (Beta). RugZombie does not desire to deliver services ONLY post-mortem, after a rugpull or hack, but as we mutate, we are excited to offer a suite of services to keep users and projects safe as they interact in web3.
 
+How can you use the service? \
+\- Send VERIFIED messages on the chain
+
+\-In emergencies, if your social accounts are hacked, you can send on-chain messages
+
+\-Verify messages through the rugtools portal
+
 ### What is Safe Message w/ RugToolsBot?
 
 Problem: While smart contracts can remain reasonably safe due to the security offered by the blockchain, as web3 projects use web2 tools such as discord, twitter, etc, authority accounts such as these are being hacked and users subsequently phished in social engineering attacks.&#x20;
