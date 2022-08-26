@@ -34,6 +34,20 @@ The setup process is meant to be simple, straightforward. How you choose to use 
 5. Connect your wallet and use the form to set your registration code in the contract&#x20;
 6. Once the code is set, the bot will pick that up within the next minute and a message will be broadcast to the group advising the wallet has been added as a messaging source
 
+<div>
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-26 at 5.17.56 PM.png" alt=""><figcaption><p>messages are sent to the group along with tx hash link</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-26 at 5.18.14 PM.png" alt=""><figcaption><p>registered wallets also display an alias if added</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-26 at 5.18.29 PM.png" alt=""><figcaption><p>registration code shown here (this is public)</p></figcaption></figure>
+
+</div>
+
 ### Registering Bot With Discord&#x20;
 
 1. Add the Rug Tools bot to your Discord server by going to this URL https://discord.com/api/oauth2/authorize?client\_id=1012407324675166291\&permissions=3072\&scope=bot&#x20;

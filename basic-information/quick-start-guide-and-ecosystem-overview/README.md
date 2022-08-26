@@ -1,4 +1,4 @@
-# Quick Start Guide & Ecosystem Overview
+# 🏁 Quick Start Guide & Ecosystem Overview
 
 ### **Introduction**
 

@@ -4,7 +4,7 @@ description: >-
   updated details as our games are released
 ---
 
-# NFT Marketplace + GameFi Services
+# 🏪 NFT Marketplace + GameFi Services
 
 RugZombie is proud to announce the integration and partnership of Dead Games Studio, a web3 Game Studio designed to serve projects in blockchain.&#x20;
 

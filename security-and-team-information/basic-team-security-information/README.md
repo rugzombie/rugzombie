@@ -2,7 +2,7 @@
 description: Team Information Below, Keep Scrolling for Security Features
 ---
 
-# Basic Security Information
+# 🔐 Basic Security Information
 
 The core team of contracted developers has chosen to remain private but are not anonymous.  We have doxxed with one another before launch, have a registered company and known to many in the community on a personal basis. In addition, we have set up a number of security features that we believe will generate trust from token holders:
 
