@@ -4,8 +4,8 @@
 
 ## Basic Information
 
-* [Get Started: Disclaimer](basic-information/financial-disclaimer.md)
-* [Quick Start Guide & Ecosystem Overview](basic-information/quick-start-guide-and-ecosystem-overview/README.md)
+* [⚠ Get Started: Disclaimer](basic-information/financial-disclaimer.md)
+* [🏁 Quick Start Guide & Ecosystem Overview](basic-information/quick-start-guide-and-ecosystem-overview/README.md)
   * [Helpful Links](basic-information/quick-start-guide-and-ecosystem-overview/helpful-links.md)
 * [🎮 NEW | Zom: A Trading Card Game](basic-information/new-or-zom-a-trading-card-game.md)
 * [⚙ NEW | Beta RugTools!!!](basic-information/new-or-beta-rugtools.md)
@@ -19,9 +19,9 @@
   * [Catacombs](basic-information/main-features/catacombs.md)
   * [Referral Program](basic-information/main-features/referral-program.md)
   * [The Problem & Solution](basic-information/the-problem-and-solution.md)
-* [$ZMBE Roadmap](basic-information/roadmap.md)
+* [🛣 $ZMBE Roadmap](basic-information/roadmap.md)
   * [Fair Launch Information](basic-information/fair-launch-information/README.md)
-* [NFT Marketplace + GameFi Services](basic-information/nft-marketplace-+-gamefi-services/README.md)
+* [🏪 NFT Marketplace + GameFi Services](basic-information/nft-marketplace-+-gamefi-services/README.md)
   * [Oblivion NFT Marketplace](basic-information/nft-marketplace-+-gamefi-services/oblivion-nft-marketplace/README.md)
   * [Dead Games Studio](basic-information/nft-marketplace-+-gamefi-services/dead-games-studio/README.md)
     * [Quest as a Service (QaaS)](basic-information/nft-marketplace-+-gamefi-services/dead-games-studio/quest-as-a-service-qaas.md)
@@ -38,7 +38,7 @@
 
 ## Security and Team Information
 
-* [Basic Security Information](security-and-team-information/basic-team-security-information/README.md)
+* [🔐 Basic Security Information](security-and-team-information/basic-team-security-information/README.md)
   * [Audits](security-and-team-information/basic-team-security-information/audits.md)
   * [Emergency Withdraw](security-and-team-information/basic-team-security-information/emergency-withdraw.md)
   * [API information](security-and-team-information/basic-team-security-information/api-information.md)
