@@ -8,19 +8,13 @@ Our team of talented devs are looking for community and blockchain leaders to gr
 
 Our open jobs are below, with our priority hires in **bold**
 
-**●  UX/UI Designer**
-
 ●  Technical Writer
 
 **●  Business Developer**
 
 ●  NFT artwork/animation & graphic design
 
-●  Unity Game Developer&#x20;
-
 ●  IT and Security&#x20;
-
-●  Ecommerce Product Manager
 
 
 

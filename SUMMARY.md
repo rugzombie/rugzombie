@@ -42,7 +42,6 @@
   * [Audits](security-and-team-information/basic-team-security-information/audits.md)
   * [Emergency Withdraw](security-and-team-information/basic-team-security-information/emergency-withdraw.md)
   * [API information](security-and-team-information/basic-team-security-information/api-information.md)
-  * [Flash Loan Protection](security-and-team-information/basic-team-security-information/flash-loan-protection.md)
   * [TRUST US CAMPAIGN (complete)](security-and-team-information/trust-us-campaign.md)
   * [Join Our Team](security-and-team-information/join-our-team-of-dr.-frankensteins.md)
 
