@@ -4,7 +4,7 @@ description: Team Information Below, Keep Scrolling for Security Features
 
 # Basic Security Information
 
-The core team of contracted developers has chosen to remain anonymous to the public at this time,  but we have doxxed with one another before launch, and have set up a number of security features that we believe will generate trust from token holders:
+The core team of contracted developers has chosen to remain private but are not anonymous.  We have doxxed with one another before launch, have a registered company and known to many in the community on a personal basis. In addition, we have set up a number of security features that we believe will generate trust from token holders:
 
 ●  Good Code: Our code is transparently placed on [GitHub](../../other-links/contracts/) and audited available for you to review;
 
@@ -24,25 +24,25 @@ and eventually&#x20;
 
 ●  Community Governance (eventually) to further de-risk our platform
 
-## Why Anonymous Team (we know, it sounds bad)
+## Why Private Team&#x20;
 
 While a generally accepted practice in DeFi, anonymous teams create a risk for all parties involved, especially end users of tokens. Many rugged projects have anonymous teams which allow them to act in bad faith toward their token holders without risk.
 
-At the same time, our team knows the unique problems facing developers and see the risk doxed devs carry as a result for their transparency. There is no simple solution. Anonymity allows us to really rely on the strength of our code, added security features, and decentralized efforts, while protecting our personal lives from being harassed by some of you unsavory folk (you know who you are).
+At the same time, our team knows the unique problems facing developers and see the risk doxed devs carry as a result for their transparency. There is no simple solution. Anonymity allows teams to really rely on the strength of the code, added security features, and decentralized efforts, while protecting their personal lives from being harassed by some of you unsavory folk (you know who you are).
 
 It also requires that token holders do their own due diligence and research before buying or selling in a risky market like cryptocurrency.&#x20;
 
-Members of our team have KYCed to members of the media for publication, and all our longterm contract developers are KYCed using [blockpass](https://blockpass.org/). You may have to take our words for it, but we are concerned about security more than you :)&#x20;
+Members of our team have chosen to be private, not anonymous. We have KYCed to members of the media for publication, have a registered company, and all our longterm contract developers are KYCed using [blockpass](https://blockpass.org/). You may have to take our words for it, but we are concerned about security more than you :)&#x20;
 
 ## How Many Are on the Team?&#x20;
 
 Our team is a combination of core contracted developers/founders, contract workers, community leaders, and YOU! RugZombie is a defi project that fair-launched. Our project is for the community!&#x20;
 
-Our "core" dev team has multiple members currently, and we are actively adding more as our project grows. Only one member has access to the deployer wallet, and a few founders have access to a multisignature treasury.
+Our "core" dev team has multiple members currently, and we are actively adding more as our project grows. Only one member has access to the deployer wallet, and a few founders have access to a multi-signature treasury.
 
 We have a number of community leaders and experts who actively manage our socials, SEO and web traffic, marketing, partnerships, design and other efforts.&#x20;
 
-Interested to join our team? [Click Here](../join-our-team-of-dr.-frankensteins.md).&#x20;
+Interested to join our team? Just jump in and start helping.
 
 ## What About all the Other Contract Features?
 
@@ -53,7 +53,7 @@ There are a lot of contract features that certain defi projects have eliminated 
 For instance, goose finance was the first to remove the migrator code on the BSC. This feature allows for upgrade in the future of a project, and removing it is basically like saying a project does not intend to upgrade to a future version. Our project is a long term project, so we are doing what is best for the project, even if it goes against the norm for new BSC projects. Other notable projects that have kept this code are Pancakeswap and Sushiswap.
 
 {% hint style="success" %}
-After community request and careful review from our devs, we are implementing a safe-owner contract on our Migrator Code to deepen trust in the public around our project.
+After community request and careful review from our devs, we are implementing a safe-owner contract on our Migrator Code to deepen trust in the public around our project. Any future migrations will require the effort of the community to stay informed.
 {% endhint %}
 
 The drawback of removing this code is that migrating to new DEX must be a manual process.
@@ -70,7 +70,7 @@ Locked liquidity and burned liquidity addresses left an entire generation of pro
 
 At the end of the day, community trust and confidence are important to us, but so is doing what is right for the project. We will not add/remove features that will prevent future growth because early token holders need assurances.&#x20;
 
-We currently do not have locked liquidity, but plan to lock it at the appropriate time. Please note most of our LP is community provided.
+We currently do not have locked liquidity, however it is stored in a multisig wallet.  Please note most of our LP is community provided.
 
 We expect our community to do their own research and due diligence. If you are uncomfortable with the features in our code,  you do not have to be involved in our token. No one is forcing users or token holders to participate. At launch we deliberately chose to not lock liquidity for some development related reasons, such as moving our Liquidity to major exchanges, etc.
 
