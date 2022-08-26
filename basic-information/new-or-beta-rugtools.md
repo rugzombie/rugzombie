@@ -21,7 +21,7 @@ The setup process is meant to be simple, straightforward. How you choose to use 
 ### Registering Bot with Telegram
 
 1. Add the Rug Tools bot to your group (https://t.me/RugToolsBot @RugToolsBot)&#x20;
-2. Start the registration process in the chat /register \<wallet\_address> Chains: bsc&#x20;
+2. Start the registration process in the chat /register \<wallet\_address> bsc (leave out the <>)
 3. The bot will respond back with a registration code&#x20;
 4. Go to [https://tools.rugzombio.io/messaging/admin ](https://tools.rugzombie.io/messaging/admin)
 5. Connect your wallet and use the form to set your registration code in the contract&#x20;
