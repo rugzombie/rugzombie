@@ -4,7 +4,7 @@ description: beta coming in early october.
 
 # 🎮 NEW | Zom: A Trading Card Game
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-08-25 at 3.05.14 PM.png" alt=""><figcaption><p>dead games x rugzombie</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-08-25 at 3.05.14 PM.png" alt=""><figcaption><p>dead games x rugzombie</p></figcaption></figure>
 
 ### Introduction
 
@@ -32,19 +32,19 @@ PUBLIC BETA: SOON.&#x20;
 
 <div>
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-08-25 at 4.20.50 PM (1).png" alt=""><figcaption><p>menu page sneak screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-08-25 at 4.20.50 PM (1).png" alt=""><figcaption><p>menu page sneak screen</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-08-25 at 4.20.57 PM.png" alt=""><figcaption><p>battle selection page sneak screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-08-25 at 4.20.57 PM.png" alt=""><figcaption><p>battle selection page sneak screen</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-08-25 at 4.21.03 PM (1).png" alt=""><figcaption><p>loading page sneak screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-08-25 at 4.21.03 PM (1).png" alt=""><figcaption><p>loading page sneak screen</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-08-25 at 4.21.11 PM.png" alt=""><figcaption><p>defeat page sneak screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-08-25 at 4.21.11 PM.png" alt=""><figcaption><p>defeat page sneak screen</p></figcaption></figure>
 
 </div>
 
