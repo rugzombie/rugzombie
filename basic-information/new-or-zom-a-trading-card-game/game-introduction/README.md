@@ -17,7 +17,7 @@ Engage your horde  in a glorious battle against other zombies; can you win the m
 ZOM is a collectible trading card game:&#x20;
 
 * Collectible - Our cards exist as NFTs on the blockchain. You can collect as many as you would like
-* Trading - Our cards can be traded to other players, bought and sold on our marketplace ([oblivion.art](../nft-marketplace-+-gamefi-services/oblivion-nft-marketplace/)) and sold privately over the counter. You control and own your assets as NFTs, ZOM and RugZombie do not have any control over what NFTs you choose to hold.
+* Trading - Our cards can be traded to other players, bought and sold on our marketplace ([oblivion.art](../../nft-marketplace-+-gamefi-services/oblivion-nft-marketplace/)) and sold privately over the counter. You control and own your assets as NFTs, ZOM and RugZombie do not have any control over what NFTs you choose to hold.
 * Card - Our NFTs are unique. We work with real artists, and get truly community driven artwork. As such, the "style" of our card artwork is unique, eclectic and may not be completely consistent. While our NFTs exist as the artwork which you can see [here](https://rugzombie.io/graveyard), in game, the NFTs are displayed on cards within the game. Outside the game, they will display as the art image only.
 * Game - Obviously, this is a game. It involves risk, strategy, mystery, story and skill.&#x20;
 
