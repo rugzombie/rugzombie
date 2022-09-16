@@ -4,6 +4,8 @@ The playing area consists of the game board itself,  and includes your hand of c
 
 ## The Game Board
 
+### Rows
+
 The game board has 5 rows upon which cards can be played. These rows are:&#x20;
 
 * Your Opponents Ranged Attack Row
@@ -14,7 +16,15 @@ The game board has 5 rows upon which cards can be played. These rows are:&#x20;
 
 You may play cards on your rows according to each card conditions. There may be cards that are allowed to be played across an opponents board.&#x20;
 
-The Ally Row is a unique row of cards that can be drafted into your hand or into play under your control depending on certain game conditions.
+You may place your units on either row, according to their card limitations. If a card does not specify which attack row, it can be played universally.
+
+### Capital Locations
+
+Location cards are cards that may be played to either row. A player can choose to play a location in the capital position on the row. Doing so activates the capital ability, if one is stated on the card. There may only be 1 capital card per row.
+
+### Ally Row
+
+The Ally Row is a unique row of cards that can be drafted into your hand or into play under your control depending on certain game conditions (see [#setting-up-the-ally-row](setting-up-the-game-and-game-board.md#setting-up-the-ally-row "mention")).
 
 ## Setting Up The Game
 

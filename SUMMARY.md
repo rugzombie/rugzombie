@@ -10,6 +10,7 @@
 * [🎮 NEW | Zom: A Trading Card Game](basic-information/new-or-zom-a-trading-card-game/README.md)
   * [Game Introduction](basic-information/new-or-zom-a-trading-card-game/game-introduction.md)
   * [Setting up the Game & Game Board](basic-information/new-or-zom-a-trading-card-game/setting-up-the-game-and-game-board.md)
+* [Cards](basic-information/cards.md)
 * [⚙ NEW | Beta RugTools!!!](basic-information/new-or-beta-rugtools.md)
 * [Main Features](basic-information/main-features/README.md)
   * [NFTs](basic-information/main-features/nfts.md)
