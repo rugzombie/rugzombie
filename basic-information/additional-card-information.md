@@ -16,6 +16,10 @@ Leader Card and Ally Cards do not contribute to the overall Intelligence Cost.
 
 There may only be one leader per deck. This card does not get shuffled into the 20 card deck but is instead set aside to be played first.&#x20;
 
+## Ally Cards
+
+Any card may be reserved to be placed in the Ally Row. These cards do not add to the intelligence cost of deck-building. These cards are not shuffled into your primary deck, they are mixed with the other players ally card and 3 random cards from the RugZombie collection to create a unique and unpredictable element to the game.
+
 ## Rarity and Mint Numbers
 
 ZOM cards are issued as NFTs on the BNB Chain. As such, they have characteristics of rarity and a unique identification number, or "mint number".
