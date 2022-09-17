@@ -11,6 +11,7 @@
   * [Game Introduction](basic-information/new-or-zom-a-trading-card-game/game-introduction.md)
   * [Setting up the Game & Game Board](basic-information/new-or-zom-a-trading-card-game/setting-up-the-game-and-game-board.md)
   * [Cards](basic-information/new-or-zom-a-trading-card-game/cards.md)
+* [Additional Card Information](basic-information/additional-card-information.md)
 * [⚙ NEW | Beta RugTools!!!](basic-information/new-or-beta-rugtools.md)
 * [Main Features](basic-information/main-features/README.md)
   * [NFTs](basic-information/main-features/nfts.md)
