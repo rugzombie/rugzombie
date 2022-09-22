@@ -14,6 +14,20 @@ description: This roadmap is subject to adaption as market conditions are always
 * [ ] Upgraded Graveyard (Gamified and 3D) (this is low priority)
 * [x] Safe Chain Messaging System (RugTools)
 {% endtab %}
+
+{% tab title="2023" %}
+
+
+* [ ] General Release ZOM
+* [ ] SDK Patient Zero Dungeon Maker
+* [ ] SDK Payment Rails
+* [ ] SDK Rental & Marketplace GaaS
+* [ ] Development of Dead Games Tools
+* [ ] Book of Zom Story Release
+* [ ] Oblivionaut Game Beta
+
+
+{% endtab %}
 {% endtabs %}
 
 
