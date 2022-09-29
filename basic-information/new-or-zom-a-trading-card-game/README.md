@@ -28,8 +28,6 @@ Stay Tuned, and see below from some epic screen shots of UI design.
 
 PRIVATE BETA: October 20, 2022.
 
-PUBLIC BETA: SOON.&#x20;
-
 ### Screen Shots
 
 <div>
