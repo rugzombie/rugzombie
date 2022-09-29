@@ -10,9 +10,9 @@ description: beta coming in early october.
 
 Welcome to ZOM, a trading card game brought to you by RugZombie & Dead Games.&#x20;
 
-As we prepare for our public BETA launch in October 2022, we invite you to stick around and earn as many RugZombie NFTs as you can.&#x20;
+Our WHITELIST is LIVE here below.
 
-Not much information is being shared about the game rules currently, but over time in September we will release more information related to the game, rules, beta access and more.&#x20;
+{% embed url="https://forms.gle/LQqWSZiGtw3MQysq8" %}
 
 If you are a fan of the following games, you will likely enjoy our card game:&#x20;
 
