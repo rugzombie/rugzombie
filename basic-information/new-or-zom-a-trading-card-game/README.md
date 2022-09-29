@@ -10,7 +10,27 @@ description: beta coming in early october.
 
 Welcome to ZOM, a trading card game brought to you by RugZombie & Dead Games.&#x20;
 
-Our WHITELIST is LIVE here below.
+
+
+### GamePlay Information
+
+{% content-ref url="game-introduction.md" %}
+[game-introduction.md](game-introduction.md)
+{% endcontent-ref %}
+
+{% content-ref url="../gameplay/" %}
+[gameplay](../gameplay/)
+{% endcontent-ref %}
+
+{% content-ref url="setting-up-the-game-and-game-board.md" %}
+[setting-up-the-game-and-game-board.md](setting-up-the-game-and-game-board.md)
+{% endcontent-ref %}
+
+{% content-ref url="cards/" %}
+[cards](cards/)
+{% endcontent-ref %}
+
+### Whitelist Information
 
 {% embed url="https://forms.gle/LQqWSZiGtw3MQysq8" %}
 
