@@ -26,7 +26,9 @@ We are truly overjoyed to bring this colossal development to the RugZombie ecosy
 
 Stay Tuned, and see below from some epic screen shots of UI design.
 
-PRIVATE BETA: October 20, 2022.
+PRIVATE BETA WHITE LIST MINTING DATE: October 20, 2022.
+
+NON-WHITE LIST MINTING BEGINS October 22, 2022.
 
 ### Screen Shots
 
