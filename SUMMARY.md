@@ -44,6 +44,14 @@
   * [Early Withdraw Fees](tokenomics/early-withdraw-fees.md)
   * [Whale Games](tokenomics/whale-taxes-de-incentives-early-withdraw-fees.md)
 
+## Platform Changes (Late 2022 - 2023)
+
+* [🥳 The New RugZombie](platform-changes-late-2022-2023/the-new-rugzombie.md)
+* [🪙 New Rewards Model](platform-changes-late-2022-2023/new-rewards-model.md)
+* [🏘 The Zombie Alliance](platform-changes-late-2022-2023/the-zombie-alliance.md)
+* [🏭 The Zombie DAO](platform-changes-late-2022-2023/the-zombie-dao.md)
+* [🛸 THE HUB](platform-changes-late-2022-2023/the-hub.md)
+
 ## Security and Team Information
 
 * [🔐 Basic Security Information](security-and-team-information/basic-team-security-information/README.md)
