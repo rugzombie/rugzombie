@@ -4,6 +4,28 @@ description: Power to the Undead
 
 # 🏭 The Zombie DAO
 
+#### ZMBE Holders
+
+The Zombie Token will be enabling its governance features Zombie holders are the most vital piece for this model work as. Every significant decision made by the DAO will be voted on by Zombie Holders. Voting will take place within the voting center within The Hub and  some topics will be voted on in a recurring basis. Zombie holders.&#x20;
+
+Voting topics:
+
+* Who fufills the [#dao-specialized-roles](the-zombie-dao.md#dao-specialized-roles "mention")
+* Approval / rejection of proposed graves on the platform
+  * Which artist should create the artwork
+  * Relief plan details for victims
+* Which projects can join the Zombie Alliance and their requirements
+* DAO structure / modifications
+* Any custom proposal created by a ZMBE holder
+
+#### Proposals & Voting
+
+Any ZMBE holder can vote on proposals and their voting power is proportional to the amount of tokens they hold. Creating proposals will require the creator to meet the minimum threshold of ZMBE required, and lock the amount throughout the duration of the voting process.
+
+### DAO Specialized Roles
+
+Specialized roles are assigned to those the DAO sees fit to take on a role's responsibilities and are paid in a ZMBE salary for their work. Each month, managers will create a report of everything they accomplished that month and the DAO will re-evaluate their position with a vote.
+
 #### Media Manager&#x20;
 
 The Media Manager role is responsible over viral media and marketing content. This includes memes, twitter posts, IG posts, reddit channels, facebook and any other digital medium for content delivery.

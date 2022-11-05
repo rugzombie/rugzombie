@@ -16,10 +16,10 @@ To achieve our ambitions and level of impact we want to have on the space, we'll
 
 This is why we're introducing The Zombie DAO and the following platform upgrades:
 
-* The Zombie DAO - Zombie holders can create and vote on proposals within the Hub
-* New rewards model - Will reward those for improving the safety of the Web3 space
-* The Zombie Alliance - Partner projects / protocols that are protected by the DAO
-* THE HUB - The central user-facing product the DAO provides. This is a research and educational platform that provides transparent and safe means for  users to navigate and new users onboard into the web3 space.
+* [the-new-rugzombie.md](the-new-rugzombie.md "mention") - Zombie holders can create and vote on proposals within the Hub
+* [new-rewards-model.md](new-rewards-model.md "mention") - Will reward those for improving the safety of the Web3 space
+* [the-zombie-dao.md](the-zombie-dao.md "mention") - Partner projects / protocols that are protected by the DAO
+* [the-hub-wip.md](the-hub-wip.md "mention") - The central user-facing product the DAO provides. This is a research and educational platform that provides transparent and safe means for  users to navigate and new users onboard into the web3 space.
 
 
 

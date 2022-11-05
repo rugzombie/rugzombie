@@ -1,4 +1,8 @@
-# 🏘 The Zombie Alliance
+---
+description: The Zombie Family
+---
+
+# 🏘 The Zombie Alliance (WIP)
 
 Web3 Projects within the Zombie Alliance will receive a dashboard within The Hub where users can learn about their project. Through Task Farming, the Zombie DAO and it's members are incentivised to improve alliance member protocols and find potential vulnerabilities. This makes projects within the alliance a much safer investment and eligible for promotion within The Hub and marked as a safe investment for new investors by existing members.
 
@@ -12,3 +16,6 @@ Different Alliance protocols will occasionally recieve articles, video and other
 
 We are working with ecosystem partners to develop some excellent content and provide a way for our spotlights to be fairly and equitably displayed for all.&#x20;
 
+#### Investment Quizes (WIP)
+
+#### Passive Audits (WIP)
