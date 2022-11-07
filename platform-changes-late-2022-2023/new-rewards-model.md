@@ -8,7 +8,7 @@ The past year in defi has shown that providing high emissions for simply staking
 
 Projects that rely on marketing and yield farming for their primary value inevitably lose value as the more competitors enter the market, better and newer products, and hype fades while other projects come on the scene. Rewarding users for "staking" may seem like the best way to keep people in the ecosystem, but inevitably leads to enormous pressure on projects to grow for the sake of growth, without adding any value to the protocol or to the ecosystem as a whole.&#x20;
 
-These farms are not bad, but they dis-incentivize building strong healthy projects with long term use cases and innovation, and exchange these things for making a quick dollar for their users.&#x20;
+These farms are not bad, but they dis-incentivize building strong healthy projects with long term use cases and innovation, and instead aim to make a quick dollar for their users.&#x20;
 
 RugZombie was never started as a yield farm, yet, many users have treated the project as such.&#x20;
 
@@ -55,7 +55,7 @@ In addition to task farming, community members can take on roles crucial for the
 
 * [#media-manager](the-zombie-dao.md#media-manager "mention")
 * [#event-manager](the-zombie-dao.md#event-manager "mention")
-* &#x20;[#growth-manager](the-zombie-dao.md#growth-manager "mention")
+* [#growth-manager](the-zombie-dao.md#growth-manager "mention")
 * Other Roles
 
 

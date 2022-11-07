@@ -6,9 +6,9 @@ description: Power to the Undead
 
 #### ZMBE Holders
 
-The Zombie Token will be enabling its governance features Zombie holders are the most vital piece for this model work as. Every significant decision made by the DAO will be voted on by Zombie Holders. Voting will take place within the voting center within The Hub and  some topics will be voted on in a recurring basis. Zombie holders.&#x20;
+The Zombie Token will be enabling its governance features as Zombie holders are the most vital piece for this model work as. Every significant decision made by the DAO will be voted on by Zombie Holders. Voting will take place within the voting center within The Hub and some topics will be voted on in a recurring basis. Zombie holder's voting power can also be used to rate the quality of content on The Hub and have influence the algorithm in doing so.
 
-Voting topics:
+Some voting topics:
 
 * Who fufills the [#dao-specialized-roles](the-zombie-dao.md#dao-specialized-roles "mention")
 * Approval / rejection of proposed graves on the platform
@@ -20,7 +20,7 @@ Voting topics:
 
 #### Proposals & Voting
 
-Any ZMBE holder can vote on proposals and their voting power is proportional to the amount of tokens they hold. Creating proposals will require the creator to meet the minimum threshold of ZMBE required, and lock the amount throughout the duration of the voting process.
+Any ZMBE holder can vote on proposals and their voting power is proportional to the amount of tokens they hold. Creating proposals will require the creator to meet the minimum threshold of ZMBE held, and lock the amount throughout the duration of the voting process.
 
 ### DAO Specialized Roles
 
@@ -48,7 +48,7 @@ Who This Is: You love people, you are an evangelist for all things crypto and ZM
 
 Community Manager is responsible for ensuring the ZMBE community voice is heard, and ensuring that bad actors, scammers, and spammers are punished and shamed.&#x20;
 
-Who This Is: You enjoy being a culture maker, love to swing the ban hammer, and the thought of unlimited community power is intriguing, but as a Jedi you must not give in to your passions all the time. You pretty much are on ZMBE channels all the time creating REAL conversations, not just spam/sh\*t posting things that don't matter.&#x20;
+Who This Is: You enjoy being a culture maker, love to swing the ban hammer, and the thought of unlimited community power is intriguing, but as a Jedi you must not give in to your passions all the time. You pretty much are on ZMBE channels creating REAL conversations, not just spam/sh\*t posting things that don't matter.&#x20;
 
 #### Business Developer
 

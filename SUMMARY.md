@@ -48,9 +48,9 @@
 
 * [🥳 The New RugZombie](platform-changes-late-2022-2023/the-new-rugzombie.md)
 * [🪙 New Rewards Model](platform-changes-late-2022-2023/new-rewards-model.md)
-* [🏘 The Zombie Alliance (WIP)](platform-changes-late-2022-2023/the-zombie-alliance-wip.md)
+* [🏘 The Zombie Alliance](platform-changes-late-2022-2023/the-zombie-alliance.md)
 * [🏭 The Zombie DAO](platform-changes-late-2022-2023/the-zombie-dao.md)
-* [🛸 THE HUB (WIP)](platform-changes-late-2022-2023/the-hub-wip.md)
+* [🛸 THE HUB](platform-changes-late-2022-2023/the-hub.md)
 
 ## Security and Team Information
 
