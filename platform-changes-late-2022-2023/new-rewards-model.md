@@ -16,7 +16,7 @@ RugZombie was never started as a yield farm, yet, many users have treated the pr
 
 &#x20;We've created a new model where users will earn ZMBE through Task/Participation Farming within The Hub.&#x20;
 
-Through [Task Farming](new-rewards-model.md#task-farming), ZMBE will be earned by performing tasks that improve The Hub and the web3 space as a whole. Grave NFT emissions will remain as before, and ZMBE emissions will be reduced by 50% to compensate for Task Farming emissions.&#x20;
+Through [Task Farming](new-rewards-model.md#task-farming), ZMBE will be earned by performing tasks that improve The Hub and the web3 space as a whole. Grave NFT emissions will remain as before, and ZMBE emissions will be reduced by 75% to compensate for Task Farming emissions.&#x20;
 
 In addition to the rewards for tasks, an equal amount of ZMBE will be burned for each task completed, thus ensuring that every task not only rewards the doer, but reduces our supply over time, creating deflationary pressure on the token supply.
 
